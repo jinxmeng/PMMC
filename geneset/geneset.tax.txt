@@ -1,0 +1,6 @@
+name	n	n_million	prec
+Archaea	166150	0.16615	0.37%
+Bacteria	27941648	27.941648	62.43%
+Eukaryota	562321	0.562321	1.26%
+Viruses	1482266	1.482266	3.31%
+Unknown	14604338	14.604338	32.63%
