@@ -1,0 +1,171 @@
+lvB	lvC	n
+Amino acid metabolism	"Alanine, aspartate and glutamate metabolism [PATH:ko00250]"	66
+Amino acid metabolism	"Glycine, serine and threonine metabolism [PATH:ko00260]"	104
+Amino acid metabolism	"Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]"	70
+Amino acid metabolism	"Valine, leucine and isoleucine biosynthesis [PATH:ko00290]"	17
+Amino acid metabolism	"Valine, leucine and isoleucine degradation [PATH:ko00280]"	65
+Amino acid metabolism	Arginine and proline metabolism [PATH:ko00330]	98
+Amino acid metabolism	Arginine biosynthesis [PATH:ko00220]	57
+Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	117
+Amino acid metabolism	Histidine metabolism [PATH:ko00340]	44
+Amino acid metabolism	Lysine biosynthesis [PATH:ko00300]	47
+Amino acid metabolism	Lysine degradation [PATH:ko00310]	90
+Amino acid metabolism	Phenylalanine metabolism [PATH:ko00360]	65
+Amino acid metabolism	Tryptophan metabolism [PATH:ko00380]	64
+Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	71
+Biosynthesis of other secondary metabolites	"Neomycin, kanamycin and gentamicin biosynthesis [PATH:ko00524]"	11
+Biosynthesis of other secondary metabolites	"Stilbenoid, diarylheptanoid and gingerol biosynthesis [PATH:ko00945]"	6
+Biosynthesis of other secondary metabolites	"Tropane, piperidine and pyridine alkaloid biosynthesis [PATH:ko00960]"	21
+Biosynthesis of other secondary metabolites	Acarbose and validamycin biosynthesis [PATH:ko00525]	16
+Biosynthesis of other secondary metabolites	Aflatoxin biosynthesis [PATH:ko00254]	16
+Biosynthesis of other secondary metabolites	Anthocyanin biosynthesis [PATH:ko00942]	3
+Biosynthesis of other secondary metabolites	Benzoxazinoid biosynthesis [PATH:ko00402]	8
+Biosynthesis of other secondary metabolites	Betalain biosynthesis [PATH:ko00965]	5
+Biosynthesis of other secondary metabolites	Biosynthesis of various alkaloids [PATH:ko00996]	4
+Biosynthesis of other secondary metabolites	Biosynthesis of various antibiotics [PATH:ko00998]	33
+Biosynthesis of other secondary metabolites	Biosynthesis of various other secondary metabolites [PATH:ko00997]	24
+Biosynthesis of other secondary metabolites	Biosynthesis of various plant secondary metabolites [PATH:ko00999]	24
+Biosynthesis of other secondary metabolites	Caffeine metabolism [PATH:ko00232]	6
+Biosynthesis of other secondary metabolites	Carbapenem biosynthesis [PATH:ko00332]	10
+Biosynthesis of other secondary metabolites	Clavulanic acid biosynthesis [PATH:ko00331]	2
+Biosynthesis of other secondary metabolites	Degradation of flavonoids [PATH:ko00946]	21
+Biosynthesis of other secondary metabolites	Flavone and flavonol biosynthesis [PATH:ko00944]	9
+Biosynthesis of other secondary metabolites	Flavonoid biosynthesis [PATH:ko00941]	17
+Biosynthesis of other secondary metabolites	Glucosinolate biosynthesis [PATH:ko00966]	4
+Biosynthesis of other secondary metabolites	Indole alkaloid biosynthesis [PATH:ko00901]	4
+Biosynthesis of other secondary metabolites	Indole diterpene alkaloid biosynthesis [PATH:ko00403]	2
+Biosynthesis of other secondary metabolites	Isoflavonoid biosynthesis [PATH:ko00943]	7
+Biosynthesis of other secondary metabolites	Isoquinoline alkaloid biosynthesis [PATH:ko00950]	22
+Biosynthesis of other secondary metabolites	Monobactam biosynthesis [PATH:ko00261]	26
+Biosynthesis of other secondary metabolites	Novobiocin biosynthesis [PATH:ko00401]	17
+Biosynthesis of other secondary metabolites	Penicillin and cephalosporin biosynthesis [PATH:ko00311]	11
+Biosynthesis of other secondary metabolites	Phenazine biosynthesis [PATH:ko00405]	12
+Biosynthesis of other secondary metabolites	Phenylpropanoid biosynthesis [PATH:ko00940]	20
+Biosynthesis of other secondary metabolites	Prodigiosin biosynthesis [PATH:ko00333]	15
+Biosynthesis of other secondary metabolites	Staurosporine biosynthesis [PATH:ko00404]	17
+Biosynthesis of other secondary metabolites	Streptomycin biosynthesis [PATH:ko00521]	18
+Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism [PATH:ko00520]	149
+Carbohydrate metabolism	Ascorbate and aldarate metabolism [PATH:ko00053]	55
+Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	106
+Carbohydrate metabolism	C5-Branched dibasic acid metabolism [PATH:ko00660]	23
+Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	62
+Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	110
+Carbohydrate metabolism	Galactose metabolism [PATH:ko00052]	70
+Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	99
+Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	97
+Carbohydrate metabolism	Inositol phosphate metabolism [PATH:ko00562]	69
+Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	86
+Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	80
+Carbohydrate metabolism	Propanoate metabolism [PATH:ko00640]	93
+Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	127
+Carbohydrate metabolism	Starch and sucrose metabolism [PATH:ko00500]	102
+Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	34
+Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	101
+Energy metabolism	Methane metabolism [PATH:ko00680]	190
+Energy metabolism	Nitrogen metabolism [PATH:ko00910]	62
+Energy metabolism	Oxidative phosphorylation [PATH:ko00190]	198
+Energy metabolism	Photosynthesis - antenna proteins [PATH:ko00196]	13
+Energy metabolism	Photosynthesis [PATH:ko00195]	45
+Energy metabolism	Sulfur metabolism [PATH:ko00920]	100
+Glycan biosynthesis and metabolism	Arabinogalactan biosynthesis - Mycobacterium [PATH:ko00572]	12
+Glycan biosynthesis and metabolism	Exopolysaccharide biosynthesis [PATH:ko00543]	67
+Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate [PATH:ko00532]	13
+Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - heparan sulfate / heparin [PATH:ko00534]	17
+Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - keratan sulfate [PATH:ko00533]	5
+Glycan biosynthesis and metabolism	Glycosaminoglycan degradation [PATH:ko00531]	14
+Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - ganglio series [PATH:ko00604]	4
+Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - globo and isoglobo series [PATH:ko00603]	11
+Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - lacto and neolacto series [PATH:ko00601]	13
+Glycan biosynthesis and metabolism	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis [PATH:ko00563]	26
+Glycan biosynthesis and metabolism	Lipoarabinomannan (LAM) biosynthesis [PATH:ko00571]	14
+Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis [PATH:ko00540]	61
+Glycan biosynthesis and metabolism	Mannose type O-glycan biosynthesis [PATH:ko00515]	12
+Glycan biosynthesis and metabolism	Mucin type O-glycan biosynthesis [PATH:ko00512]	6
+Glycan biosynthesis and metabolism	N-Glycan biosynthesis [PATH:ko00510]	39
+Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis [PATH:ko00541]	81
+Glycan biosynthesis and metabolism	O-Antigen repeat unit biosynthesis [PATH:ko00542]	34
+Glycan biosynthesis and metabolism	Other glycan degradation [PATH:ko00511]	19
+Glycan biosynthesis and metabolism	Other types of O-glycan biosynthesis [PATH:ko00514]	23
+Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis [PATH:ko00550]	53
+Glycan biosynthesis and metabolism	Teichoic acid biosynthesis [PATH:ko00552]	41
+Glycan biosynthesis and metabolism	Various types of N-glycan biosynthesis [PATH:ko00513]	44
+Lipid metabolism	"Cutin, suberine and wax biosynthesis [PATH:ko00073]"	13
+Lipid metabolism	Arachidonic acid metabolism [PATH:ko00590]	30
+Lipid metabolism	Biosynthesis of unsaturated fatty acids [PATH:ko01040]	31
+Lipid metabolism	Ether lipid metabolism [PATH:ko00565]	29
+Lipid metabolism	Fatty acid biosynthesis [PATH:ko00061]	40
+Lipid metabolism	Fatty acid degradation [PATH:ko00071]	48
+Lipid metabolism	Fatty acid elongation [PATH:ko00062]	22
+Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	82
+Lipid metabolism	Glycerophospholipid metabolism [PATH:ko00564]	113
+Lipid metabolism	Linoleic acid metabolism [PATH:ko00591]	14
+Lipid metabolism	Primary bile acid biosynthesis [PATH:ko00120]	11
+Lipid metabolism	Secondary bile acid biosynthesis [PATH:ko00121]	10
+Lipid metabolism	Sphingolipid metabolism [PATH:ko00600]	44
+Lipid metabolism	Steroid biosynthesis [PATH:ko00100]	28
+Lipid metabolism	Steroid hormone biosynthesis [PATH:ko00140]	22
+Lipid metabolism	alpha-Linolenic acid metabolism [PATH:ko00592]	25
+Metabolism of cofactors and vitamins	Biotin metabolism [PATH:ko00780]	23
+Metabolism of cofactors and vitamins	Folate biosynthesis [PATH:ko00790]	78
+Metabolism of cofactors and vitamins	Lipoic acid metabolism [PATH:ko00785]	29
+Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism [PATH:ko00760]	82
+Metabolism of cofactors and vitamins	One carbon pool by folate [PATH:ko00670]	36
+Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis [PATH:ko00770]	44
+Metabolism of cofactors and vitamins	Porphyrin metabolism [PATH:ko00860]	128
+Metabolism of cofactors and vitamins	Retinol metabolism [PATH:ko00830]	21
+Metabolism of cofactors and vitamins	Riboflavin metabolism [PATH:ko00740]	49
+Metabolism of cofactors and vitamins	Thiamine metabolism [PATH:ko00730]	36
+Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]	54
+Metabolism of cofactors and vitamins	Vitamin B6 metabolism [PATH:ko00750]	24
+Metabolism of other amino acids	Cyanoamino acid metabolism [PATH:ko00460]	26
+Metabolism of other amino acids	D-Amino acid metabolism [PATH:ko00470]	52
+Metabolism of other amino acids	Glutathione metabolism [PATH:ko00480]	50
+Metabolism of other amino acids	Phosphonate and phosphinate metabolism [PATH:ko00440]	25
+Metabolism of other amino acids	Selenocompound metabolism [PATH:ko00450]	29
+Metabolism of other amino acids	Taurine and hypotaurine metabolism [PATH:ko00430]	28
+Metabolism of other amino acids	beta-Alanine metabolism [PATH:ko00410]	46
+Metabolism of terpenoids and polyketides	"Biosynthesis of 12-, 14- and 16-membered macrolides [PATH:ko00522]"	20
+Metabolism of terpenoids and polyketides	"Pinene, camphor and geraniol degradation [PATH:ko00907]"	20
+Metabolism of terpenoids and polyketides	Biosynthesis of ansamycins [PATH:ko01051]	29
+Metabolism of terpenoids and polyketides	Biosynthesis of enediyne antibiotics [PATH:ko01059]	46
+Metabolism of terpenoids and polyketides	Biosynthesis of siderophore group nonribosomal peptides [PATH:ko01053]	31
+Metabolism of terpenoids and polyketides	Biosynthesis of type II polyketide backbone [PATH:ko01056]	7
+Metabolism of terpenoids and polyketides	Biosynthesis of type II polyketide products [PATH:ko01057]	41
+Metabolism of terpenoids and polyketides	Biosynthesis of vancomycin group antibiotics [PATH:ko01055]	22
+Metabolism of terpenoids and polyketides	Brassinosteroid biosynthesis [PATH:ko00905]	8
+Metabolism of terpenoids and polyketides	Carotenoid biosynthesis [PATH:ko00906]	46
+Metabolism of terpenoids and polyketides	Diterpenoid biosynthesis [PATH:ko00904]	18
+Metabolism of terpenoids and polyketides	Insect hormone biosynthesis [PATH:ko00981]	14
+Metabolism of terpenoids and polyketides	Limonene degradation [PATH:ko00903]	6
+Metabolism of terpenoids and polyketides	Monoterpenoid biosynthesis [PATH:ko00902]	4
+Metabolism of terpenoids and polyketides	Nonribosomal peptide structures [PATH:ko01054]	40
+Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis [PATH:ko00523]	39
+Metabolism of terpenoids and polyketides	Sesquiterpenoid and triterpenoid biosynthesis [PATH:ko00909]	18
+Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis [PATH:ko00900]	56
+Metabolism of terpenoids and polyketides	Tetracycline biosynthesis [PATH:ko00253]	14
+Metabolism of terpenoids and polyketides	Type I polyketide structures [PATH:ko01052]	81
+Metabolism of terpenoids and polyketides	Zeatin biosynthesis [PATH:ko00908]	7
+Not included in regular maps	Global maps only	1
+Nucleotide metabolism	Purine metabolism [PATH:ko00230]	201
+Nucleotide metabolism	Pyrimidine metabolism [PATH:ko00240]	108
+Xenobiotics biodegradation and metabolism	Aminobenzoate degradation [PATH:ko00627]	74
+Xenobiotics biodegradation and metabolism	Atrazine degradation [PATH:ko00791]	13
+Xenobiotics biodegradation and metabolism	Benzoate degradation [PATH:ko00362]	94
+Xenobiotics biodegradation and metabolism	Bisphenol degradation [PATH:ko00363]	2
+Xenobiotics biodegradation and metabolism	Caprolactam degradation [PATH:ko00930]	19
+Xenobiotics biodegradation and metabolism	Chloroalkane and chloroalkene degradation [PATH:ko00625]	22
+Xenobiotics biodegradation and metabolism	Chlorocyclohexane and chlorobenzene degradation [PATH:ko00361]	25
+Xenobiotics biodegradation and metabolism	Dioxin degradation [PATH:ko00621]	20
+Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450 [PATH:ko00982]	13
+Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes [PATH:ko00983]	30
+Xenobiotics biodegradation and metabolism	Ethylbenzene degradation [PATH:ko00642]	10
+Xenobiotics biodegradation and metabolism	Fluorobenzoate degradation [PATH:ko00364]	10
+Xenobiotics biodegradation and metabolism	Furfural degradation [PATH:ko00365]	8
+Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980]	19
+Xenobiotics biodegradation and metabolism	Naphthalene degradation [PATH:ko00626]	14
+Xenobiotics biodegradation and metabolism	Nitrotoluene degradation [PATH:ko00633]	19
+Xenobiotics biodegradation and metabolism	Polycyclic aromatic hydrocarbon degradation [PATH:ko00624]	34
+Xenobiotics biodegradation and metabolism	Steroid degradation [PATH:ko00984]	15
+Xenobiotics biodegradation and metabolism	Styrene degradation [PATH:ko00643]	21
+Xenobiotics biodegradation and metabolism	Toluene degradation [PATH:ko00623]	33
+Xenobiotics biodegradation and metabolism	Xylene degradation [PATH:ko00622]	28
