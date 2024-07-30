@@ -1,0 +1,4086 @@
+DATASET_COLORSTRIP				
+SEPARATOR TAB				
+#SEPARATOR COMMA				
+#SEPARATOR SPACE				
+				
+#数据集名
+DATASET_LABEL	strip_expand			
+#数据集的颜色				
+COLOR	#ff0000			
+COLOR_BRANCHES	0			
+				
+#元素类型				
+#1: square				
+#2: circle				
+#3: star				
+#4: right pointing triangle				
+#5: left pointing triangle				
+#6: checkmark				
+				
+# 图例				
+LEGEND_TITLE	expand			
+#LEGEND_POSITION_X	100			
+#LEGEND_POSITION_Y	100			
+#LEGEND_HORIZONTAL	0			
+LEGEND_SHAPES	1	1		
+LEGEND_COLORS	#1e497b	#ffffff		
+LEGEND_LABELS	expand	unExpand		
+#LEGEND_SHAPE_SCALES	1	1	0.5	1
+				
+#条形的宽
+STRIP_WIDTH	30		
+# left margin, 与内圈的距离		
+MARGIN	30			
+#border width strip的边框线的粗
+BORDER_WIDTH	0			
+#border color; strip的边框线的颜色，默认就是黑色				
+#BORDER_COLOR #000000				
+#if set to 1, border will be drawn completely around each colored strip box	
+#COMPLETE_BORDER 0				
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display
+#SHOW_INTERNAL 0				
+#display or hide the individual label inside each colored strip (when defined in the data below)				
+#SHOW_STRIP_LABELS 1				
+#position of the strip label within the box; 'top', 'center' or 'bottom'	
+#STRIP_LABEL_POSITION center				
+#strip label size factor (relative to the tree leaf labels)				
+#STRIP_LABEL_SIZE_FACTOR 1				
+#rotation of the strip labels; used only in rectangular tree display mode				
+#STRIP_LABEL_ROTATION 0				
+#strip label shift in pixels (positive or negative)				
+#STRIP_LABEL_SHIFT 0				
+#STRIP_LABEL_COLOR #000000				
+#draw a black outline around the text (width in pixels)				
+#STRIP_LABEL_OUTLINE 0.5				
+#display or hide the dataset label above the colored strip				
+#SHOW_LABELS 1				
+#dataset label size factor				
+#SIZE_FACTOR 1				
+#dataset label rotation				
+#LABEL_ROTATION 0				
+#dataset label shift in pixels (positive or negative)				
+#LABEL_SHIFT 0				
+				
+DATA				
+#节点，颜色，名称				
+BL1	#f6cc38	Yes
+BL4	#f6cc38	Yes
+CH10	#f6cc38	Yes
+CH17	#f6cc38	Yes
+CH18	#f6cc38	Yes
+CH19	#f6cc38	Yes
+CH2	#f6cc38	Yes
+CH3	#f6cc38	Yes
+CH35	#f6cc38	Yes
+CH37	#f6cc38	Yes
+CH38	#f6cc38	Yes
+CH39	#f6cc38	Yes
+CH40	#f6cc38	Yes
+CH42	#f6cc38	Yes
+CH8	#f6cc38	Yes
+G47	#f6cc38	Yes
+G59	#f6cc38	Yes
+G66	#f6cc38	Yes
+G88	#f6cc38	Yes
+G90	#f6cc38	Yes
+H100	#f6cc38	Yes
+H106	#f6cc38	Yes
+H112	#f6cc38	Yes
+H124	#f6cc38	Yes
+H186	#f6cc38	Yes
+H19	#f6cc38	Yes
+H198	#f6cc38	Yes
+H2	#f6cc38	Yes
+H222	#f6cc38	Yes
+H31	#f6cc38	Yes
+H36	#f6cc38	Yes
+H52	#f6cc38	Yes
+H53	#f6cc38	Yes
+H64	#f6cc38	Yes
+H70	#f6cc38	Yes
+H98	#f6cc38	Yes
+J1005	#f6cc38	Yes
+J1034	#f6cc38	Yes
+J1040	#f6cc38	Yes
+J1044	#f6cc38	Yes
+J1045	#f6cc38	Yes
+J1047	#f6cc38	Yes
+J1049	#f6cc38	Yes
+J1061	#f6cc38	Yes
+J1068	#f6cc38	Yes
+J1071	#f6cc38	Yes
+J1119	#f6cc38	Yes
+J1272	#f6cc38	Yes
+J131	#f6cc38	Yes
+J1347	#f6cc38	Yes
+J1364	#f6cc38	Yes
+J1365	#f6cc38	Yes
+J1369	#f6cc38	Yes
+J1385	#f6cc38	Yes
+J1391	#f6cc38	Yes
+J1394	#f6cc38	Yes
+J146	#f6cc38	Yes
+J244	#f6cc38	Yes
+J252	#f6cc38	Yes
+J267	#f6cc38	Yes
+J276	#f6cc38	Yes
+J28	#f6cc38	Yes
+J352	#f6cc38	Yes
+J373	#f6cc38	Yes
+J383	#f6cc38	Yes
+J387	#f6cc38	Yes
+J406	#f6cc38	Yes
+J410	#f6cc38	Yes
+J417	#f6cc38	Yes
+J427	#f6cc38	Yes
+J433	#f6cc38	Yes
+J458	#f6cc38	Yes
+J548	#f6cc38	Yes
+J941	#f6cc38	Yes
+K10	#f6cc38	Yes
+K21	#f6cc38	Yes
+K237	#f6cc38	Yes
+K260	#f6cc38	Yes
+K27	#f6cc38	Yes
+K297	#f6cc38	Yes
+K298	#f6cc38	Yes
+K299	#f6cc38	Yes
+K320	#f6cc38	Yes
+K329	#f6cc38	Yes
+K330	#f6cc38	Yes
+K331	#f6cc38	Yes
+K338	#f6cc38	Yes
+K340	#f6cc38	Yes
+K343	#f6cc38	Yes
+K72	#f6cc38	Yes
+PN10RA.bin.155	#f6cc38	Yes
+PN10RA.bin.62	#f6cc38	Yes
+PN10RA.bin.94	#f6cc38	Yes
+PN10RA.vae.1832	#f6cc38	Yes
+PN10RA.vae.27096	#f6cc38	Yes
+G32	#f6cc38	Yes
+PN10RA.vae.29982	#f6cc38	Yes
+PN10RA.vae.3369	#f6cc38	Yes
+PN10RA.vae.4826	#f6cc38	Yes
+PN10RA.vae.55780	#f6cc38	Yes
+PN10RA.vae.5622	#f6cc38	Yes
+PN10RA.vae.6800	#f6cc38	Yes
+PN10RA.vae.9727	#f6cc38	Yes
+PN10RB.bin.103	#f6cc38	Yes
+PN10RB.bin.140	#f6cc38	Yes
+PN10RB.bin.191	#f6cc38	Yes
+PN10RB.bin.67	#f6cc38	Yes
+PN10RB.bin.92	#f6cc38	Yes
+PN10RB.vae.13718	#f6cc38	Yes
+PN10RB.vae.21862	#f6cc38	Yes
+PN10RB.vae.3433	#f6cc38	Yes
+PN10RB.vae.4838	#f6cc38	Yes
+PN10RB.vae.48460	#f6cc38	Yes
+PN10RB.vae.57037	#f6cc38	Yes
+PN10RB.vae.64619	#f6cc38	Yes
+PN10RB.vae.6992	#f6cc38	Yes
+PN10RB.vae.75587	#f6cc38	Yes
+PN10RC.bin.106	#f6cc38	Yes
+PN10RC.bin.112	#f6cc38	Yes
+PN10RC.bin.31	#f6cc38	Yes
+PN10RC.bin.54	#f6cc38	Yes
+PN10RC.bin.78	#f6cc38	Yes
+PN10RC.vae.13532	#f6cc38	Yes
+PN10RC.vae.27098	#f6cc38	Yes
+PN10RC.vae.28904	#f6cc38	Yes
+PN10RC.vae.31866	#f6cc38	Yes
+PN10RC.vae.41493	#f6cc38	Yes
+PN10RC.vae.44463	#f6cc38	Yes
+PN10RC.vae.9875	#f6cc38	Yes
+PN10RD.bin.103	#f6cc38	Yes
+PN10RD.bin.125	#f6cc38	Yes
+PN10RD.bin.47	#f6cc38	Yes
+PN10RD.bin.63	#f6cc38	Yes
+PN10RD.vae.14324	#f6cc38	Yes
+PN10RD.vae.19703	#f6cc38	Yes
+PN10RD.vae.20059	#f6cc38	Yes
+PN10RD.vae.22907	#f6cc38	Yes
+PN10RD.vae.2387	#f6cc38	Yes
+PN10RD.vae.48954	#f6cc38	Yes
+PN10RD.vae.68802	#f6cc38	Yes
+PN10RD.vae.74052	#f6cc38	Yes
+PN10RD.vae.7968	#f6cc38	Yes
+PN10RD.vae.8579	#f6cc38	Yes
+PN10RD.vae.8840	#f6cc38	Yes
+PN10RE.bin.9	#f6cc38	Yes
+PN10RE.vae.1538	#f6cc38	Yes
+PN10RE.vae.1614	#f6cc38	Yes
+PN10RE.vae.17760	#f6cc38	Yes
+PN10RE.vae.27722	#f6cc38	Yes
+PN10RE.vae.3402	#f6cc38	Yes
+PN10RE.vae.4218	#f6cc38	Yes
+PN10RE.vae.4305	#f6cc38	Yes
+PN10RE.vae.8331	#f6cc38	Yes
+PN10RF.bin.114	#f6cc38	Yes
+PN10RF.bin.125	#f6cc38	Yes
+PN10RF.vae.113644	#f6cc38	Yes
+PN10RF.vae.16545	#f6cc38	Yes
+PN10RF.vae.20267	#f6cc38	Yes
+PN10RF.vae.20632	#f6cc38	Yes
+PN10RF.vae.20734	#f6cc38	Yes
+PN10RF.vae.2414	#f6cc38	Yes
+PN10RF.vae.3340	#f6cc38	Yes
+PN10RF.vae.5320	#f6cc38	Yes
+PN10RF.vae.699	#f6cc38	Yes
+PN10RF.vae.9549	#f6cc38	Yes
+PN10RG.bin.10	#f6cc38	Yes
+PN10RG.bin.62	#f6cc38	Yes
+PN10RG.bin.67	#f6cc38	Yes
+PN10RG.bin.90	#f6cc38	Yes
+PN10RG.vae.10218	#f6cc38	Yes
+PN10RG.vae.11046	#f6cc38	Yes
+PN10RG.vae.1394	#f6cc38	Yes
+PN10RG.vae.21728	#f6cc38	Yes
+PN10RG.vae.3528	#f6cc38	Yes
+PN10RG.vae.5488	#f6cc38	Yes
+PN10RG.vae.5708	#f6cc38	Yes
+PN10RG.vae.7479	#f6cc38	Yes
+PN10RH.bin.149	#f6cc38	Yes
+PN10RH.bin.70	#f6cc38	Yes
+PN10RH.vae.10354	#f6cc38	Yes
+PN10RH.vae.1653	#f6cc38	Yes
+PN10RH.vae.17351	#f6cc38	Yes
+PN10RH.vae.19470	#f6cc38	Yes
+PN10RH.vae.20479	#f6cc38	Yes
+PN10RH.vae.2465	#f6cc38	Yes
+PN10RH.vae.33272	#f6cc38	Yes
+PN10RH.vae.8546	#f6cc38	Yes
+PN10RI.bin.149	#f6cc38	Yes
+PN10RI.bin.32	#f6cc38	Yes
+PN10RI.vae.13870	#f6cc38	Yes
+PN10RI.vae.16715	#f6cc38	Yes
+PN10RI.vae.2334	#f6cc38	Yes
+PN10RI.vae.2839	#f6cc38	Yes
+PN10RI.vae.3953	#f6cc38	Yes
+PN10RI.vae.4874	#f6cc38	Yes
+PN10RI.vae.8529	#f6cc38	Yes
+PN10RJ.bin.144	#f6cc38	Yes
+PN10RJ.vae.13829	#f6cc38	Yes
+PN10RJ.vae.32410	#f6cc38	Yes
+PN10RJ.vae.349	#f6cc38	Yes
+PN10RJ.vae.37052	#f6cc38	Yes
+PN10RJ.vae.45911	#f6cc38	Yes
+PN10RJ.vae.47581	#f6cc38	Yes
+PN10RJ.vae.50602	#f6cc38	Yes
+PN10RJ.vae.57880	#f6cc38	Yes
+PN10RJ.vae.61585	#f6cc38	Yes
+PN10RJ.vae.62633	#f6cc38	Yes
+PN10RK.bin.123	#f6cc38	Yes
+PN10RK.bin.128	#f6cc38	Yes
+PN10RK.bin.14	#f6cc38	Yes
+PN10RK.bin.142	#f6cc38	Yes
+PN10RK.bin.20	#f6cc38	Yes
+PN10RK.bin.90	#f6cc38	Yes
+PN10RK.vae.17141	#f6cc38	Yes
+PN10RL.bin.111	#f6cc38	Yes
+PN10RL.bin.190	#f6cc38	Yes
+PN10RL.bin.49	#f6cc38	Yes
+PN10RL.bin.92	#f6cc38	Yes
+PN10RL.vae.12848	#f6cc38	Yes
+PN10RL.vae.13524	#f6cc38	Yes
+PN10RL.vae.16582	#f6cc38	Yes
+PN10RL.vae.25010	#f6cc38	Yes
+PN10RL.vae.5968	#f6cc38	Yes
+PN10RL.vae.8572	#f6cc38	Yes
+PN10RM.bin.143	#f6cc38	Yes
+PN10RM.vae.1005	#f6cc38	Yes
+PN10RM.vae.18158	#f6cc38	Yes
+PN10RM.vae.3742	#f6cc38	Yes
+PN10RM.vae.5165	#f6cc38	Yes
+PN10RN.bin.73	#f6cc38	Yes
+PN10RN.vae.10565	#f6cc38	Yes
+PN10RN.vae.11384	#f6cc38	Yes
+PN10RN.vae.15034	#f6cc38	Yes
+PN10RN.vae.21619	#f6cc38	Yes
+PN10RN.vae.30074	#f6cc38	Yes
+PN10RN.vae.40463	#f6cc38	Yes
+PN10RN.vae.46581	#f6cc38	Yes
+PN10RN.vae.57081	#f6cc38	Yes
+PN10RO.bin.11	#f6cc38	Yes
+PN10RO.bin.29	#f6cc38	Yes
+PN10RO.bin.61	#f6cc38	Yes
+PN10RO.vae.13950	#f6cc38	Yes
+PN10RO.vae.13997	#f6cc38	Yes
+PN10RO.vae.16077	#f6cc38	Yes
+PN10RO.vae.2161	#f6cc38	Yes
+PN10RO.vae.27464	#f6cc38	Yes
+PN10RO.vae.32421	#f6cc38	Yes
+PN10RO.vae.37307	#f6cc38	Yes
+PN10RO.vae.6229	#f6cc38	Yes
+PN10RP.bin.145	#f6cc38	Yes
+PN10RP.bin.155	#f6cc38	Yes
+PN10RP.bin.165	#f6cc38	Yes
+PN10RP.vae.10512	#f6cc38	Yes
+PN10RP.vae.12108	#f6cc38	Yes
+PN10RP.vae.14678	#f6cc38	Yes
+PN10RP.vae.19310	#f6cc38	Yes
+PN10RP.vae.2380	#f6cc38	Yes
+PN10RP.vae.24027	#f6cc38	Yes
+PN10RP.vae.47458	#f6cc38	Yes
+PN10RP.vae.6232	#f6cc38	Yes
+PN10RQ.bin.150	#f6cc38	Yes
+PN10RQ.bin.6	#f6cc38	Yes
+PN10RQ.bin.60	#f6cc38	Yes
+PN10RQ.vae.11348	#f6cc38	Yes
+PN10RQ.vae.1396	#f6cc38	Yes
+PN10RQ.vae.15095	#f6cc38	Yes
+PN10RQ.vae.15902	#f6cc38	Yes
+PN10RQ.vae.15914	#f6cc38	Yes
+PN10RQ.vae.776	#f6cc38	Yes
+PN10RQ.vae.9163	#f6cc38	Yes
+PN10RR.bin.26	#f6cc38	Yes
+PN10RR.bin.46	#f6cc38	Yes
+PN10RR.bin.87	#f6cc38	Yes
+PN10RR.vae.128	#f6cc38	Yes
+PN10RR.vae.17193	#f6cc38	Yes
+PN10RR.vae.34732	#f6cc38	Yes
+PN10RR.vae.3741	#f6cc38	Yes
+PN10RR.vae.48913	#f6cc38	Yes
+PN10RR.vae.7086	#f6cc38	Yes
+PN10RR.vae.8239	#f6cc38	Yes
+PN10RR.vae.8832	#f6cc38	Yes
+PN10RS.bin.164	#f6cc38	Yes
+PN10RS.bin.30	#f6cc38	Yes
+PN10RS.vae.17941	#f6cc38	Yes
+PN10RS.vae.20148	#f6cc38	Yes
+PN10RS.vae.20750	#f6cc38	Yes
+PN10RS.vae.21007	#f6cc38	Yes
+PN10RS.vae.30335	#f6cc38	Yes
+PN10RS.vae.30369	#f6cc38	Yes
+PN10RS.vae.34978	#f6cc38	Yes
+PN10RS.vae.37188	#f6cc38	Yes
+PN10RS.vae.48866	#f6cc38	Yes
+PN10RS.vae.51532	#f6cc38	Yes
+PN10RS.vae.6037	#f6cc38	Yes
+PN10RS.vae.8767	#f6cc38	Yes
+PN10RS.vae.9089	#f6cc38	Yes
+PN10RS.vae.919	#f6cc38	Yes
+PN11RA.bin.131	#f6cc38	Yes
+PN11RA.bin.146	#f6cc38	Yes
+PN11RA.bin.188	#f6cc38	Yes
+PN11RA.bin.214	#f6cc38	Yes
+PN11RA.bin.228	#f6cc38	Yes
+PN11RA.bin.84	#f6cc38	Yes
+PN11RA.vae.1033	#f6cc38	Yes
+PN11RA.vae.12817	#f6cc38	Yes
+PN11RA.vae.13774	#f6cc38	Yes
+PN11RA.vae.22660	#f6cc38	Yes
+PN11RA.vae.3778	#f6cc38	Yes
+PN11RA.vae.4471	#f6cc38	Yes
+PN11RA.vae.49668	#f6cc38	Yes
+PN11RA.vae.8181	#f6cc38	Yes
+PN11RB.bin.71	#f6cc38	Yes
+PN11RB.bin.80	#f6cc38	Yes
+PN11RB.vae.1260	#f6cc38	Yes
+PN11RB.vae.23289	#f6cc38	Yes
+PN11RB.vae.3775	#f6cc38	Yes
+PN11RC.bin.20	#f6cc38	Yes
+PN11RC.bin.66	#f6cc38	Yes
+PN11RC.bin.79	#f6cc38	Yes
+PN11RC.vae.26380	#f6cc38	Yes
+PN11RC.vae.53609	#f6cc38	Yes
+PN11RD.bin.129	#f6cc38	Yes
+PN11RD.bin.63	#f6cc38	Yes
+PN11RD.vae.10428	#f6cc38	Yes
+PN11RD.vae.10849	#f6cc38	Yes
+PN11RD.vae.20653	#f6cc38	Yes
+PN11RD.vae.35449	#f6cc38	Yes
+PN11RD.vae.6557	#f6cc38	Yes
+PN11RE.bin.108	#f6cc38	Yes
+PN11RE.bin.119	#f6cc38	Yes
+PN11RE.bin.157	#f6cc38	Yes
+PN11RE.bin.164	#f6cc38	Yes
+PN11RE.bin.178	#f6cc38	Yes
+PN11RE.bin.179	#f6cc38	Yes
+PN11RE.bin.23	#f6cc38	Yes
+PN11RE.bin.27	#f6cc38	Yes
+PN11RE.bin.38	#f6cc38	Yes
+PN11RE.bin.56	#f6cc38	Yes
+PN11RE.bin.6	#f6cc38	Yes
+PN11RE.bin.77	#f6cc38	Yes
+PN11RE.bin.79	#f6cc38	Yes
+PN11RE.bin.91	#f6cc38	Yes
+PN11RE.vae.12252	#f6cc38	Yes
+PN11RE.vae.18868	#f6cc38	Yes
+PN11RE.vae.18999	#f6cc38	Yes
+PN11RE.vae.24347	#f6cc38	Yes
+PN11RE.vae.36472	#f6cc38	Yes
+PN11RE.vae.39460	#f6cc38	Yes
+PN11RE.vae.3978	#f6cc38	Yes
+PN11RE.vae.50946	#f6cc38	Yes
+PN11RE.vae.938	#f6cc38	Yes
+PN11RF.bin.105	#f6cc38	Yes
+PN11RF.bin.127	#f6cc38	Yes
+PN11RF.bin.189	#f6cc38	Yes
+PN11RF.bin.34	#f6cc38	Yes
+PN11RF.bin.47	#f6cc38	Yes
+PN11RF.vae.10757	#f6cc38	Yes
+PN11RF.vae.11531	#f6cc38	Yes
+PN11RF.vae.12622	#f6cc38	Yes
+PN11RF.vae.14504	#f6cc38	Yes
+PN11RF.vae.18451	#f6cc38	Yes
+PN11RF.vae.26781	#f6cc38	Yes
+PN11RF.vae.27363	#f6cc38	Yes
+PN11RF.vae.6661	#f6cc38	Yes
+PN11RF.vae.7841	#f6cc38	Yes
+PN11RF.vae.8556	#f6cc38	Yes
+PN11RF.vae.962	#f6cc38	Yes
+PN11RG.bin.1	#f6cc38	Yes
+PN11RG.bin.206	#f6cc38	Yes
+PN11RG.bin.82	#f6cc38	Yes
+PN11RG.vae.16435	#f6cc38	Yes
+PN11RG.vae.2977	#f6cc38	Yes
+PN11RG.vae.32922	#f6cc38	Yes
+PN11RG.vae.33099	#f6cc38	Yes
+PN11RG.vae.37198	#f6cc38	Yes
+PN11RG.vae.47579	#f6cc38	Yes
+PN11RG.vae.78453	#f6cc38	Yes
+PN11RG.vae.87033	#f6cc38	Yes
+PN11RH.bin.1	#f6cc38	Yes
+PN11RH.bin.10	#f6cc38	Yes
+PN11RH.bin.120	#f6cc38	Yes
+PN11RH.bin.174	#f6cc38	Yes
+PN11RH.bin.191	#f6cc38	Yes
+PN11RH.bin.211	#f6cc38	Yes
+PN11RH.bin.22	#f6cc38	Yes
+PN11RH.bin.78	#f6cc38	Yes
+PN11RH.vae.13129	#f6cc38	Yes
+PN11RH.vae.15484	#f6cc38	Yes
+PN11RH.vae.919	#f6cc38	Yes
+PN11RH.vae.9796	#f6cc38	Yes
+PN11RI.bin.118	#f6cc38	Yes
+PN11RI.bin.137	#f6cc38	Yes
+PN11RI.bin.143	#f6cc38	Yes
+PN11RI.bin.22	#f6cc38	Yes
+PN11RI.vae.14133	#f6cc38	Yes
+PN11RI.vae.288	#f6cc38	Yes
+PN11RI.vae.29069	#f6cc38	Yes
+PN11RI.vae.313	#f6cc38	Yes
+PN11RI.vae.52251	#f6cc38	Yes
+PN11RI.vae.5791	#f6cc38	Yes
+PN11RI.vae.8176	#f6cc38	Yes
+PN11RJ.bin.152	#f6cc38	Yes
+PN11RJ.bin.205	#f6cc38	Yes
+PN11RJ.vae.16782	#f6cc38	Yes
+PN11RJ.vae.25070	#f6cc38	Yes
+PN11RJ.vae.31056	#f6cc38	Yes
+PN11RJ.vae.38048	#f6cc38	Yes
+PN11RJ.vae.39599	#f6cc38	Yes
+PN11RJ.vae.75920	#f6cc38	Yes
+PN11RK.bin.108	#f6cc38	Yes
+PN11RK.bin.18	#f6cc38	Yes
+PN11RK.bin.57	#f6cc38	Yes
+PN11RK.bin.88	#f6cc38	Yes
+PN11RK.vae.11075	#f6cc38	Yes
+PN11RK.vae.11286	#f6cc38	Yes
+PN11RK.vae.14576	#f6cc38	Yes
+PN11RK.vae.14765	#f6cc38	Yes
+PN11RK.vae.24606	#f6cc38	Yes
+PN11RK.vae.26252	#f6cc38	Yes
+PN11RK.vae.27069	#f6cc38	Yes
+PN11RK.vae.34303	#f6cc38	Yes
+PN11RK.vae.7492	#f6cc38	Yes
+PN11RL.bin.2	#f6cc38	Yes
+PN11RL.vae.5202	#f6cc38	Yes
+PN11RL.vae.8438	#f6cc38	Yes
+PN11RM.bin.146	#f6cc38	Yes
+PN11RM.bin.222	#f6cc38	Yes
+PN11RM.bin.26	#f6cc38	Yes
+PN11RM.bin.89	#f6cc38	Yes
+PN11RM.vae.18554	#f6cc38	Yes
+PN11RM.vae.229	#f6cc38	Yes
+PN11RM.vae.24886	#f6cc38	Yes
+PN11RM.vae.28195	#f6cc38	Yes
+PN11RM.vae.34038	#f6cc38	Yes
+PN11RM.vae.652	#f6cc38	Yes
+PN11RN.bin.103	#f6cc38	Yes
+PN11RN.bin.16	#f6cc38	Yes
+PN11RN.bin.172	#f6cc38	Yes
+PN11RN.bin.183	#f6cc38	Yes
+PN11RN.bin.19	#f6cc38	Yes
+PN11RN.bin.22	#f6cc38	Yes
+PN11RN.bin.28	#f6cc38	Yes
+PN11RN.bin.36	#f6cc38	Yes
+PN11RN.bin.44	#f6cc38	Yes
+PN11RN.bin.60	#f6cc38	Yes
+PN11RN.bin.80	#f6cc38	Yes
+PN11RN.bin.84	#f6cc38	Yes
+PN11RN.bin.93	#f6cc38	Yes
+PN11RN.vae.11300	#f6cc38	Yes
+PN11RN.vae.1704	#f6cc38	Yes
+PN11RN.vae.7658	#f6cc38	Yes
+PN11RN.vae.8734	#f6cc38	Yes
+PN11RN.vae.9868	#f6cc38	Yes
+PN11RO.bin.104	#f6cc38	Yes
+PN11RO.bin.126	#f6cc38	Yes
+PN11RO.bin.14	#f6cc38	Yes
+PN11RO.bin.161	#f6cc38	Yes
+PN11RO.bin.183	#f6cc38	Yes
+PN11RO.bin.30	#f6cc38	Yes
+PN11RO.vae.12524	#f6cc38	Yes
+PN11RO.vae.14092	#f6cc38	Yes
+PN11RO.vae.14900	#f6cc38	Yes
+PN11RO.vae.18905	#f6cc38	Yes
+PN11RO.vae.19172	#f6cc38	Yes
+PN11RO.vae.26127	#f6cc38	Yes
+PN11RO.vae.6781	#f6cc38	Yes
+PN12RA.bin.101	#f6cc38	Yes
+PN12RA.bin.143	#f6cc38	Yes
+PN12RA.bin.183	#f6cc38	Yes
+PN12RA.bin.49	#f6cc38	Yes
+PN12RA.bin.54	#f6cc38	Yes
+PN12RA.vae.49175	#f6cc38	Yes
+PN12RA.vae.7343	#f6cc38	Yes
+PN12RA.vae.7782	#f6cc38	Yes
+PN12RB.bin.5	#f6cc38	Yes
+PN12RB.bin.9	#f6cc38	Yes
+PN12RB.bin.95	#f6cc38	Yes
+PN12RB.vae.14741	#f6cc38	Yes
+PN12RB.vae.36045	#f6cc38	Yes
+PN12RB.vae.57498	#f6cc38	Yes
+PN12RB.vae.9771	#f6cc38	Yes
+PN12RC.bin.100	#f6cc38	Yes
+PN12RC.bin.135	#f6cc38	Yes
+PN12RC.bin.21	#f6cc38	Yes
+PN12RC.bin.3	#f6cc38	Yes
+PN12RC.bin.33	#f6cc38	Yes
+PN12RC.vae.4146	#f6cc38	Yes
+PN12RC.vae.6321	#f6cc38	Yes
+PN12RD.bin.155	#f6cc38	Yes
+PN12RD.bin.160	#f6cc38	Yes
+PN12RD.bin.54	#f6cc38	Yes
+PN12RD.bin.73	#f6cc38	Yes
+PN12RD.vae.10282	#f6cc38	Yes
+PN12RD.vae.10523	#f6cc38	Yes
+PN12RD.vae.20200	#f6cc38	Yes
+PN12RD.vae.22189	#f6cc38	Yes
+PN12RD.vae.5182	#f6cc38	Yes
+PN12RD.vae.6216	#f6cc38	Yes
+PN12RD.vae.6430	#f6cc38	Yes
+PN12RD.vae.6836	#f6cc38	Yes
+PN12RE.bin.1	#f6cc38	Yes
+PN12RE.bin.11	#f6cc38	Yes
+PN12RE.bin.117	#f6cc38	Yes
+PN12RE.bin.122	#f6cc38	Yes
+PN12RE.bin.24	#f6cc38	Yes
+PN12RE.bin.72	#f6cc38	Yes
+PN12RE.bin.91	#f6cc38	Yes
+PN12RE.vae.2368	#f6cc38	Yes
+PN12RE.vae.2619	#f6cc38	Yes
+PN12RE.vae.6990	#f6cc38	Yes
+PN12RF.bin.54	#f6cc38	Yes
+PN12RF.vae.47732	#f6cc38	Yes
+PN12RG.bin.23	#f6cc38	Yes
+PN12RG.bin.34	#f6cc38	Yes
+PN12RG.bin.56	#f6cc38	Yes
+PN12RG.bin.96	#f6cc38	Yes
+PN12RG.vae.22175	#f6cc38	Yes
+PN12RG.vae.23805	#f6cc38	Yes
+PN12RG.vae.28594	#f6cc38	Yes
+PN12RG.vae.54143	#f6cc38	Yes
+PN12RG.vae.7281	#f6cc38	Yes
+PN12RH.bin.7	#f6cc38	Yes
+PN12RH.vae.10048	#f6cc38	Yes
+PN12RH.vae.10178	#f6cc38	Yes
+PN12RH.vae.10325	#f6cc38	Yes
+PN12RI.bin.136	#f6cc38	Yes
+PN12RI.bin.163	#f6cc38	Yes
+PN12RI.bin.72	#f6cc38	Yes
+PN12RI.vae.26997	#f6cc38	Yes
+PN12RI.vae.4991	#f6cc38	Yes
+PN12RI.vae.6826	#f6cc38	Yes
+PN12RI.vae.7954	#f6cc38	Yes
+PN12RI.vae.889	#f6cc38	Yes
+PN12RI.vae.9756	#f6cc38	Yes
+PN12RJ.bin.88	#f6cc38	Yes
+PN12RJ.vae.121	#f6cc38	Yes
+PN12RJ.vae.27043	#f6cc38	Yes
+PN12RJ.vae.3601	#f6cc38	Yes
+PN12RJ.vae.37198	#f6cc38	Yes
+PN13RA.bin.191	#f6cc38	Yes
+PN13RA.vae.11960	#f6cc38	Yes
+PN13RA.vae.27848	#f6cc38	Yes
+PN13RA.vae.28982	#f6cc38	Yes
+PN13RB.vae.23509	#f6cc38	Yes
+PN13RB.vae.2722	#f6cc38	Yes
+PN13RB.vae.40534	#f6cc38	Yes
+PN13RC.vae.13024	#f6cc38	Yes
+PN13RC.vae.55473	#f6cc38	Yes
+PN13RD.bin.42	#f6cc38	Yes
+PN13RD.bin.51	#f6cc38	Yes
+PN13RD.vae.7124	#f6cc38	Yes
+PN13RD.vae.8686	#f6cc38	Yes
+PN13RE.vae.22232	#f6cc38	Yes
+PN13RE.vae.32149	#f6cc38	Yes
+PN13RE.vae.33110	#f6cc38	Yes
+PN13RE.vae.39614	#f6cc38	Yes
+PN13RE.vae.41335	#f6cc38	Yes
+PN13RG.bin.125	#f6cc38	Yes
+PN13RG.bin.50	#f6cc38	Yes
+PN13RG.bin.72	#f6cc38	Yes
+PN13RG.vae.18065	#f6cc38	Yes
+PN13RG.vae.40950	#f6cc38	Yes
+PN13RG.vae.55	#f6cc38	Yes
+PN13RH.bin.132	#f6cc38	Yes
+PN13RH.bin.5	#f6cc38	Yes
+PN13RH.bin.85	#f6cc38	Yes
+PN13RH.vae.18563	#f6cc38	Yes
+PN13RH.vae.35795	#f6cc38	Yes
+PN13RI.bin.189	#f6cc38	Yes
+PN13RI.vae.4653	#f6cc38	Yes
+PN13RI.vae.5943	#f6cc38	Yes
+PN13RJ.bin.33	#f6cc38	Yes
+PN13RJ.bin.74	#f6cc38	Yes
+PN13RJ.vae.12167	#f6cc38	Yes
+PN13RK.bin.162	#f6cc38	Yes
+PN13RK.vae.19292	#f6cc38	Yes
+PN13RK.vae.955	#f6cc38	Yes
+PN13RL.bin.151	#f6cc38	Yes
+PN13RL.vae.10509	#f6cc38	Yes
+PN13RM.vae.18568	#f6cc38	Yes
+PN13RM.vae.5854	#f6cc38	Yes
+PN13RN.vae.1268	#f6cc38	Yes
+PN13RO.bin.182	#f6cc38	Yes
+PN13RO.vae.10291	#f6cc38	Yes
+PN13RP.vae.5514	#f6cc38	Yes
+PN13RQ.bin.227	#f6cc38	Yes
+PN13RQ.bin.59	#f6cc38	Yes
+PN13RQ.vae.27084	#f6cc38	Yes
+PN13RQ.vae.314	#f6cc38	Yes
+PN13RQ.vae.512	#f6cc38	Yes
+PN13RR.bin.66	#f6cc38	Yes
+PN13RR.vae.34023	#f6cc38	Yes
+PN13RS.vae.1267	#f6cc38	Yes
+PN13RS.vae.16054	#f6cc38	Yes
+PN13RS.vae.7612	#f6cc38	Yes
+PN13RS.vae.9334	#f6cc38	Yes
+PN13RT.bin.80	#f6cc38	Yes
+PN13RT.vae.17061	#f6cc38	Yes
+PN13RT.vae.3232	#f6cc38	Yes
+PN13RT.vae.344	#f6cc38	Yes
+PN13RT.vae.412	#f6cc38	Yes
+PN13RT.vae.9075	#f6cc38	Yes
+PN13RU.bin.189	#f6cc38	Yes
+PN13RU.vae.13142	#f6cc38	Yes
+PN13RU.vae.8201	#f6cc38	Yes
+PN14RA.vae.434	#f6cc38	Yes
+PN14RA.vae.900	#f6cc38	Yes
+PN14RB.bin.101	#f6cc38	Yes
+PN14RB.bin.163	#f6cc38	Yes
+PN14RB.bin.196	#f6cc38	Yes
+PN14RB.bin.43	#f6cc38	Yes
+PN14RB.bin.6	#f6cc38	Yes
+PN14RB.vae.21314	#f6cc38	Yes
+PN14RB.vae.23181	#f6cc38	Yes
+PN14RB.vae.26740	#f6cc38	Yes
+PN14RB.vae.5044	#f6cc38	Yes
+PN14RB.vae.64119	#f6cc38	Yes
+PN14RC.bin.172	#f6cc38	Yes
+PN14RC.bin.72	#f6cc38	Yes
+PN14RC.vae.13544	#f6cc38	Yes
+PN14RC.vae.5403	#f6cc38	Yes
+PN14RC.vae.6726	#f6cc38	Yes
+PN14RD.vae.1920	#f6cc38	Yes
+PN14RD.vae.35997	#f6cc38	Yes
+PN14RD.vae.41410	#f6cc38	Yes
+PN14RE.bin.125	#f6cc38	Yes
+PN14RE.vae.12891	#f6cc38	Yes
+PN14RE.vae.6049	#f6cc38	Yes
+PN14RF.vae.940	#f6cc38	Yes
+PN14RG.vae.10819	#f6cc38	Yes
+PN14RG.vae.128486	#f6cc38	Yes
+PN14RG.vae.3423	#f6cc38	Yes
+PN14RH.bin.111	#f6cc38	Yes
+PN14RH.vae.37805	#f6cc38	Yes
+PN14RH.vae.6935	#f6cc38	Yes
+PN14RI.bin.219	#f6cc38	Yes
+PN14RI.bin.242	#f6cc38	Yes
+PN14RI.bin.95	#f6cc38	Yes
+PN14RJ.bin.227	#f6cc38	Yes
+PN14RJ.bin.81	#f6cc38	Yes
+PN14RJ.vae.16042	#f6cc38	Yes
+PN14RJ.vae.18394	#f6cc38	Yes
+PN14RK.bin.5	#f6cc38	Yes
+PN14RK.bin.50	#f6cc38	Yes
+PN14RK.vae.22272	#f6cc38	Yes
+PN14RK.vae.28654	#f6cc38	Yes
+PN14RK.vae.5901	#f6cc38	Yes
+PN14RK.vae.7725	#f6cc38	Yes
+PN14RM.bin.54	#f6cc38	Yes
+PN14RM.vae.18396	#f6cc38	Yes
+PN14RM.vae.30501	#f6cc38	Yes
+PN14RN.bin.156	#f6cc38	Yes
+PN14RN.bin.76	#f6cc38	Yes
+PN14RN.vae.22034	#f6cc38	Yes
+PN14RN.vae.9396	#f6cc38	Yes
+PN14RO.bin.122	#f6cc38	Yes
+PN14RO.bin.148	#f6cc38	Yes
+PN14RO.bin.60	#f6cc38	Yes
+PN14RO.vae.12971	#f6cc38	Yes
+PN14RO.vae.2584	#f6cc38	Yes
+PN14RO.vae.29326	#f6cc38	Yes
+PN14RO.vae.7348	#f6cc38	Yes
+PN14RP.bin.100	#f6cc38	Yes
+PN14RP.bin.171	#f6cc38	Yes
+PN14RP.vae.13516	#f6cc38	Yes
+PN14RP.vae.17677	#f6cc38	Yes
+PN14RP.vae.28811	#f6cc38	Yes
+PN14RP.vae.9847	#f6cc38	Yes
+PN14RQ.bin.102	#f6cc38	Yes
+PN14RQ.bin.167	#f6cc38	Yes
+PN14RQ.bin.207	#f6cc38	Yes
+PN14RQ.bin.45	#f6cc38	Yes
+PN14RQ.bin.57	#f6cc38	Yes
+PN14RQ.vae.15046	#f6cc38	Yes
+PN14RQ.vae.3291	#f6cc38	Yes
+PN14RQ.vae.8935	#f6cc38	Yes
+PN14RR.bin.39	#f6cc38	Yes
+PN14RS.vae.46794	#f6cc38	Yes
+PN14RS.vae.7012	#f6cc38	Yes
+PN15RA.bin.17	#f6cc38	Yes
+PN15RA.bin.48	#f6cc38	Yes
+PN15RA.bin.9	#f6cc38	Yes
+PN15RA.vae.110478	#f6cc38	Yes
+PN15RA.vae.12433	#f6cc38	Yes
+PN15RA.vae.251	#f6cc38	Yes
+PN15RA.vae.5033	#f6cc38	Yes
+PN15RA.vae.545	#f6cc38	Yes
+PN15RB.bin.121	#f6cc38	Yes
+PN15RB.bin.17	#f6cc38	Yes
+PN15RB.bin.34	#f6cc38	Yes
+PN15RB.vae.150691	#f6cc38	Yes
+PN15RB.vae.155435	#f6cc38	Yes
+PN15RB.vae.32111	#f6cc38	Yes
+PN15RB.vae.70512	#f6cc38	Yes
+PN15RB.vae.7963	#f6cc38	Yes
+PN15RB.vae.85478	#f6cc38	Yes
+PN15RB.vae.9378	#f6cc38	Yes
+PN15RC.bin.118	#f6cc38	Yes
+PN15RC.bin.63	#f6cc38	Yes
+PN15RC.vae.1160	#f6cc38	Yes
+PN15RC.vae.27881	#f6cc38	Yes
+PN15RC.vae.5660	#f6cc38	Yes
+PN15RC.vae.7188	#f6cc38	Yes
+PN15RC.vae.9046	#f6cc38	Yes
+PN15RD.bin.108	#f6cc38	Yes
+PN15RD.vae.14904	#f6cc38	Yes
+PN15RE.vae.12705	#f6cc38	Yes
+PN15RE.vae.15126	#f6cc38	Yes
+PN15RE.vae.16672	#f6cc38	Yes
+PN15RE.vae.20316	#f6cc38	Yes
+PN15RE.vae.874	#f6cc38	Yes
+PN15RF.vae.749	#f6cc38	Yes
+PN15RG.bin.84	#f6cc38	Yes
+PN15RH.vae.11459	#f6cc38	Yes
+PN15RH.vae.12318	#f6cc38	Yes
+PN15RH.vae.8206	#f6cc38	Yes
+PN15RH.vae.959	#f6cc38	Yes
+PN15RI.bin.82	#f6cc38	Yes
+PN15RI.vae.146	#f6cc38	Yes
+PN15RI.vae.21787	#f6cc38	Yes
+PN15RI.vae.3071	#f6cc38	Yes
+PN15RI.vae.35681	#f6cc38	Yes
+PN15RJ.bin.110	#f6cc38	Yes
+PN15RJ.vae.2033	#f6cc38	Yes
+PN15RJ.vae.4905	#f6cc38	Yes
+PN15RJ.vae.8082	#f6cc38	Yes
+PN15RK.bin.111	#f6cc38	Yes
+PN15RK.bin.76	#f6cc38	Yes
+PN15RK.vae.10602	#f6cc38	Yes
+PN15RK.vae.25170	#f6cc38	Yes
+PN15RK.vae.42078	#f6cc38	Yes
+PN15RK.vae.42691	#f6cc38	Yes
+PN15RK.vae.50342	#f6cc38	Yes
+PN15RK.vae.86164	#f6cc38	Yes
+PN15RK.vae.9539	#f6cc38	Yes
+PN15RL.vae.14864	#f6cc38	Yes
+PN15RL.vae.36467	#f6cc38	Yes
+PN15RM.bin.126	#f6cc38	Yes
+PN15RM.bin.88	#f6cc38	Yes
+PN15RM.vae.10032	#f6cc38	Yes
+PN15RM.vae.8105	#f6cc38	Yes
+PN15RM.vae.9196	#f6cc38	Yes
+PN15RN.vae.12625	#f6cc38	Yes
+PN15RN.vae.4908	#f6cc38	Yes
+PN15RN.vae.5220	#f6cc38	Yes
+PN15RO.bin.160	#f6cc38	Yes
+PN15RO.bin.174	#f6cc38	Yes
+PN15RO.bin.41	#f6cc38	Yes
+PN15RO.bin.75	#f6cc38	Yes
+PN15RO.bin.99	#f6cc38	Yes
+PN15RO.vae.13299	#f6cc38	Yes
+PN15RO.vae.27880	#f6cc38	Yes
+PN15RO.vae.3204	#f6cc38	Yes
+PN15RO.vae.35996	#f6cc38	Yes
+PN15RP.bin.110	#f6cc38	Yes
+PN15RP.bin.18	#f6cc38	Yes
+PN16RA.bin.156	#f6cc38	Yes
+PN16RA.bin.47	#f6cc38	Yes
+PN16RA.bin.56	#f6cc38	Yes
+PN16RA.vae.10211	#f6cc38	Yes
+PN16RA.vae.1272	#f6cc38	Yes
+PN16RA.vae.1291	#f6cc38	Yes
+PN16RA.vae.13675	#f6cc38	Yes
+PN16RA.vae.13838	#f6cc38	Yes
+PN16RA.vae.15156	#f6cc38	Yes
+PN16RA.vae.15936	#f6cc38	Yes
+PN16RA.vae.1770	#f6cc38	Yes
+PN16RA.vae.4545	#f6cc38	Yes
+PN16RA.vae.59032	#f6cc38	Yes
+PN16RA.vae.61343	#f6cc38	Yes
+PN16RA.vae.81687	#f6cc38	Yes
+PN16RB.bin.164	#f6cc38	Yes
+PN16RB.bin.6	#f6cc38	Yes
+PN16RB.bin.70	#f6cc38	Yes
+PN16RB.bin.91	#f6cc38	Yes
+PN16RC.bin.216	#f6cc38	Yes
+PN16RC.bin.60	#f6cc38	Yes
+PN16RC.vae.1274	#f6cc38	Yes
+PN16RC.vae.13949	#f6cc38	Yes
+PN16RC.vae.23695	#f6cc38	Yes
+PN16RC.vae.26035	#f6cc38	Yes
+PN16RC.vae.6570	#f6cc38	Yes
+PN16RC.vae.8615	#f6cc38	Yes
+PN16RC.vae.9589	#f6cc38	Yes
+PN16RD.bin.18	#f6cc38	Yes
+PN16RD.bin.84	#f6cc38	Yes
+PN16RD.bin.91	#f6cc38	Yes
+PN16RD.vae.1180	#f6cc38	Yes
+PN16RD.vae.5145	#f6cc38	Yes
+PN16RD.vae.6276	#f6cc38	Yes
+PN16RD.vae.7431	#f6cc38	Yes
+PN16RE.bin.69	#f6cc38	Yes
+PN16RE.bin.73	#f6cc38	Yes
+PN16RE.vae.12059	#f6cc38	Yes
+PN16RE.vae.18779	#f6cc38	Yes
+PN16RF.bin.12	#f6cc38	Yes
+PN16RF.bin.122	#f6cc38	Yes
+PN16RF.vae.10640	#f6cc38	Yes
+PN16RF.vae.14450	#f6cc38	Yes
+PN16RF.vae.19064	#f6cc38	Yes
+PN16RF.vae.1970	#f6cc38	Yes
+PN16RF.vae.30987	#f6cc38	Yes
+PN16RF.vae.40870	#f6cc38	Yes
+PN16RF.vae.49807	#f6cc38	Yes
+PN16RG.vae.10311	#f6cc38	Yes
+PN16RG.vae.14305	#f6cc38	Yes
+PN16RG.vae.22426	#f6cc38	Yes
+PN16RG.vae.22445	#f6cc38	Yes
+PN16RG.vae.23843	#f6cc38	Yes
+PN16RG.vae.23847	#f6cc38	Yes
+PN16RG.vae.24619	#f6cc38	Yes
+PN16RG.vae.44311	#f6cc38	Yes
+PN16RG.vae.48868	#f6cc38	Yes
+PN16RH.bin.109	#f6cc38	Yes
+PN16RH.bin.16	#f6cc38	Yes
+PN16RH.bin.164	#f6cc38	Yes
+PN16RH.bin.20	#f6cc38	Yes
+PN16RH.bin.22	#f6cc38	Yes
+PN16RH.bin.4	#f6cc38	Yes
+PN16RH.bin.45	#f6cc38	Yes
+PN16RH.vae.10054	#f6cc38	Yes
+PN16RH.vae.11381	#f6cc38	Yes
+PN16RH.vae.2362	#f6cc38	Yes
+PN16RH.vae.4683	#f6cc38	Yes
+PN16RI.bin.110	#f6cc38	Yes
+PN16RI.bin.154	#f6cc38	Yes
+PN16RI.bin.85	#f6cc38	Yes
+PN16RI.vae.1435	#f6cc38	Yes
+PN16RI.vae.20113	#f6cc38	Yes
+PN16RI.vae.21741	#f6cc38	Yes
+PN16RJ.bin.105	#f6cc38	Yes
+PN16RJ.bin.135	#f6cc38	Yes
+PN16RJ.bin.144	#f6cc38	Yes
+PN16RJ.bin.48	#f6cc38	Yes
+PN16RJ.bin.59	#f6cc38	Yes
+PN16RJ.bin.77	#f6cc38	Yes
+PN16RJ.vae.42000	#f6cc38	Yes
+PN16RK.bin.100	#f6cc38	Yes
+PN16RK.bin.136	#f6cc38	Yes
+PN16RK.bin.152	#f6cc38	Yes
+PN16RK.bin.6	#f6cc38	Yes
+PN16RK.vae.13852	#f6cc38	Yes
+PN16RK.vae.16692	#f6cc38	Yes
+PN16RK.vae.2142	#f6cc38	Yes
+PN16RK.vae.24020	#f6cc38	Yes
+PN16RK.vae.35606	#f6cc38	Yes
+PN16RK.vae.8937	#f6cc38	Yes
+PN16RL.bin.82	#f6cc38	Yes
+PN16RL.vae.12770	#f6cc38	Yes
+PN16RL.vae.13976	#f6cc38	Yes
+PN16RM.bin.115	#f6cc38	Yes
+PN16RM.bin.176	#f6cc38	Yes
+PN16RM.bin.80	#f6cc38	Yes
+PN16RM.vae.10735	#f6cc38	Yes
+PN16RM.vae.17470	#f6cc38	Yes
+PN16RM.vae.19422	#f6cc38	Yes
+PN16RM.vae.2026	#f6cc38	Yes
+PN16RM.vae.25245	#f6cc38	Yes
+PN16RM.vae.54418	#f6cc38	Yes
+PN16RN.bin.186	#f6cc38	Yes
+PN16RN.bin.26	#f6cc38	Yes
+PN16RN.vae.1121	#f6cc38	Yes
+PN16RN.vae.16330	#f6cc38	Yes
+PN16RN.vae.1955	#f6cc38	Yes
+PN16RO.bin.124	#f6cc38	Yes
+PN16RO.bin.202	#f6cc38	Yes
+PN16RO.bin.40	#f6cc38	Yes
+PN16RO.vae.11096	#f6cc38	Yes
+PN16RO.vae.22886	#f6cc38	Yes
+PN16RO.vae.7959	#f6cc38	Yes
+PN16RP.vae.20088	#f6cc38	Yes
+PN16RP.vae.29666	#f6cc38	Yes
+PN16RP.vae.34502	#f6cc38	Yes
+PN16RP.vae.38909	#f6cc38	Yes
+PN16RP.vae.6423	#f6cc38	Yes
+PN16RP.vae.89974	#f6cc38	Yes
+PN16RQ.bin.188	#f6cc38	Yes
+PN16RQ.bin.87	#f6cc38	Yes
+PN16RQ.vae.1925	#f6cc38	Yes
+PN16RQ.vae.57	#f6cc38	Yes
+PN16RQ.vae.723	#f6cc38	Yes
+PN16RQ.vae.9914	#f6cc38	Yes
+PN16RR.bin.160	#f6cc38	Yes
+PN16RR.bin.19	#f6cc38	Yes
+PN16RR.bin.25	#f6cc38	Yes
+PN16RR.bin.55	#f6cc38	Yes
+PN16RR.bin.56	#f6cc38	Yes
+PN16RR.bin.66	#f6cc38	Yes
+PN16RR.bin.78	#f6cc38	Yes
+PN16RR.bin.8	#f6cc38	Yes
+PN16RR.vae.132844	#f6cc38	Yes
+PN16RR.vae.133656	#f6cc38	Yes
+PN16RR.vae.26068	#f6cc38	Yes
+PN16RR.vae.27178	#f6cc38	Yes
+PN16RR.vae.38495	#f6cc38	Yes
+PN16RR.vae.39651	#f6cc38	Yes
+PN16RR.vae.51521	#f6cc38	Yes
+PN16RR.vae.80791	#f6cc38	Yes
+PN16RR.vae.90224	#f6cc38	Yes
+PN16RS.bin.57	#f6cc38	Yes
+PN16RS.vae.13609	#f6cc38	Yes
+PN16RS.vae.23343	#f6cc38	Yes
+PN16RT.bin.100	#f6cc38	Yes
+PN16RT.bin.146	#f6cc38	Yes
+PN16RT.bin.152	#f6cc38	Yes
+PN16RT.bin.187	#f6cc38	Yes
+PN16RT.bin.223	#f6cc38	Yes
+PN16RT.bin.23	#f6cc38	Yes
+PN16RT.bin.29	#f6cc38	Yes
+PN16RT.bin.4	#f6cc38	Yes
+PN16RT.bin.50	#f6cc38	Yes
+PN16RT.bin.84	#f6cc38	Yes
+PN16RT.vae.18925	#f6cc38	Yes
+PN16RT.vae.19578	#f6cc38	Yes
+PN16RT.vae.19994	#f6cc38	Yes
+PN16RT.vae.55935	#f6cc38	Yes
+PN16RT.vae.89614	#f6cc38	Yes
+PN16RT.vae.9023	#f6cc38	Yes
+PN16RT.vae.963	#f6cc38	Yes
+PN16RU.bin.17	#f6cc38	Yes
+PN16RU.bin.200	#f6cc38	Yes
+PN16RU.bin.52	#f6cc38	Yes
+PN16RU.vae.11056	#f6cc38	Yes
+PN16RU.vae.13176	#f6cc38	Yes
+PN16RU.vae.32404	#f6cc38	Yes
+PN16RU.vae.36455	#f6cc38	Yes
+PN16RU.vae.3921	#f6cc38	Yes
+PN16RU.vae.43548	#f6cc38	Yes
+PN16RV.bin.20	#f6cc38	Yes
+PN16RV.bin.35	#f6cc38	Yes
+PN16RV.bin.55	#f6cc38	Yes
+PN16RV.bin.68	#f6cc38	Yes
+PN16RV.vae.13077	#f6cc38	Yes
+PN16RV.vae.24032	#f6cc38	Yes
+PN1CA.bin.84	#f6cc38	Yes
+PN1CA.vae.23148	#f6cc38	Yes
+PN1CA.vae.4767	#f6cc38	Yes
+PN1CA.vae.690	#f6cc38	Yes
+PN1CB.bin.54	#f6cc38	Yes
+PN1CB.vae.37083	#f6cc38	Yes
+PN1CB.vae.4781	#f6cc38	Yes
+PN1CB.vae.952	#f6cc38	Yes
+PN1CC.bin.56	#f6cc38	Yes
+PN1CC.vae.3984	#f6cc38	Yes
+PN1CD.bin.159	#f6cc38	Yes
+PN1CD.bin.40	#f6cc38	Yes
+PN1CD.vae.1531	#f6cc38	Yes
+PN1CD.vae.22975	#f6cc38	Yes
+PN1CD.vae.23372	#f6cc38	Yes
+PN1CE.bin.18	#f6cc38	Yes
+PN1CF.bin.53	#f6cc38	Yes
+PN1CF.vae.30162	#f6cc38	Yes
+PN1CG.bin.53	#f6cc38	Yes
+PN1CH.vae.1558	#f6cc38	Yes
+PN1CH.vae.93024	#f6cc38	Yes
+PN1CI.vae.1436	#f6cc38	Yes
+PN1CJ.bin.98	#f6cc38	Yes
+PN1CJ.vae.2310	#f6cc38	Yes
+PN1CJ.vae.25543	#f6cc38	Yes
+PN1CJ.vae.7095	#f6cc38	Yes
+PN1CK.bin.41	#f6cc38	Yes
+PN1CK.vae.54643	#f6cc38	Yes
+PN1CL.bin.154	#f6cc38	Yes
+PN1CL.vae.62331	#f6cc38	Yes
+PN1CL.vae.6880	#f6cc38	Yes
+PN1CL.vae.8614	#f6cc38	Yes
+PN1DH.bin.3	#f6cc38	Yes
+PN1DJ.bin.33	#f6cc38	Yes
+PN1DK.vae.35022	#f6cc38	Yes
+PN1DL.bin.41	#f6cc38	Yes
+PN1GC.bin.15	#f6cc38	Yes
+PN1GC.bin.52	#f6cc38	Yes
+PN1GC.vae.2069	#f6cc38	Yes
+PN1GD.bin.19	#f6cc38	Yes
+PN1GD.bin.25	#f6cc38	Yes
+PN1GD.vae.23015	#f6cc38	Yes
+PN1GD.vae.57121	#f6cc38	Yes
+PN1GE.bin.16	#f6cc38	Yes
+PN1GE.bin.42	#f6cc38	Yes
+PN1GE.bin.55	#f6cc38	Yes
+PN1GE.bin.59	#f6cc38	Yes
+PN1GE.bin.8	#f6cc38	Yes
+PN1GE.vae.19718	#f6cc38	Yes
+PN1GF.bin.15	#f6cc38	Yes
+PN1GF.bin.3	#f6cc38	Yes
+PN1GF.bin.37	#f6cc38	Yes
+PN1GF.vae.11730	#f6cc38	Yes
+PN1GF.vae.19345	#f6cc38	Yes
+PN1GG.bin.16	#f6cc38	Yes
+PN1GG.bin.22	#f6cc38	Yes
+PN1GG.bin.43	#f6cc38	Yes
+PN1GG.bin.47	#f6cc38	Yes
+PN1GG.bin.65	#f6cc38	Yes
+PN1GG.bin.69	#f6cc38	Yes
+PN1GG.bin.71	#f6cc38	Yes
+PN1GG.vae.28871	#f6cc38	Yes
+PN1GG.vae.29493	#f6cc38	Yes
+PN1GG.vae.9172	#f6cc38	Yes
+PN1GH.bin.46	#f6cc38	Yes
+PN1GH.vae.83207	#f6cc38	Yes
+PN1GJ.bin.56	#f6cc38	Yes
+PN1GJ.bin.70	#f6cc38	Yes
+PN1GJ.bin.9	#f6cc38	Yes
+PN1GJ.bin.90	#f6cc38	Yes
+PN1GJ.bin.91	#f6cc38	Yes
+PN1GJ.vae.17654	#f6cc38	Yes
+PN1GK.bin.25	#f6cc38	Yes
+PN1GK.bin.36	#f6cc38	Yes
+PN1IB.bin.20	#f6cc38	Yes
+PN1IB.vae.15256	#f6cc38	Yes
+PN1IB.vae.5971	#f6cc38	Yes
+PN1IE.vae.26367	#f6cc38	Yes
+PN1IH.bin.5	#f6cc38	Yes
+PN1JA.bin.12	#f6cc38	Yes
+PN1JE.bin.11	#f6cc38	Yes
+PN1JE.bin.16	#f6cc38	Yes
+PN1JE.bin.38	#f6cc38	Yes
+PN1JE.bin.4	#f6cc38	Yes
+PN1JE.bin.48	#f6cc38	Yes
+PN1JE.bin.56	#f6cc38	Yes
+PN1JE.bin.62	#f6cc38	Yes
+PN1JE.bin.75	#f6cc38	Yes
+PN1JE.bin.77	#f6cc38	Yes
+PN1JE.vae.11294	#f6cc38	Yes
+PN1JE.vae.11532	#f6cc38	Yes
+PN1JE.vae.3648	#f6cc38	Yes
+PN1JG.bin.27	#f6cc38	Yes
+PN1JG.bin.8	#f6cc38	Yes
+PN1JG.vae.13389	#f6cc38	Yes
+PN1JG.vae.32237	#f6cc38	Yes
+PN1JH.bin.31	#f6cc38	Yes
+PN1JJ.vae.12846	#f6cc38	Yes
+PN1LC.bin.61	#f6cc38	Yes
+PN1LC.bin.78	#f6cc38	Yes
+PN1LD.vae.239	#f6cc38	Yes
+PN1LD.vae.3277	#f6cc38	Yes
+PN1LD.vae.41572	#f6cc38	Yes
+PN1LD.vae.5324	#f6cc38	Yes
+PN1LD.vae.5683	#f6cc38	Yes
+PN1LD.vae.9714	#f6cc38	Yes
+PN1LF.bin.53	#f6cc38	Yes
+PN1LF.vae.3007	#f6cc38	Yes
+PN1LF.vae.3486	#f6cc38	Yes
+PN1LF.vae.7630	#f6cc38	Yes
+PN1LF.vae.9401	#f6cc38	Yes
+PN1LH.bin.39	#f6cc38	Yes
+PN1LI.bin.63	#f6cc38	Yes
+PN1LI.vae.5751	#f6cc38	Yes
+PN1LJ.bin.3	#f6cc38	Yes
+PN1LJ.bin.85	#f6cc38	Yes
+PN1LJ.vae.24777	#f6cc38	Yes
+PN1LL.vae.15513	#f6cc38	Yes
+PN1LL.vae.6549	#f6cc38	Yes
+PN1RA.bin.118	#f6cc38	Yes
+PN1RA.bin.12	#f6cc38	Yes
+PN1RA.bin.179	#f6cc38	Yes
+PN1RA.bin.194	#f6cc38	Yes
+PN1RA.bin.34	#f6cc38	Yes
+PN1RA.bin.93	#f6cc38	Yes
+PN1RA.vae.20947	#f6cc38	Yes
+PN1RA.vae.29068	#f6cc38	Yes
+PN1RA.vae.32286	#f6cc38	Yes
+PN1RA.vae.33950	#f6cc38	Yes
+PN1RA.vae.3441	#f6cc38	Yes
+PN1RA.vae.47560	#f6cc38	Yes
+PN1RA.vae.4790	#f6cc38	Yes
+PN1RA.vae.4918	#f6cc38	Yes
+PN1RA.vae.5729	#f6cc38	Yes
+PN1RA.vae.5867	#f6cc38	Yes
+PN1RA.vae.8397	#f6cc38	Yes
+PN1RA.vae.9654	#f6cc38	Yes
+PN1RA.vae.9885	#f6cc38	Yes
+PN1RB.bin.120	#f6cc38	Yes
+PN1RB.bin.148	#f6cc38	Yes
+PN1RB.bin.187	#f6cc38	Yes
+PN1RB.bin.205	#f6cc38	Yes
+PN1RB.bin.217	#f6cc38	Yes
+PN1RB.bin.243	#f6cc38	Yes
+PN1RB.vae.16371	#f6cc38	Yes
+PN1RB.vae.22965	#f6cc38	Yes
+PN1RB.vae.23408	#f6cc38	Yes
+PN1RB.vae.24020	#f6cc38	Yes
+PN1RB.vae.31310	#f6cc38	Yes
+PN1RB.vae.39594	#f6cc38	Yes
+PN1RB.vae.51949	#f6cc38	Yes
+PN1RB.vae.5744	#f6cc38	Yes
+PN1RB.vae.6396	#f6cc38	Yes
+PN1RB.vae.6725	#f6cc38	Yes
+PN1RB.vae.7016	#f6cc38	Yes
+PN1RB.vae.72886	#f6cc38	Yes
+PN1RB.vae.9968	#f6cc38	Yes
+PN1RC.bin.180	#f6cc38	Yes
+PN1RC.bin.199	#f6cc38	Yes
+PN1RC.bin.202	#f6cc38	Yes
+PN1RC.bin.27	#f6cc38	Yes
+PN1RC.bin.67	#f6cc38	Yes
+PN1RC.vae.1239	#f6cc38	Yes
+PN1RC.vae.13895	#f6cc38	Yes
+PN1RC.vae.18583	#f6cc38	Yes
+PN1RC.vae.18795	#f6cc38	Yes
+PN1RC.vae.19806	#f6cc38	Yes
+PN1RC.vae.20374	#f6cc38	Yes
+PN1RC.vae.20794	#f6cc38	Yes
+PN1RC.vae.35732	#f6cc38	Yes
+PN1RC.vae.39584	#f6cc38	Yes
+PN1RC.vae.47770	#f6cc38	Yes
+PN1RC.vae.604	#f6cc38	Yes
+PN1RC.vae.6534	#f6cc38	Yes
+PN1RD.bin.267	#f6cc38	Yes
+PN1RD.bin.39	#f6cc38	Yes
+PN1RD.bin.78	#f6cc38	Yes
+PN1RD.vae.108429	#f6cc38	Yes
+PN1RD.vae.160564	#f6cc38	Yes
+PN1RD.vae.19220	#f6cc38	Yes
+PN1RD.vae.21874	#f6cc38	Yes
+PN1RD.vae.226823	#f6cc38	Yes
+PN1RD.vae.31518	#f6cc38	Yes
+PN1RD.vae.31572	#f6cc38	Yes
+PN1RD.vae.34943	#f6cc38	Yes
+PN1RD.vae.40434	#f6cc38	Yes
+PN1RD.vae.53684	#f6cc38	Yes
+PN1RD.vae.6521	#f6cc38	Yes
+PN1RD.vae.72805	#f6cc38	Yes
+PN1RD.vae.79989	#f6cc38	Yes
+PN1RE.bin.38	#f6cc38	Yes
+PN1RE.vae.1621	#f6cc38	Yes
+PN1RE.vae.1889	#f6cc38	Yes
+PN1RE.vae.21623	#f6cc38	Yes
+PN1RE.vae.2523	#f6cc38	Yes
+PN1RE.vae.37929	#f6cc38	Yes
+PN1RE.vae.4637	#f6cc38	Yes
+PN1RE.vae.534	#f6cc38	Yes
+PN1RE.vae.9908	#f6cc38	Yes
+PN1RF.bin.61	#f6cc38	Yes
+PN1RF.vae.10247	#f6cc38	Yes
+PN1RF.vae.12205	#f6cc38	Yes
+PN1RF.vae.22137	#f6cc38	Yes
+PN1RF.vae.26967	#f6cc38	Yes
+PN1RF.vae.5656	#f6cc38	Yes
+PN1RF.vae.8342	#f6cc38	Yes
+PN1RG.bin.54	#f6cc38	Yes
+PN1RG.bin.76	#f6cc38	Yes
+PN1RG.vae.3730	#f6cc38	Yes
+PN1RH.bin.137	#f6cc38	Yes
+PN1RH.bin.241	#f6cc38	Yes
+PN1RH.vae.1109	#f6cc38	Yes
+PN1RH.vae.22029	#f6cc38	Yes
+PN1RH.vae.24812	#f6cc38	Yes
+PN1RH.vae.26417	#f6cc38	Yes
+PN1RH.vae.39939	#f6cc38	Yes
+PN1RH.vae.5691	#f6cc38	Yes
+PN1RH.vae.743	#f6cc38	Yes
+PN1RH.vae.9742	#f6cc38	Yes
+PN1RI.vae.131426	#f6cc38	Yes
+PN1RI.vae.194640	#f6cc38	Yes
+PN1RI.vae.26211	#f6cc38	Yes
+PN1RI.vae.57461	#f6cc38	Yes
+PN1RJ.vae.12439	#f6cc38	Yes
+PN1RJ.vae.3602	#f6cc38	Yes
+PN1RJ.vae.73852	#f6cc38	Yes
+PN1RK.bin.224	#f6cc38	Yes
+PN1RK.bin.40	#f6cc38	Yes
+PN1RK.vae.16135	#f6cc38	Yes
+PN1RK.vae.17426	#f6cc38	Yes
+PN1RK.vae.7227	#f6cc38	Yes
+PN1RL.bin.118	#f6cc38	Yes
+PN1RL.bin.141	#f6cc38	Yes
+PN1RL.bin.148	#f6cc38	Yes
+PN1RL.bin.187	#f6cc38	Yes
+PN1RL.bin.42	#f6cc38	Yes
+PN1RL.vae.10794	#f6cc38	Yes
+PN1RL.vae.1851	#f6cc38	Yes
+PN1RL.vae.21414	#f6cc38	Yes
+PN1RL.vae.2467	#f6cc38	Yes
+PN1RL.vae.5420	#f6cc38	Yes
+PN2CA.bin.102	#f6cc38	Yes
+PN2CA.bin.15	#f6cc38	Yes
+PN2CA.vae.10976	#f6cc38	Yes
+PN2CA.vae.13121	#f6cc38	Yes
+PN2CA.vae.21842	#f6cc38	Yes
+PN2CB.bin.101	#f6cc38	Yes
+PN2CB.bin.43	#f6cc38	Yes
+PN2CB.bin.71	#f6cc38	Yes
+PN2CB.bin.79	#f6cc38	Yes
+PN2CC.vae.10734	#f6cc38	Yes
+PN2CC.vae.17166	#f6cc38	Yes
+PN2CC.vae.7452	#f6cc38	Yes
+PN2CC.vae.91357	#f6cc38	Yes
+PN2CD.bin.13	#f6cc38	Yes
+PN2CD.vae.19363	#f6cc38	Yes
+PN2CD.vae.293	#f6cc38	Yes
+PN2CE.bin.19	#f6cc38	Yes
+PN2CE.vae.10598	#f6cc38	Yes
+PN2CE.vae.16262	#f6cc38	Yes
+PN2CE.vae.18103	#f6cc38	Yes
+PN2CE.vae.23459	#f6cc38	Yes
+PN2CE.vae.27783	#f6cc38	Yes
+PN2CE.vae.28692	#f6cc38	Yes
+PN2CE.vae.55092	#f6cc38	Yes
+PN2CF.bin.125	#f6cc38	Yes
+PN2CF.bin.145	#f6cc38	Yes
+PN2CF.vae.10636	#f6cc38	Yes
+PN2CF.vae.12729	#f6cc38	Yes
+PN2CF.vae.13437	#f6cc38	Yes
+PN2CG.bin.120	#f6cc38	Yes
+PN2CG.bin.134	#f6cc38	Yes
+PN2CG.bin.170	#f6cc38	Yes
+PN2CG.vae.11304	#f6cc38	Yes
+PN2CG.vae.13867	#f6cc38	Yes
+PN2CG.vae.30802	#f6cc38	Yes
+PN2CG.vae.53350	#f6cc38	Yes
+PN2CH.vae.12961	#f6cc38	Yes
+PN2CH.vae.21301	#f6cc38	Yes
+PN2CH.vae.27671	#f6cc38	Yes
+PN2CI.vae.13386	#f6cc38	Yes
+PN2CJ.bin.61	#f6cc38	Yes
+PN2CJ.bin.87	#f6cc38	Yes
+PN2GB.bin.13	#f6cc38	Yes
+PN2GB.vae.4889	#f6cc38	Yes
+PN2GB.vae.5853	#f6cc38	Yes
+PN2GC.bin.42	#f6cc38	Yes
+PN2GD.bin.21	#f6cc38	Yes
+PN2GD.bin.23	#f6cc38	Yes
+PN2GD.bin.37	#f6cc38	Yes
+PN2GD.bin.7	#f6cc38	Yes
+PN2GD.vae.6314	#f6cc38	Yes
+PN2GE.bin.22	#f6cc38	Yes
+PN2GE.bin.34	#f6cc38	Yes
+PN2GE.bin.4	#f6cc38	Yes
+PN2GE.vae.1862	#f6cc38	Yes
+PN2GE.vae.20285	#f6cc38	Yes
+PN2GF.bin.2	#f6cc38	Yes
+PN2GF.vae.3028	#f6cc38	Yes
+PN2GG.bin.15	#f6cc38	Yes
+PN2GG.bin.16	#f6cc38	Yes
+PN2GJ.vae.6147	#f6cc38	Yes
+PN2JB.bin.10	#f6cc38	Yes
+PN2JC.bin.19	#f6cc38	Yes
+PN2JC.vae.28754	#f6cc38	Yes
+PN2JD.bin.39	#f6cc38	Yes
+PN2JD.bin.5	#f6cc38	Yes
+PN2JD.vae.12717	#f6cc38	Yes
+PN2JF.bin.1	#f6cc38	Yes
+PN2JH.vae.1664	#f6cc38	Yes
+PN2LA.bin.132	#f6cc38	Yes
+PN2LA.bin.64	#f6cc38	Yes
+PN2LB.vae.1958	#f6cc38	Yes
+PN2LC.bin.42	#f6cc38	Yes
+PN2LD.bin.130	#f6cc38	Yes
+PN2LD.vae.33551	#f6cc38	Yes
+PN2LD.vae.8668	#f6cc38	Yes
+PN2LE.vae.579	#f6cc38	Yes
+PN2LF.bin.56	#f6cc38	Yes
+PN2LF.vae.14608	#f6cc38	Yes
+PN2LF.vae.3633	#f6cc38	Yes
+PN2LF.vae.4800	#f6cc38	Yes
+PN2LF.vae.7722	#f6cc38	Yes
+PN2LG.vae.2093	#f6cc38	Yes
+PN2LG.vae.4115	#f6cc38	Yes
+PN2LG.vae.6786	#f6cc38	Yes
+PN2LH.vae.19597	#f6cc38	Yes
+PN2LI.bin.30	#f6cc38	Yes
+PN2LI.vae.6761	#f6cc38	Yes
+PN2LJ.vae.28089	#f6cc38	Yes
+PN2LJ.vae.9188	#f6cc38	Yes
+PN2RA.bin.118	#f6cc38	Yes
+PN2RA.bin.190	#f6cc38	Yes
+PN2RA.vae.10280	#f6cc38	Yes
+PN2RA.vae.116991	#f6cc38	Yes
+PN2RA.vae.139188	#f6cc38	Yes
+PN2RA.vae.251639	#f6cc38	Yes
+PN2RA.vae.40846	#f6cc38	Yes
+PN2RA.vae.62029	#f6cc38	Yes
+PN2RB.bin.109	#f6cc38	Yes
+PN2RB.bin.2	#f6cc38	Yes
+PN2RB.bin.21	#f6cc38	Yes
+PN2RB.vae.10840	#f6cc38	Yes
+PN2RB.vae.21973	#f6cc38	Yes
+PN2RB.vae.26909	#f6cc38	Yes
+PN2RB.vae.37212	#f6cc38	Yes
+PN2RB.vae.8217	#f6cc38	Yes
+PN2RC.bin.129	#f6cc38	Yes
+PN2RC.bin.87	#f6cc38	Yes
+PN2RC.vae.13718	#f6cc38	Yes
+PN2RC.vae.1420	#f6cc38	Yes
+PN2RC.vae.2215	#f6cc38	Yes
+PN2RC.vae.2778	#f6cc38	Yes
+PN2RC.vae.3962	#f6cc38	Yes
+PN2RC.vae.4607	#f6cc38	Yes
+PN2RC.vae.5263	#f6cc38	Yes
+PN2RC.vae.9956	#f6cc38	Yes
+PN2RD.bin.31	#f6cc38	Yes
+PN2RD.bin.83	#f6cc38	Yes
+PN2RD.vae.12162	#f6cc38	Yes
+PN2RE.bin.80	#f6cc38	Yes
+PN2RE.vae.1328	#f6cc38	Yes
+PN2RE.vae.15616	#f6cc38	Yes
+PN2RE.vae.25782	#f6cc38	Yes
+PN2RE.vae.2835	#f6cc38	Yes
+PN2RE.vae.2846	#f6cc38	Yes
+PN2RE.vae.5121	#f6cc38	Yes
+PN2RE.vae.9227	#f6cc38	Yes
+PN2RF.bin.167	#f6cc38	Yes
+PN2RF.bin.72	#f6cc38	Yes
+PN2RF.vae.32265	#f6cc38	Yes
+PN2RF.vae.37133	#f6cc38	Yes
+PN2RF.vae.6561	#f6cc38	Yes
+PN2RF.vae.661	#f6cc38	Yes
+PN2RF.vae.72712	#f6cc38	Yes
+PN2RF.vae.7280	#f6cc38	Yes
+PN2RG.bin.155	#f6cc38	Yes
+PN2RG.bin.177	#f6cc38	Yes
+PN2RG.bin.25	#f6cc38	Yes
+PN2RG.vae.19593	#f6cc38	Yes
+PN2RG.vae.31750	#f6cc38	Yes
+PN2RH.bin.45	#f6cc38	Yes
+PN2RH.vae.11000	#f6cc38	Yes
+PN2RH.vae.22093	#f6cc38	Yes
+PN2RH.vae.31834	#f6cc38	Yes
+PN2RH.vae.43779	#f6cc38	Yes
+PN2RH.vae.54814	#f6cc38	Yes
+PN2RH.vae.5879	#f6cc38	Yes
+PN2RH.vae.7961	#f6cc38	Yes
+PN2RI.bin.218	#f6cc38	Yes
+PN2RI.bin.76	#f6cc38	Yes
+PN2RI.vae.24934	#f6cc38	Yes
+PN2RJ.bin.112	#f6cc38	Yes
+PN2RJ.bin.21	#f6cc38	Yes
+PN2RJ.bin.67	#f6cc38	Yes
+PN2RJ.vae.16485	#f6cc38	Yes
+PN2RJ.vae.17248	#f6cc38	Yes
+PN2RJ.vae.20178	#f6cc38	Yes
+PN2RJ.vae.20897	#f6cc38	Yes
+PN2RJ.vae.27490	#f6cc38	Yes
+PN2RJ.vae.28132	#f6cc38	Yes
+PN2RJ.vae.30272	#f6cc38	Yes
+PN2RJ.vae.9786	#f6cc38	Yes
+PN3CA.bin.121	#f6cc38	Yes
+PN3CA.bin.161	#f6cc38	Yes
+PN3CA.bin.170	#f6cc38	Yes
+PN3CA.bin.26	#f6cc38	Yes
+PN3CA.bin.39	#f6cc38	Yes
+PN3CA.bin.94	#f6cc38	Yes
+PN3CA.bin.95	#f6cc38	Yes
+PN3CA.bin.99	#f6cc38	Yes
+PN3CA.vae.101009	#f6cc38	Yes
+PN3CA.vae.16356	#f6cc38	Yes
+PN3CA.vae.203	#f6cc38	Yes
+PN3CA.vae.2569	#f6cc38	Yes
+PN3CA.vae.26312	#f6cc38	Yes
+PN3CA.vae.3419	#f6cc38	Yes
+PN3CA.vae.38455	#f6cc38	Yes
+PN3CA.vae.4328	#f6cc38	Yes
+PN3CA.vae.4556	#f6cc38	Yes
+PN3CA.vae.75723	#f6cc38	Yes
+PN3CA.vae.8284	#f6cc38	Yes
+PN3CA.vae.9823	#f6cc38	Yes
+PN3CB.bin.108	#f6cc38	Yes
+PN3CB.bin.18	#f6cc38	Yes
+PN3CB.bin.196	#f6cc38	Yes
+PN3CB.bin.197	#f6cc38	Yes
+PN3CB.bin.29	#f6cc38	Yes
+PN3CB.bin.38	#f6cc38	Yes
+PN3CB.vae.12979	#f6cc38	Yes
+PN3CB.vae.3351	#f6cc38	Yes
+PN3CB.vae.36856	#f6cc38	Yes
+PN3CB.vae.44640	#f6cc38	Yes
+PN3CB.vae.52354	#f6cc38	Yes
+PN3CB.vae.5275	#f6cc38	Yes
+PN3CB.vae.7456	#f6cc38	Yes
+PN3CB.vae.9530	#f6cc38	Yes
+PN3CC.bin.111	#f6cc38	Yes
+PN3CC.bin.55	#f6cc38	Yes
+PN3CC.vae.39272	#f6cc38	Yes
+PN3CD.bin.149	#f6cc38	Yes
+PN3CD.bin.66	#f6cc38	Yes
+PN3CD.vae.175426	#f6cc38	Yes
+PN3CD.vae.19124	#f6cc38	Yes
+PN3CD.vae.19133	#f6cc38	Yes
+PN3CD.vae.38841	#f6cc38	Yes
+PN3CD.vae.6551	#f6cc38	Yes
+PN3CD.vae.80983	#f6cc38	Yes
+PN3CD.vae.88779	#f6cc38	Yes
+PN3CE.bin.4	#f6cc38	Yes
+PN3CF.bin.178	#f6cc38	Yes
+PN3CF.bin.3	#f6cc38	Yes
+PN3CF.vae.20235	#f6cc38	Yes
+PN3CF.vae.20389	#f6cc38	Yes
+PN3CF.vae.5986	#f6cc38	Yes
+PN3CF.vae.6762	#f6cc38	Yes
+PN3CG.bin.112	#f6cc38	Yes
+PN3CG.bin.161	#f6cc38	Yes
+PN3CG.bin.162	#f6cc38	Yes
+PN3CG.bin.3	#f6cc38	Yes
+PN3CG.vae.18280	#f6cc38	Yes
+PN3CG.vae.2539	#f6cc38	Yes
+PN3CG.vae.27859	#f6cc38	Yes
+PN3CG.vae.9795	#f6cc38	Yes
+PN3CH.bin.113	#f6cc38	Yes
+PN3CH.bin.141	#f6cc38	Yes
+PN3CH.bin.177	#f6cc38	Yes
+PN3CH.vae.1043	#f6cc38	Yes
+PN3CH.vae.104815	#f6cc38	Yes
+PN3CH.vae.19501	#f6cc38	Yes
+PN3CH.vae.26835	#f6cc38	Yes
+PN3CH.vae.32233	#f6cc38	Yes
+PN3CH.vae.35705	#f6cc38	Yes
+PN3CH.vae.61649	#f6cc38	Yes
+PN3CH.vae.6610	#f6cc38	Yes
+PN3DD.bin.18	#f6cc38	Yes
+PN3DD.bin.19	#f6cc38	Yes
+PN3DD.bin.39	#f6cc38	Yes
+PN3DD.bin.58	#f6cc38	Yes
+PN3DD.bin.6	#f6cc38	Yes
+PN3DD.bin.69	#f6cc38	Yes
+PN3DD.vae.1024	#f6cc38	Yes
+PN3DD.vae.16929	#f6cc38	Yes
+PN3DD.vae.3228	#f6cc38	Yes
+PN3DF.bin.15	#f6cc38	Yes
+PN3DF.bin.18	#f6cc38	Yes
+PN3DF.vae.9493	#f6cc38	Yes
+PN3DF.vae.9735	#f6cc38	Yes
+PN3DG.bin.16	#f6cc38	Yes
+PN3DG.bin.28	#f6cc38	Yes
+PN3DG.bin.3	#f6cc38	Yes
+PN3DG.bin.30	#f6cc38	Yes
+PN3DG.bin.56	#f6cc38	Yes
+PN3DG.bin.6	#f6cc38	Yes
+PN3DG.bin.7	#f6cc38	Yes
+PN3DG.bin.89	#f6cc38	Yes
+PN3DG.vae.71786	#f6cc38	Yes
+PN3GA.bin.14	#f6cc38	Yes
+PN3GA.bin.26	#f6cc38	Yes
+PN3GA.bin.38	#f6cc38	Yes
+PN3GA.bin.54	#f6cc38	Yes
+PN3GA.bin.55	#f6cc38	Yes
+PN3GA.vae.28292	#f6cc38	Yes
+PN3GA.vae.44247	#f6cc38	Yes
+PN3GA.vae.9523	#f6cc38	Yes
+PN3GB.bin.12	#f6cc38	Yes
+PN3GB.bin.19	#f6cc38	Yes
+PN3GB.bin.4	#f6cc38	Yes
+PN3GB.bin.40	#f6cc38	Yes
+PN3GB.bin.41	#f6cc38	Yes
+PN3GB.bin.49	#f6cc38	Yes
+PN3GB.bin.51	#f6cc38	Yes
+PN3GB.bin.65	#f6cc38	Yes
+PN3GB.bin.76	#f6cc38	Yes
+PN3GB.bin.8	#f6cc38	Yes
+PN3GB.vae.4040	#f6cc38	Yes
+PN3GB.vae.7714	#f6cc38	Yes
+PN3GC.bin.11	#f6cc38	Yes
+PN3GD.bin.28	#f6cc38	Yes
+PN3GD.bin.33	#f6cc38	Yes
+PN3GD.bin.73	#f6cc38	Yes
+PN3GD.vae.11167	#f6cc38	Yes
+PN3GD.vae.18336	#f6cc38	Yes
+PN3GD.vae.24199	#f6cc38	Yes
+PN3GE.bin.43	#f6cc38	Yes
+PN3GF.bin.30	#f6cc38	Yes
+PN3GF.bin.45	#f6cc38	Yes
+PN3GF.bin.46	#f6cc38	Yes
+PN3GF.bin.54	#f6cc38	Yes
+PN3GF.vae.5355	#f6cc38	Yes
+PN3GF.vae.7096	#f6cc38	Yes
+PN3GG.bin.14	#f6cc38	Yes
+PN3GG.vae.14509	#f6cc38	Yes
+PN3GG.vae.8518	#f6cc38	Yes
+PN3GG.vae.9536	#f6cc38	Yes
+PN3GH.bin.14	#f6cc38	Yes
+PN3GH.bin.21	#f6cc38	Yes
+PN3GH.bin.7	#f6cc38	Yes
+PN3GH.vae.3016	#f6cc38	Yes
+PN3GH.vae.448	#f6cc38	Yes
+PN3JA.bin.13	#f6cc38	Yes
+PN3JA.bin.20	#f6cc38	Yes
+PN3JA.bin.21	#f6cc38	Yes
+PN3JA.bin.5	#f6cc38	Yes
+PN3JA.vae.29559	#f6cc38	Yes
+PN3JE.vae.1057	#f6cc38	Yes
+PN3JF.bin.2	#f6cc38	Yes
+PN3JF.bin.21	#f6cc38	Yes
+PN3JF.vae.16046	#f6cc38	Yes
+PN3JG.bin.2	#f6cc38	Yes
+PN3JG.bin.42	#f6cc38	Yes
+PN3JG.bin.48	#f6cc38	Yes
+PN3JG.bin.5	#f6cc38	Yes
+PN3JG.bin.78	#f6cc38	Yes
+PN3JG.vae.7445	#f6cc38	Yes
+PN3JH.bin.35	#f6cc38	Yes
+PN3LA.bin.183	#f6cc38	Yes
+PN3LA.bin.70	#f6cc38	Yes
+PN3LA.vae.16192	#f6cc38	Yes
+PN3LA.vae.2051	#f6cc38	Yes
+PN3LA.vae.4360	#f6cc38	Yes
+PN3LA.vae.490	#f6cc38	Yes
+PN3LA.vae.5200	#f6cc38	Yes
+PN3LA.vae.5366	#f6cc38	Yes
+PN3LB.bin.24	#f6cc38	Yes
+PN3LB.bin.42	#f6cc38	Yes
+PN3LB.bin.64	#f6cc38	Yes
+PN3LC.bin.10	#f6cc38	Yes
+PN3LC.bin.150	#f6cc38	Yes
+PN3LC.vae.133304	#f6cc38	Yes
+PN3LC.vae.13512	#f6cc38	Yes
+PN3LC.vae.2070	#f6cc38	Yes
+PN3LC.vae.3141	#f6cc38	Yes
+PN3LC.vae.9609	#f6cc38	Yes
+PN3LD.bin.118	#f6cc38	Yes
+PN3LD.bin.79	#f6cc38	Yes
+PN3LD.vae.11938	#f6cc38	Yes
+PN3LD.vae.35957	#f6cc38	Yes
+PN3LD.vae.468	#f6cc38	Yes
+PN3LE.vae.2705	#f6cc38	Yes
+PN3LE.vae.4107	#f6cc38	Yes
+PN3LE.vae.5845	#f6cc38	Yes
+PN3LF.bin.122	#f6cc38	Yes
+PN3LF.bin.44	#f6cc38	Yes
+PN3LG.bin.156	#f6cc38	Yes
+PN3LG.bin.72	#f6cc38	Yes
+PN3LG.vae.24862	#f6cc38	Yes
+PN3LG.vae.2873	#f6cc38	Yes
+PN3LH.bin.168	#f6cc38	Yes
+PN3LH.vae.11922	#f6cc38	Yes
+PN3LH.vae.14063	#f6cc38	Yes
+PN3LH.vae.4288	#f6cc38	Yes
+PN3LH.vae.8964	#f6cc38	Yes
+PN3RA.bin.116	#f6cc38	Yes
+PN3RA.bin.220	#f6cc38	Yes
+PN3RA.bin.76	#f6cc38	Yes
+PN3RA.bin.83	#f6cc38	Yes
+PN3RA.vae.12956	#f6cc38	Yes
+PN3RA.vae.2200	#f6cc38	Yes
+PN3RA.vae.4758	#f6cc38	Yes
+PN3RA.vae.6278	#f6cc38	Yes
+PN3RA.vae.6783	#f6cc38	Yes
+PN3RB.bin.117	#f6cc38	Yes
+PN3RB.bin.138	#f6cc38	Yes
+PN3RB.bin.56	#f6cc38	Yes
+PN3RB.vae.134867	#f6cc38	Yes
+PN3RB.vae.15800	#f6cc38	Yes
+PN3RB.vae.16764	#f6cc38	Yes
+PN3RB.vae.2662	#f6cc38	Yes
+PN3RB.vae.2682	#f6cc38	Yes
+PN3RB.vae.44633	#f6cc38	Yes
+PN3RB.vae.4609	#f6cc38	Yes
+PN3RC.bin.158	#f6cc38	Yes
+PN3RC.vae.13320	#f6cc38	Yes
+PN3RC.vae.2459	#f6cc38	Yes
+PN3RC.vae.6771	#f6cc38	Yes
+PN3RD.bin.138	#f6cc38	Yes
+PN3RD.bin.141	#f6cc38	Yes
+PN3RD.bin.32	#f6cc38	Yes
+PN3RD.bin.9	#f6cc38	Yes
+PN3RD.vae.1602	#f6cc38	Yes
+PN3RD.vae.3499	#f6cc38	Yes
+PN3RD.vae.36905	#f6cc38	Yes
+PN3RD.vae.4706	#f6cc38	Yes
+PN3RD.vae.5534	#f6cc38	Yes
+PN3RD.vae.5706	#f6cc38	Yes
+PN3RE.bin.61	#f6cc38	Yes
+PN3RE.vae.1778	#f6cc38	Yes
+PN3RE.vae.21235	#f6cc38	Yes
+PN3RE.vae.21429	#f6cc38	Yes
+PN3RE.vae.2473	#f6cc38	Yes
+PN3RF.bin.141	#f6cc38	Yes
+PN3RF.bin.26	#f6cc38	Yes
+PN3RF.bin.43	#f6cc38	Yes
+PN3RF.bin.74	#f6cc38	Yes
+PN3RF.bin.79	#f6cc38	Yes
+PN3RF.vae.16907	#f6cc38	Yes
+PN3RF.vae.17177	#f6cc38	Yes
+PN3RF.vae.19205	#f6cc38	Yes
+PN3RF.vae.24182	#f6cc38	Yes
+PN3RF.vae.27902	#f6cc38	Yes
+PN3RF.vae.29991	#f6cc38	Yes
+PN3RF.vae.34698	#f6cc38	Yes
+PN3RF.vae.3811	#f6cc38	Yes
+PN3RF.vae.4404	#f6cc38	Yes
+PN3RF.vae.51535	#f6cc38	Yes
+PN3RF.vae.7107	#f6cc38	Yes
+PN3RG.bin.208	#f6cc38	Yes
+PN3RG.bin.91	#f6cc38	Yes
+PN3RG.bin.96	#f6cc38	Yes
+PN3RG.vae.1062	#f6cc38	Yes
+PN3RG.vae.119529	#f6cc38	Yes
+PN3RG.vae.14171	#f6cc38	Yes
+PN3RG.vae.15371	#f6cc38	Yes
+PN3RG.vae.18204	#f6cc38	Yes
+PN3RG.vae.24641	#f6cc38	Yes
+PN3RG.vae.25122	#f6cc38	Yes
+PN3RH.bin.131	#f6cc38	Yes
+PN3RH.bin.286	#f6cc38	Yes
+PN3RH.bin.87	#f6cc38	Yes
+PN3RH.vae.13292	#f6cc38	Yes
+PN3RH.vae.1356	#f6cc38	Yes
+PN3RH.vae.16642	#f6cc38	Yes
+PN3RH.vae.18090	#f6cc38	Yes
+PN3RH.vae.1850	#f6cc38	Yes
+PN3RH.vae.2184	#f6cc38	Yes
+PN3RH.vae.30221	#f6cc38	Yes
+PN3RH.vae.30410	#f6cc38	Yes
+PN3RH.vae.51905	#f6cc38	Yes
+PN3RH.vae.5702	#f6cc38	Yes
+PN3RH.vae.70923	#f6cc38	Yes
+PN3RH.vae.7974	#f6cc38	Yes
+PN4RA.bin.28	#f6cc38	Yes
+PN4RA.bin.40	#f6cc38	Yes
+PN4RA.bin.65	#f6cc38	Yes
+PN4RA.vae.5061	#f6cc38	Yes
+PN4RA.vae.6628	#f6cc38	Yes
+PN4RB.vae.16410	#f6cc38	Yes
+PN4RB.vae.859	#f6cc38	Yes
+PN4RC.vae.36767	#f6cc38	Yes
+PN4RC.vae.6332	#f6cc38	Yes
+PN4RD.bin.105	#f6cc38	Yes
+PN4RD.bin.8	#f6cc38	Yes
+PN4RD.bin.95	#f6cc38	Yes
+PN4RD.bin.98	#f6cc38	Yes
+PN4RD.vae.10709	#f6cc38	Yes
+PN4RD.vae.36140	#f6cc38	Yes
+PN4RE.bin.135	#f6cc38	Yes
+PN4RE.bin.70	#f6cc38	Yes
+PN4RE.bin.8	#f6cc38	Yes
+PN4RE.vae.130192	#f6cc38	Yes
+PN4RE.vae.17329	#f6cc38	Yes
+PN4RE.vae.26706	#f6cc38	Yes
+PN4RE.vae.32418	#f6cc38	Yes
+PN4RE.vae.32771	#f6cc38	Yes
+PN4RE.vae.32966	#f6cc38	Yes
+PN4RE.vae.33932	#f6cc38	Yes
+PN4RE.vae.37633	#f6cc38	Yes
+PN4RE.vae.4629	#f6cc38	Yes
+PN4RE.vae.46740	#f6cc38	Yes
+PN4RE.vae.50510	#f6cc38	Yes
+PN4RE.vae.68132	#f6cc38	Yes
+PN4RE.vae.86162	#f6cc38	Yes
+PN4RF.bin.39	#f6cc38	Yes
+PN4RF.bin.66	#f6cc38	Yes
+PN4RF.vae.1919	#f6cc38	Yes
+PN4RG.vae.13447	#f6cc38	Yes
+PN4RG.vae.18313	#f6cc38	Yes
+PN4RG.vae.476	#f6cc38	Yes
+PN4RG.vae.489	#f6cc38	Yes
+PN4RH.bin.1	#f6cc38	Yes
+PN4RH.vae.13294	#f6cc38	Yes
+PN4RH.vae.3046	#f6cc38	Yes
+PN4RH.vae.8900	#f6cc38	Yes
+PN5CA.bin.135	#f6cc38	Yes
+PN5CA.vae.62899	#f6cc38	Yes
+PN5CB.bin.136	#f6cc38	Yes
+PN5CB.vae.15962	#f6cc38	Yes
+PN5CB.vae.19190	#f6cc38	Yes
+PN5CB.vae.21197	#f6cc38	Yes
+PN5CB.vae.27027	#f6cc38	Yes
+PN5CB.vae.3104	#f6cc38	Yes
+PN5CC.bin.109	#f6cc38	Yes
+PN5CC.bin.127	#f6cc38	Yes
+PN5CC.bin.18	#f6cc38	Yes
+PN5CC.vae.16157	#f6cc38	Yes
+PN5CC.vae.3038	#f6cc38	Yes
+PN5CC.vae.66275	#f6cc38	Yes
+PN5CE.vae.15762	#f6cc38	Yes
+PN5CE.vae.6857	#f6cc38	Yes
+PN5CF.vae.3781	#f6cc38	Yes
+PN5CG.bin.154	#f6cc38	Yes
+PN5CG.bin.39	#f6cc38	Yes
+PN5CG.vae.12874	#f6cc38	Yes
+PN5CG.vae.28743	#f6cc38	Yes
+PN5CG.vae.35720	#f6cc38	Yes
+PN5CG.vae.47618	#f6cc38	Yes
+PN5CG.vae.5625	#f6cc38	Yes
+PN5CG.vae.60887	#f6cc38	Yes
+PN5CG.vae.8912	#f6cc38	Yes
+PN5GA.vae.2156	#f6cc38	Yes
+PN5GA.vae.7976	#f6cc38	Yes
+PN5GB.bin.11	#f6cc38	Yes
+PN5GD.bin.53	#f6cc38	Yes
+PN5GD.bin.7	#f6cc38	Yes
+PN5GD.bin.75	#f6cc38	Yes
+PN5GD.vae.1241	#f6cc38	Yes
+PN5GE.bin.22	#f6cc38	Yes
+PN5GF.bin.69	#f6cc38	Yes
+PN5GF.vae.5113	#f6cc38	Yes
+PN5GG.bin.30	#f6cc38	Yes
+PN5GG.bin.34	#f6cc38	Yes
+PN5GG.bin.8	#f6cc38	Yes
+PN5GG.vae.6559	#f6cc38	Yes
+PN5GH.vae.14692	#f6cc38	Yes
+PN5GH.vae.19480	#f6cc38	Yes
+PN5GH.vae.22826	#f6cc38	Yes
+PN5GH.vae.5575	#f6cc38	Yes
+PN5IA.bin.33	#f6cc38	Yes
+PN5IA.bin.34	#f6cc38	Yes
+PN5IA.bin.56	#f6cc38	Yes
+PN5IB.vae.1127	#f6cc38	Yes
+PN5IB.vae.2209	#f6cc38	Yes
+PN5IB.vae.5283	#f6cc38	Yes
+PN5IE.bin.2	#f6cc38	Yes
+PN5IE.bin.89	#f6cc38	Yes
+PN5IE.bin.94	#f6cc38	Yes
+PN5IE.vae.4569	#f6cc38	Yes
+PN5IH.vae.7468	#f6cc38	Yes
+PN5JC.bin.15	#f6cc38	Yes
+PN5JD.vae.7370	#f6cc38	Yes
+PN5JD.vae.7980	#f6cc38	Yes
+PN5JG.vae.4500	#f6cc38	Yes
+PN5JH.vae.37233	#f6cc38	Yes
+PN5JH.vae.53004	#f6cc38	Yes
+PN5LA.vae.7976	#f6cc38	Yes
+PN5LB.bin.198	#f6cc38	Yes
+PN5LB.vae.12017	#f6cc38	Yes
+PN5LB.vae.12198	#f6cc38	Yes
+PN5LB.vae.12257	#f6cc38	Yes
+PN5LB.vae.17278	#f6cc38	Yes
+PN5LB.vae.22194	#f6cc38	Yes
+PN5LB.vae.23756	#f6cc38	Yes
+PN5LC.bin.165	#f6cc38	Yes
+PN5LC.vae.8673	#f6cc38	Yes
+PN5LD.bin.148	#f6cc38	Yes
+PN5LD.bin.63	#f6cc38	Yes
+PN5LD.vae.10095	#f6cc38	Yes
+PN5LD.vae.12340	#f6cc38	Yes
+PN5LD.vae.12989	#f6cc38	Yes
+PN5LD.vae.1684	#f6cc38	Yes
+PN5LD.vae.18976	#f6cc38	Yes
+PN5LD.vae.7877	#f6cc38	Yes
+PN5LD.vae.927	#f6cc38	Yes
+PN5LD.vae.9312	#f6cc38	Yes
+PN5LE.bin.199	#f6cc38	Yes
+PN5LE.bin.54	#f6cc38	Yes
+PN5LE.vae.10689	#f6cc38	Yes
+PN5LE.vae.21455	#f6cc38	Yes
+PN5LE.vae.5041	#f6cc38	Yes
+PN5LF.bin.107	#f6cc38	Yes
+PN5LF.bin.295	#f6cc38	Yes
+PN5LF.bin.37	#f6cc38	Yes
+PN5LF.vae.94903	#f6cc38	Yes
+PN5LG.bin.131	#f6cc38	Yes
+PN5LG.bin.252	#f6cc38	Yes
+PN5LG.vae.10074	#f6cc38	Yes
+PN5LG.vae.5458	#f6cc38	Yes
+PN5LG.vae.9777	#f6cc38	Yes
+PN5LH.bin.225	#f6cc38	Yes
+PN5LH.vae.17356	#f6cc38	Yes
+PN5LH.vae.5910	#f6cc38	Yes
+PN5RA.bin.253	#f6cc38	Yes
+PN5RA.bin.286	#f6cc38	Yes
+PN5RA.vae.21980	#f6cc38	Yes
+PN5RA.vae.36318	#f6cc38	Yes
+PN5RA.vae.39830	#f6cc38	Yes
+PN5RB.bin.12	#f6cc38	Yes
+PN5RB.vae.11516	#f6cc38	Yes
+PN5RB.vae.542	#f6cc38	Yes
+PN5RB.vae.5788	#f6cc38	Yes
+PN5RB.vae.6262	#f6cc38	Yes
+PN5RB.vae.7162	#f6cc38	Yes
+PN5RC.bin.200	#f6cc38	Yes
+PN5RC.bin.232	#f6cc38	Yes
+PN5RC.bin.253	#f6cc38	Yes
+PN5RC.bin.267	#f6cc38	Yes
+PN5RC.vae.11857	#f6cc38	Yes
+PN5RC.vae.13389	#f6cc38	Yes
+PN5RC.vae.17613	#f6cc38	Yes
+PN5RC.vae.18314	#f6cc38	Yes
+PN5RC.vae.23720	#f6cc38	Yes
+PN5RC.vae.27694	#f6cc38	Yes
+PN5RC.vae.7575	#f6cc38	Yes
+PN5RC.vae.89543	#f6cc38	Yes
+PN5RD.bin.223	#f6cc38	Yes
+PN5RD.vae.19027	#f6cc38	Yes
+PN5RD.vae.22079	#f6cc38	Yes
+PN5RD.vae.76495	#f6cc38	Yes
+PN5RE.bin.11	#f6cc38	Yes
+PN5RE.bin.115	#f6cc38	Yes
+PN5RE.bin.165	#f6cc38	Yes
+PN5RE.bin.167	#f6cc38	Yes
+PN5RE.bin.226	#f6cc38	Yes
+PN5RE.bin.323	#f6cc38	Yes
+PN5RE.bin.50	#f6cc38	Yes
+PN5RE.bin.87	#f6cc38	Yes
+PN5RE.bin.97	#f6cc38	Yes
+PN5RE.vae.12715	#f6cc38	Yes
+PN5RE.vae.19515	#f6cc38	Yes
+PN5RE.vae.22254	#f6cc38	Yes
+PN5RE.vae.2799	#f6cc38	Yes
+PN5RE.vae.37969	#f6cc38	Yes
+PN5RF.bin.106	#f6cc38	Yes
+PN5RF.bin.283	#f6cc38	Yes
+PN5RF.vae.14494	#f6cc38	Yes
+PN5RF.vae.15887	#f6cc38	Yes
+PN5RF.vae.4017	#f6cc38	Yes
+PN5RF.vae.5024	#f6cc38	Yes
+PN5RF.vae.72198	#f6cc38	Yes
+PN5RF.vae.97247	#f6cc38	Yes
+PN5RG.bin.109	#f6cc38	Yes
+PN5RG.bin.230	#f6cc38	Yes
+PN5RG.bin.24	#f6cc38	Yes
+PN5RG.bin.243	#f6cc38	Yes
+PN5RG.bin.63	#f6cc38	Yes
+PN5RG.vae.10095	#f6cc38	Yes
+PN5RG.vae.12730	#f6cc38	Yes
+PN5RG.vae.14740	#f6cc38	Yes
+PN5RG.vae.18667	#f6cc38	Yes
+PN5RG.vae.33178	#f6cc38	Yes
+PN5RG.vae.46649	#f6cc38	Yes
+PN5RG.vae.5512	#f6cc38	Yes
+PN5RG.vae.91992	#f6cc38	Yes
+PN5RH.bin.185	#f6cc38	Yes
+PN5RH.vae.12413	#f6cc38	Yes
+PN5RH.vae.15428	#f6cc38	Yes
+PN5RH.vae.40587	#f6cc38	Yes
+PN5RH.vae.4409	#f6cc38	Yes
+PN5RH.vae.5611	#f6cc38	Yes
+PN5RH.vae.5657	#f6cc38	Yes
+PN5RH.vae.57552	#f6cc38	Yes
+PN5RH.vae.7509	#f6cc38	Yes
+PN5RH.vae.9465	#f6cc38	Yes
+PN6RA.bin.10	#f6cc38	Yes
+PN6RA.bin.105	#f6cc38	Yes
+PN6RA.bin.106	#f6cc38	Yes
+PN6RA.vae.5473	#f6cc38	Yes
+PN6RB.bin.108	#f6cc38	Yes
+PN6RB.bin.142	#f6cc38	Yes
+PN6RB.bin.212	#f6cc38	Yes
+PN6RB.bin.252	#f6cc38	Yes
+PN6RB.bin.34	#f6cc38	Yes
+PN6RB.bin.67	#f6cc38	Yes
+PN6RB.bin.8	#f6cc38	Yes
+PN6RB.vae.12530	#f6cc38	Yes
+PN6RB.vae.14535	#f6cc38	Yes
+PN6RB.vae.1691	#f6cc38	Yes
+PN6RB.vae.18442	#f6cc38	Yes
+PN6RB.vae.25081	#f6cc38	Yes
+PN6RB.vae.32906	#f6cc38	Yes
+PN6RB.vae.3960	#f6cc38	Yes
+PN6RB.vae.7629	#f6cc38	Yes
+PN6RC.bin.157	#f6cc38	Yes
+PN6RC.bin.176	#f6cc38	Yes
+PN6RC.bin.219	#f6cc38	Yes
+PN6RC.bin.65	#f6cc38	Yes
+PN6RC.bin.92	#f6cc38	Yes
+PN6RC.vae.11816	#f6cc38	Yes
+PN6RC.vae.13639	#f6cc38	Yes
+PN6RC.vae.1485	#f6cc38	Yes
+PN6RC.vae.16352	#f6cc38	Yes
+PN6RC.vae.18865	#f6cc38	Yes
+PN6RC.vae.19415	#f6cc38	Yes
+PN6RC.vae.27573	#f6cc38	Yes
+PN6RC.vae.2859	#f6cc38	Yes
+PN6RC.vae.3148	#f6cc38	Yes
+PN6RC.vae.3581	#f6cc38	Yes
+PN6RC.vae.4761	#f6cc38	Yes
+PN6RC.vae.6433	#f6cc38	Yes
+PN6RC.vae.8122	#f6cc38	Yes
+PN6RD.bin.26	#f6cc38	Yes
+PN6RD.bin.34	#f6cc38	Yes
+PN6RD.vae.2816	#f6cc38	Yes
+PN6RD.vae.355	#f6cc38	Yes
+PN6RD.vae.5253	#f6cc38	Yes
+PN6RD.vae.642	#f6cc38	Yes
+PN6RE.bin.46	#f6cc38	Yes
+PN6RE.bin.54	#f6cc38	Yes
+PN6RE.vae.18720	#f6cc38	Yes
+PN6RE.vae.4616	#f6cc38	Yes
+PN6RE.vae.5312	#f6cc38	Yes
+PN6RF.bin.124	#f6cc38	Yes
+PN6RF.bin.135	#f6cc38	Yes
+PN6RF.bin.151	#f6cc38	Yes
+PN6RF.bin.174	#f6cc38	Yes
+PN6RF.bin.18	#f6cc38	Yes
+PN6RF.bin.20	#f6cc38	Yes
+PN6RF.bin.48	#f6cc38	Yes
+PN6RF.vae.16804	#f6cc38	Yes
+PN6RF.vae.27684	#f6cc38	Yes
+PN6RF.vae.28618	#f6cc38	Yes
+PN6RF.vae.33473	#f6cc38	Yes
+PN6RF.vae.34930	#f6cc38	Yes
+PN6RF.vae.73298	#f6cc38	Yes
+PN6RF.vae.7774	#f6cc38	Yes
+PN6RG.bin.100	#f6cc38	Yes
+PN6RG.bin.102	#f6cc38	Yes
+PN6RG.bin.156	#f6cc38	Yes
+PN6RG.bin.19	#f6cc38	Yes
+PN6RG.bin.31	#f6cc38	Yes
+PN6RG.vae.12831	#f6cc38	Yes
+PN6RG.vae.2753	#f6cc38	Yes
+PN6RG.vae.4377	#f6cc38	Yes
+PN6RG.vae.71521	#f6cc38	Yes
+PN6RH.bin.22	#f6cc38	Yes
+PN6RH.vae.4521	#f6cc38	Yes
+PN6RI.bin.103	#f6cc38	Yes
+PN6RI.bin.110	#f6cc38	Yes
+PN6RI.bin.111	#f6cc38	Yes
+PN6RI.bin.121	#f6cc38	Yes
+PN6RI.bin.149	#f6cc38	Yes
+PN6RI.bin.187	#f6cc38	Yes
+PN6RI.bin.195	#f6cc38	Yes
+PN6RI.bin.29	#f6cc38	Yes
+PN6RI.bin.57	#f6cc38	Yes
+PN6RI.vae.10486	#f6cc38	Yes
+PN6RI.vae.12583	#f6cc38	Yes
+PN6RI.vae.13687	#f6cc38	Yes
+PN6RI.vae.16388	#f6cc38	Yes
+PN6RI.vae.18462	#f6cc38	Yes
+PN6RI.vae.2077	#f6cc38	Yes
+PN6RI.vae.2330	#f6cc38	Yes
+PN6RI.vae.30404	#f6cc38	Yes
+PN6RI.vae.32989	#f6cc38	Yes
+PN6RI.vae.38263	#f6cc38	Yes
+PN6RJ.bin.101	#f6cc38	Yes
+PN6RJ.bin.145	#f6cc38	Yes
+PN6RJ.vae.20625	#f6cc38	Yes
+PN6RJ.vae.2555	#f6cc38	Yes
+PN6RJ.vae.39877	#f6cc38	Yes
+PN6RJ.vae.41625	#f6cc38	Yes
+PN6RJ.vae.6785	#f6cc38	Yes
+PN6RK.bin.124	#f6cc38	Yes
+PN6RK.bin.140	#f6cc38	Yes
+PN6RK.bin.147	#f6cc38	Yes
+PN6RK.bin.19	#f6cc38	Yes
+PN6RK.bin.21	#f6cc38	Yes
+PN6RK.bin.30	#f6cc38	Yes
+PN6RK.bin.6	#f6cc38	Yes
+PN6RK.bin.86	#f6cc38	Yes
+PN6RK.vae.23825	#f6cc38	Yes
+PN6RK.vae.27890	#f6cc38	Yes
+PN6RK.vae.81483	#f6cc38	Yes
+PN6RL.bin.126	#f6cc38	Yes
+PN6RL.bin.194	#f6cc38	Yes
+PN6RL.bin.24	#f6cc38	Yes
+PN6RL.vae.1633	#f6cc38	Yes
+PN6RL.vae.2267	#f6cc38	Yes
+PN6RL.vae.3945	#f6cc38	Yes
+PN6RL.vae.8077	#f6cc38	Yes
+PN6RL.vae.8694	#f6cc38	Yes
+PN6RM.bin.12	#f6cc38	Yes
+PN6RM.bin.194	#f6cc38	Yes
+PN6RM.bin.6	#f6cc38	Yes
+PN6RM.vae.12444	#f6cc38	Yes
+PN6RM.vae.13644	#f6cc38	Yes
+PN6RM.vae.17827	#f6cc38	Yes
+PN6RM.vae.18043	#f6cc38	Yes
+PN6RM.vae.30604	#f6cc38	Yes
+PN6RM.vae.30819	#f6cc38	Yes
+PN6RM.vae.41251	#f6cc38	Yes
+PN6RM.vae.4964	#f6cc38	Yes
+PN6RM.vae.49654	#f6cc38	Yes
+PN6RN.bin.86	#f6cc38	Yes
+PN6RN.vae.16850	#f6cc38	Yes
+PN6RN.vae.18953	#f6cc38	Yes
+PN6RN.vae.2489	#f6cc38	Yes
+PN6RN.vae.3728	#f6cc38	Yes
+PN6RO.bin.101	#f6cc38	Yes
+PN6RO.bin.102	#f6cc38	Yes
+PN6RO.bin.129	#f6cc38	Yes
+PN6RO.bin.54	#f6cc38	Yes
+PN6RO.bin.93	#f6cc38	Yes
+PN6RO.vae.123632	#f6cc38	Yes
+PN6RO.vae.14063	#f6cc38	Yes
+PN6RO.vae.20214	#f6cc38	Yes
+PN6RO.vae.45512	#f6cc38	Yes
+PN6RO.vae.4683	#f6cc38	Yes
+PN6RO.vae.62989	#f6cc38	Yes
+PN6RO.vae.66118	#f6cc38	Yes
+PN6RO.vae.8535	#f6cc38	Yes
+PN6RO.vae.99779	#f6cc38	Yes
+PN6RP.bin.105	#f6cc38	Yes
+PN6RP.bin.45	#f6cc38	Yes
+PN6RP.vae.10731	#f6cc38	Yes
+PN6RP.vae.19582	#f6cc38	Yes
+PN6RP.vae.36474	#f6cc38	Yes
+PN6RP.vae.4793	#f6cc38	Yes
+PN6RP.vae.99285	#f6cc38	Yes
+PN6RQ.bin.11	#f6cc38	Yes
+PN6RQ.bin.90	#f6cc38	Yes
+PN6RQ.bin.99	#f6cc38	Yes
+PN6RQ.vae.16531	#f6cc38	Yes
+PN6RQ.vae.32505	#f6cc38	Yes
+PN6RQ.vae.4766	#f6cc38	Yes
+PN6RQ.vae.5580	#f6cc38	Yes
+PN6RR.bin.27	#f6cc38	Yes
+PN6RR.vae.795	#f6cc38	Yes
+PN6RR.vae.7961	#f6cc38	Yes
+PN6RS.bin.102	#f6cc38	Yes
+PN6RS.bin.125	#f6cc38	Yes
+PN6RS.bin.139	#f6cc38	Yes
+PN6RS.bin.92	#f6cc38	Yes
+PN6RS.vae.30524	#f6cc38	Yes
+PN6RS.vae.32942	#f6cc38	Yes
+PN6RS.vae.40801	#f6cc38	Yes
+PN6RS.vae.6788	#f6cc38	Yes
+PN6RS.vae.7833	#f6cc38	Yes
+PN6RT.bin.128	#f6cc38	Yes
+PN6RT.bin.182	#f6cc38	Yes
+PN6RT.bin.92	#f6cc38	Yes
+PN6RT.bin.94	#f6cc38	Yes
+PN6RT.vae.14226	#f6cc38	Yes
+PN6RT.vae.1562	#f6cc38	Yes
+PN6RT.vae.19627	#f6cc38	Yes
+PN6RT.vae.22999	#f6cc38	Yes
+PN6RT.vae.25275	#f6cc38	Yes
+PN6RT.vae.52612	#f6cc38	Yes
+PN6RT.vae.53489	#f6cc38	Yes
+PN6RT.vae.7279	#f6cc38	Yes
+PN7RA.bin.60	#f6cc38	Yes
+PN7RB.bin.94	#f6cc38	Yes
+PN7RB.vae.15257	#f6cc38	Yes
+PN7RB.vae.24627	#f6cc38	Yes
+PN7RB.vae.5568	#f6cc38	Yes
+PN7RC.bin.1	#f6cc38	Yes
+PN7RC.bin.100	#f6cc38	Yes
+PN7RC.bin.171	#f6cc38	Yes
+PN7RC.vae.10312	#f6cc38	Yes
+PN7RC.vae.17768	#f6cc38	Yes
+PN7RC.vae.22397	#f6cc38	Yes
+PN7RD.bin.169	#f6cc38	Yes
+PN7RD.bin.182	#f6cc38	Yes
+PN7RD.bin.67	#f6cc38	Yes
+PN7RD.vae.3897	#f6cc38	Yes
+PN7RD.vae.5371	#f6cc38	Yes
+PN7RE.bin.203	#f6cc38	Yes
+PN7RE.bin.29	#f6cc38	Yes
+PN7RE.bin.71	#f6cc38	Yes
+PN7RE.bin.91	#f6cc38	Yes
+PN7RE.vae.45053	#f6cc38	Yes
+PN7RE.vae.76249	#f6cc38	Yes
+PN7RE.vae.9209	#f6cc38	Yes
+PN7RF.bin.112	#f6cc38	Yes
+PN7RF.bin.33	#f6cc38	Yes
+PN7RF.vae.17723	#f6cc38	Yes
+PN7RF.vae.38499	#f6cc38	Yes
+PN7RF.vae.60356	#f6cc38	Yes
+PN7RG.bin.162	#f6cc38	Yes
+PN7RG.bin.178	#f6cc38	Yes
+PN7RG.bin.22	#f6cc38	Yes
+PN7RG.bin.50	#f6cc38	Yes
+PN7RG.bin.58	#f6cc38	Yes
+PN7RG.vae.29528	#f6cc38	Yes
+PN7RG.vae.32444	#f6cc38	Yes
+PN7RG.vae.53009	#f6cc38	Yes
+PN7RG.vae.8198	#f6cc38	Yes
+PN7RH.vae.14632	#f6cc38	Yes
+PN7RH.vae.8988	#f6cc38	Yes
+PN7RI.bin.15	#f6cc38	Yes
+PN7RI.bin.77	#f6cc38	Yes
+PN7RI.bin.98	#f6cc38	Yes
+PN7RI.vae.850	#f6cc38	Yes
+PN7RJ.bin.112	#f6cc38	Yes
+PN7RJ.bin.98	#f6cc38	Yes
+PN7RJ.vae.3395	#f6cc38	Yes
+PN7RJ.vae.390	#f6cc38	Yes
+PN7RJ.vae.644	#f6cc38	Yes
+PN7RK.bin.179	#f6cc38	Yes
+PN7RK.bin.39	#f6cc38	Yes
+PN7RK.vae.17681	#f6cc38	Yes
+PN7RK.vae.3297	#f6cc38	Yes
+PN7RL.vae.4461	#f6cc38	Yes
+PN7RL.vae.577	#f6cc38	Yes
+PN7RM.bin.170	#f6cc38	Yes
+PN7RM.vae.2197	#f6cc38	Yes
+PN7RN.vae.23254	#f6cc38	Yes
+PN7RN.vae.9940	#f6cc38	Yes
+PN7RO.bin.101	#f6cc38	Yes
+PN7RO.bin.127	#f6cc38	Yes
+PN7RO.bin.156	#f6cc38	Yes
+PN7RO.bin.91	#f6cc38	Yes
+PN7RO.vae.2046	#f6cc38	Yes
+PN7RO.vae.2841	#f6cc38	Yes
+PN7RO.vae.364	#f6cc38	Yes
+PN7RP.bin.133	#f6cc38	Yes
+PN7RP.bin.171	#f6cc38	Yes
+PN7RP.vae.5844	#f6cc38	Yes
+PN7RQ.bin.130	#f6cc38	Yes
+PN7RQ.bin.138	#f6cc38	Yes
+PN7RQ.bin.196	#f6cc38	Yes
+PN7RQ.vae.11258	#f6cc38	Yes
+PN7RQ.vae.16188	#f6cc38	Yes
+PN7RQ.vae.26800	#f6cc38	Yes
+PN7RQ.vae.28215	#f6cc38	Yes
+PN7RQ.vae.4036	#f6cc38	Yes
+PN7RQ.vae.42518	#f6cc38	Yes
+PN7RQ.vae.45980	#f6cc38	Yes
+PN7RQ.vae.46230	#f6cc38	Yes
+PN7RR.vae.10652	#f6cc38	Yes
+PN7RR.vae.34571	#f6cc38	Yes
+PN7RR.vae.8218	#f6cc38	Yes
+PN7RS.bin.117	#f6cc38	Yes
+PN7RS.vae.3808	#f6cc38	Yes
+PN7RS.vae.865	#f6cc38	Yes
+PN7RT.vae.1040	#f6cc38	Yes
+PN7RT.vae.1176	#f6cc38	Yes
+PN7RT.vae.12594	#f6cc38	Yes
+PN7RT.vae.20564	#f6cc38	Yes
+PN7RT.vae.21396	#f6cc38	Yes
+PN7RT.vae.62287	#f6cc38	Yes
+PN7RU.bin.82	#f6cc38	Yes
+PN7RU.vae.4551	#f6cc38	Yes
+PN7RU.vae.6305	#f6cc38	Yes
+PN7RV.vae.1435	#f6cc38	Yes
+PN8RA.bin.133	#f6cc38	Yes
+PN8RA.vae.20328	#f6cc38	Yes
+PN8RA.vae.6280	#f6cc38	Yes
+PN8RA.vae.9888	#f6cc38	Yes
+PN8RB.bin.150	#f6cc38	Yes
+PN8RB.bin.204	#f6cc38	Yes
+PN8RB.vae.15171	#f6cc38	Yes
+PN8RB.vae.24384	#f6cc38	Yes
+PN8RB.vae.24904	#f6cc38	Yes
+PN8RC.bin.102	#f6cc38	Yes
+PN8RC.bin.120	#f6cc38	Yes
+PN8RC.bin.13	#f6cc38	Yes
+PN8RC.bin.14	#f6cc38	Yes
+PN8RC.bin.156	#f6cc38	Yes
+PN8RC.bin.160	#f6cc38	Yes
+PN8RC.bin.162	#f6cc38	Yes
+PN8RC.bin.167	#f6cc38	Yes
+PN8RC.bin.66	#f6cc38	Yes
+PN8RC.bin.75	#f6cc38	Yes
+PN8RC.bin.82	#f6cc38	Yes
+PN8RC.vae.33586	#f6cc38	Yes
+PN8RC.vae.36546	#f6cc38	Yes
+PN8RC.vae.40903	#f6cc38	Yes
+PN8RC.vae.52047	#f6cc38	Yes
+PN8RC.vae.6474	#f6cc38	Yes
+PN8RC.vae.88918	#f6cc38	Yes
+PN8RD.bin.64	#f6cc38	Yes
+PN8RD.bin.74	#f6cc38	Yes
+PN8RD.vae.10067	#f6cc38	Yes
+PN8RD.vae.12927	#f6cc38	Yes
+PN8RD.vae.24321	#f6cc38	Yes
+PN8RD.vae.3381	#f6cc38	Yes
+PN8RD.vae.5665	#f6cc38	Yes
+PN8RD.vae.8226	#f6cc38	Yes
+PN8RD.vae.8239	#f6cc38	Yes
+PN8RE.bin.167	#f6cc38	Yes
+PN8RE.bin.60	#f6cc38	Yes
+PN8RE.vae.48285	#f6cc38	Yes
+PN8RE.vae.5104	#f6cc38	Yes
+PN8RE.vae.52577	#f6cc38	Yes
+PN8RF.bin.54	#f6cc38	Yes
+PN8RF.vae.10732	#f6cc38	Yes
+PN8RF.vae.13850	#f6cc38	Yes
+PN8RF.vae.1780	#f6cc38	Yes
+PN8RF.vae.2424	#f6cc38	Yes
+PN8RG.bin.196	#f6cc38	Yes
+PN8RG.vae.13769	#f6cc38	Yes
+PN8RG.vae.13914	#f6cc38	Yes
+PN8RG.vae.27456	#f6cc38	Yes
+PN8RG.vae.324	#f6cc38	Yes
+PN8RG.vae.33505	#f6cc38	Yes
+PN8RG.vae.44321	#f6cc38	Yes
+PN8RG.vae.5700	#f6cc38	Yes
+PN8RG.vae.7562	#f6cc38	Yes
+PN8RG.vae.7943	#f6cc38	Yes
+PN8RH.vae.10598	#f6cc38	Yes
+PN8RI.vae.21106	#f6cc38	Yes
+PN8RI.vae.26337	#f6cc38	Yes
+PN8RI.vae.5552	#f6cc38	Yes
+PN8RJ.bin.137	#f6cc38	Yes
+PN8RJ.bin.149	#f6cc38	Yes
+PN8RJ.bin.166	#f6cc38	Yes
+PN8RJ.bin.20	#f6cc38	Yes
+PN8RJ.vae.13178	#f6cc38	Yes
+PN8RJ.vae.25332	#f6cc38	Yes
+PN8RJ.vae.37108	#f6cc38	Yes
+PN8RK.bin.153	#f6cc38	Yes
+PN8RK.bin.17	#f6cc38	Yes
+PN8RK.bin.78	#f6cc38	Yes
+PN8RK.vae.257	#f6cc38	Yes
+PN8RK.vae.51668	#f6cc38	Yes
+PN8RK.vae.678	#f6cc38	Yes
+PN8RL.bin.124	#f6cc38	Yes
+PN8RL.bin.151	#f6cc38	Yes
+PN8RL.bin.54	#f6cc38	Yes
+PN8RL.bin.62	#f6cc38	Yes
+PN8RL.bin.7	#f6cc38	Yes
+PN8RL.vae.20741	#f6cc38	Yes
+PN8RL.vae.23547	#f6cc38	Yes
+PN8RL.vae.44930	#f6cc38	Yes
+PN8RM.bin.133	#f6cc38	Yes
+PN8RM.vae.12120	#f6cc38	Yes
+PN8RM.vae.2229	#f6cc38	Yes
+PN8RM.vae.23004	#f6cc38	Yes
+PN8RM.vae.24806	#f6cc38	Yes
+PN8RM.vae.3080	#f6cc38	Yes
+PN8RM.vae.3712	#f6cc38	Yes
+PN8RM.vae.48793	#f6cc38	Yes
+PN8RM.vae.6944	#f6cc38	Yes
+PN8RN.bin.163	#f6cc38	Yes
+PN8RN.vae.13692	#f6cc38	Yes
+PN8RN.vae.20547	#f6cc38	Yes
+PN8RN.vae.27502	#f6cc38	Yes
+PN8RN.vae.33858	#f6cc38	Yes
+PN8RN.vae.34234	#f6cc38	Yes
+PN8RN.vae.34503	#f6cc38	Yes
+PN8RN.vae.742	#f6cc38	Yes
+PN8RO.vae.3396	#f6cc38	Yes
+PN8RO.vae.3999	#f6cc38	Yes
+PN8RO.vae.606	#f6cc38	Yes
+PN8RO.vae.6799	#f6cc38	Yes
+PN8RP.bin.108	#f6cc38	Yes
+PN8RP.bin.160	#f6cc38	Yes
+PN8RP.bin.82	#f6cc38	Yes
+PN8RP.vae.14320	#f6cc38	Yes
+PN8RP.vae.18878	#f6cc38	Yes
+PN8RP.vae.2970	#f6cc38	Yes
+PN8RP.vae.3124	#f6cc38	Yes
+PN8RQ.bin.128	#f6cc38	Yes
+PN8RQ.bin.3	#f6cc38	Yes
+PN8RQ.bin.43	#f6cc38	Yes
+PN8RQ.bin.48	#f6cc38	Yes
+PN8RQ.bin.57	#f6cc38	Yes
+PN8RR.bin.104	#f6cc38	Yes
+PN8RR.bin.203	#f6cc38	Yes
+PN8RR.bin.210	#f6cc38	Yes
+PN8RR.bin.211	#f6cc38	Yes
+PN8RR.vae.3898	#f6cc38	Yes
+PN8RR.vae.40753	#f6cc38	Yes
+PN8RR.vae.515	#f6cc38	Yes
+PN8RS.bin.110	#f6cc38	Yes
+PN8RS.bin.124	#f6cc38	Yes
+PN8RS.bin.88	#f6cc38	Yes
+PN8RS.vae.10070	#f6cc38	Yes
+PN8RS.vae.15767	#f6cc38	Yes
+PN8RS.vae.2523	#f6cc38	Yes
+PN8RS.vae.39850	#f6cc38	Yes
+PN8RS.vae.4675	#f6cc38	Yes
+PN8RS.vae.9894	#f6cc38	Yes
+PN9RA.bin.154	#f6cc38	Yes
+PN9RA.bin.53	#f6cc38	Yes
+PN9RB.bin.189	#f6cc38	Yes
+PN9RB.bin.190	#f6cc38	Yes
+PN9RB.bin.80	#f6cc38	Yes
+PN9RB.vae.21883	#f6cc38	Yes
+PN9RB.vae.37285	#f6cc38	Yes
+PN9RB.vae.52324	#f6cc38	Yes
+PN9RB.vae.9726	#f6cc38	Yes
+PN9RC.bin.136	#f6cc38	Yes
+PN9RC.vae.5449	#f6cc38	Yes
+PN9RC.vae.5861	#f6cc38	Yes
+PN9RD.vae.4553	#f6cc38	Yes
+PN9RE.bin.135	#f6cc38	Yes
+PN9RE.bin.207	#f6cc38	Yes
+PN9RE.vae.1728	#f6cc38	Yes
+PN9RE.vae.56657	#f6cc38	Yes
+PN9RF.bin.169	#f6cc38	Yes
+PN9RF.vae.4481	#f6cc38	Yes
+PN9RH.bin.188	#f6cc38	Yes
+PN9RH.vae.1288	#f6cc38	Yes
+PN9RH.vae.2191	#f6cc38	Yes
+PN9RH.vae.994	#f6cc38	Yes
+PN9RI.bin.196	#f6cc38	Yes
+PN9RI.vae.17238	#f6cc38	Yes
+PN9RI.vae.17240	#f6cc38	Yes
+PN9RJ.bin.16	#f6cc38	Yes
+PN9RJ.bin.163	#f6cc38	Yes
+PN9RJ.bin.167	#f6cc38	Yes
+PN9RJ.bin.208	#f6cc38	Yes
+PN9RJ.vae.10742	#f6cc38	Yes
+PN9RJ.vae.14565	#f6cc38	Yes
+PN9RJ.vae.18632	#f6cc38	Yes
+PN9RJ.vae.34650	#f6cc38	Yes
+PN9RJ.vae.40224	#f6cc38	Yes
+PN9RK.bin.7	#f6cc38	Yes
+PN9RK.vae.13598	#f6cc38	Yes
+PN9RK.vae.13626	#f6cc38	Yes
+PN9RK.vae.13713	#f6cc38	Yes
+PN9RK.vae.3159	#f6cc38	Yes
+PN9RK.vae.4841	#f6cc38	Yes
+PN9RL.vae.1164	#f6cc38	Yes
+PN9RL.vae.15265	#f6cc38	Yes
+PN9RM.bin.178	#f6cc38	Yes
+PN9RM.bin.6	#f6cc38	Yes
+PN9RM.bin.62	#f6cc38	Yes
+PN9RM.vae.12507	#f6cc38	Yes
+PN9RM.vae.5103	#f6cc38	Yes
+PN9RN.bin.155	#f6cc38	Yes
+PN9RN.vae.8861	#f6cc38	Yes
+PN9RQ.vae.1427	#f6cc38	Yes
+R101	#f6cc38	Yes
+R106	#f6cc38	Yes
+R216	#f6cc38	Yes
+R35	#f6cc38	Yes
+R5	#f6cc38	Yes
+R78	#f6cc38	Yes
+X28a	#f6cc38	Yes
+CH11		No
+CH13		No
+CH25		No
+CH28		No
+CH7		No
+G93		No
+H139		No
+J1001		No
+J1114		No
+J113		No
+J1395		No
+J1406		No
+J183		No
+J312		No
+J343		No
+J355		No
+J381		No
+J474		No
+J520		No
+J885		No
+J900		No
+J99		No
+K273		No
+K319		No
+K341		No
+K67		No
+K8		No
+PN10RA.bin.28		No
+PN10RA.vae.10537		No
+PN10RA.vae.11136		No
+PN10RB.bin.129		No
+PN10RB.bin.39		No
+PN10RB.vae.19525		No
+PN10RB.vae.90602		No
+PN10RC.vae.518		No
+PN10RC.vae.8821		No
+PN10RD.bin.112		No
+PN10RD.bin.13		No
+PN10RD.bin.153		No
+PN10RD.bin.48		No
+PN10RD.bin.77		No
+PN10RD.vae.147424		No
+PN10RD.vae.2040		No
+PN10RD.vae.40831		No
+PN10RE.bin.70		No
+PN10RE.bin.81		No
+PN10RE.vae.22287		No
+PN10RE.vae.35066		No
+PN10RF.vae.12158		No
+PN10RF.vae.12877		No
+PN10RF.vae.23084		No
+PN10RF.vae.2611		No
+PN10RF.vae.2930		No
+PN10RF.vae.4766		No
+PN10RF.vae.6867		No
+PN10RF.vae.9448		No
+PN10RF.vae.9542		No
+PN10RG.vae.8672		No
+PN10RH.bin.111		No
+PN10RH.bin.168		No
+PN10RH.bin.189		No
+PN10RH.bin.190		No
+PN10RH.bin.3		No
+PN10RH.bin.87		No
+PN10RH.vae.12867		No
+PN10RH.vae.14512		No
+PN10RH.vae.1640		No
+PN10RH.vae.22924		No
+PN10RH.vae.44457		No
+PN10RH.vae.45902		No
+PN10RH.vae.5545		No
+PN10RH.vae.91881		No
+PN10RI.bin.119		No
+PN10RI.vae.10777		No
+PN10RI.vae.17698		No
+PN10RI.vae.2857		No
+PN10RJ.bin.118		No
+PN10RJ.bin.164		No
+PN10RJ.bin.166		No
+PN10RJ.bin.8		No
+PN10RJ.vae.2376		No
+PN10RJ.vae.39342		No
+PN10RJ.vae.58360		No
+PN10RJ.vae.76460		No
+PN10RK.bin.95		No
+PN10RK.vae.116728		No
+PN10RK.vae.1868		No
+PN10RK.vae.23166		No
+PN10RL.bin.130		No
+PN10RL.bin.165		No
+PN10RL.bin.182		No
+PN10RL.vae.31784		No
+PN10RL.vae.34513		No
+PN10RL.vae.4516		No
+PN10RL.vae.5506		No
+PN10RL.vae.771		No
+PN10RL.vae.8061		No
+PN10RM.bin.150		No
+PN10RM.vae.12084		No
+PN10RM.vae.45517		No
+PN10RM.vae.47156		No
+PN10RM.vae.7967		No
+PN10RM.vae.8333		No
+PN10RN.bin.109		No
+PN10RN.bin.182		No
+PN10RN.vae.20273		No
+PN10RN.vae.22944		No
+PN10RN.vae.28271		No
+PN10RN.vae.53878		No
+PN10RN.vae.63041		No
+PN10RO.bin.82		No
+PN10RO.vae.1355		No
+PN10RO.vae.17172		No
+PN10RO.vae.26865		No
+PN10RO.vae.4196		No
+PN10RO.vae.49396		No
+PN10RO.vae.58256		No
+PN10RO.vae.5995		No
+PN10RO.vae.6077		No
+PN10RO.vae.8897		No
+PN10RP.bin.154		No
+PN10RP.bin.55		No
+PN10RP.vae.14595		No
+PN10RP.vae.148402		No
+PN10RP.vae.18017		No
+PN10RP.vae.19671		No
+PN10RP.vae.19791		No
+PN10RP.vae.25083		No
+PN10RP.vae.27143		No
+PN10RP.vae.37655		No
+PN10RP.vae.45483		No
+PN10RP.vae.4655		No
+PN10RQ.bin.23		No
+PN10RR.bin.138		No
+PN10RR.bin.21		No
+PN10RR.bin.84		No
+PN10RR.vae.16186		No
+PN10RR.vae.16207		No
+PN10RR.vae.40708		No
+PN10RR.vae.7277		No
+PN10RR.vae.8502		No
+PN10RS.vae.1153		No
+PN10RS.vae.11887		No
+PN10RS.vae.14750		No
+PN10RS.vae.16799		No
+PN10RS.vae.18429		No
+PN10RS.vae.31748		No
+PN10RS.vae.3752		No
+PN11RA.bin.14		No
+PN11RA.bin.182		No
+PN11RA.bin.203		No
+PN11RA.bin.82		No
+PN11RA.vae.10405		No
+PN11RA.vae.11578		No
+PN11RA.vae.18046		No
+PN11RA.vae.19652		No
+PN11RB.bin.172		No
+PN11RC.bin.104		No
+PN11RC.vae.11465		No
+PN11RC.vae.15398		No
+PN11RC.vae.35492		No
+PN11RD.bin.119		No
+PN11RD.bin.137		No
+PN11RD.bin.142		No
+PN11RD.vae.13902		No
+PN11RD.vae.20348		No
+PN11RE.bin.206		No
+PN11RE.vae.12187		No
+PN11RE.vae.35415		No
+PN11RF.bin.92		No
+PN11RF.vae.22053		No
+PN11RF.vae.28473		No
+PN11RF.vae.42744		No
+PN11RF.vae.43843		No
+PN11RF.vae.5164		No
+PN11RF.vae.61502		No
+PN11RG.bin.118		No
+PN11RG.bin.126		No
+PN11RG.bin.160		No
+PN11RG.bin.24		No
+PN11RG.bin.31		No
+PN11RG.vae.14036		No
+PN11RG.vae.20532		No
+PN11RG.vae.40958		No
+PN11RH.vae.11653		No
+PN11RH.vae.51299		No
+PN11RH.vae.8287		No
+PN11RI.bin.151		No
+PN11RI.bin.209		No
+PN11RI.bin.91		No
+PN11RI.bin.98		No
+PN11RI.vae.1829		No
+PN11RI.vae.36013		No
+PN11RI.vae.43284		No
+PN11RI.vae.4412		No
+PN11RI.vae.51642		No
+PN11RI.vae.576		No
+PN11RI.vae.7714		No
+PN11RJ.vae.1284		No
+PN11RJ.vae.27966		No
+PN11RJ.vae.37594		No
+PN11RJ.vae.50594		No
+PN11RJ.vae.6926		No
+PN11RK.bin.123		No
+PN11RK.bin.197		No
+PN11RK.bin.56		No
+PN11RK.vae.102815		No
+PN11RK.vae.18645		No
+PN11RK.vae.21049		No
+PN11RK.vae.25272		No
+PN11RK.vae.3461		No
+PN11RK.vae.4648		No
+PN11RK.vae.814		No
+PN11RK.vae.9311		No
+PN11RL.bin.107		No
+PN11RL.bin.98		No
+PN11RL.vae.9447		No
+PN11RM.bin.100		No
+PN11RM.bin.210		No
+PN11RM.vae.27387		No
+PN11RM.vae.35089		No
+PN11RM.vae.4344		No
+PN11RN.bin.178		No
+PN11RN.vae.1026		No
+PN11RN.vae.20363		No
+PN11RN.vae.8899		No
+PN11RO.bin.158		No
+PN11RO.bin.20		No
+PN11RO.bin.34		No
+PN11RO.vae.11106		No
+PN11RO.vae.13758		No
+PN11RO.vae.16332		No
+PN11RO.vae.2047		No
+PN11RO.vae.3331		No
+PN12RA.bin.172		No
+PN12RA.vae.20296		No
+PN12RA.vae.46444		No
+PN12RA.vae.8317		No
+PN12RB.bin.110		No
+PN12RB.bin.160		No
+PN12RB.bin.61		No
+PN12RB.vae.10809		No
+PN12RB.vae.7057		No
+PN12RC.bin.47		No
+PN12RC.bin.68		No
+PN12RC.vae.13629		No
+PN12RC.vae.17901		No
+PN12RC.vae.3991		No
+PN12RD.bin.15		No
+PN12RD.vae.11021		No
+PN12RD.vae.9679		No
+PN12RE.vae.1131		No
+PN12RF.bin.98		No
+PN12RG.bin.90		No
+PN12RG.vae.2658		No
+PN12RH.bin.30		No
+PN12RH.bin.61		No
+PN12RH.vae.13126		No
+PN12RH.vae.2345		No
+PN12RI.bin.1		No
+PN12RJ.bin.184		No
+PN12RJ.vae.164162		No
+PN12RJ.vae.32321		No
+PN13RA.bin.104		No
+PN13RA.vae.27190		No
+PN13RB.bin.67		No
+PN13RB.vae.13829		No
+PN13RB.vae.27210		No
+PN13RB.vae.27796		No
+PN13RB.vae.30613		No
+PN13RB.vae.38664		No
+PN13RB.vae.3958		No
+PN13RB.vae.8101		No
+PN13RC.bin.134		No
+PN13RC.vae.10903		No
+PN13RC.vae.12739		No
+PN13RC.vae.14047		No
+PN13RC.vae.146874		No
+PN13RC.vae.14812		No
+PN13RC.vae.51177		No
+PN13RC.vae.7082		No
+PN13RC.vae.87658		No
+PN13RD.vae.8515		No
+PN13RD.vae.9407		No
+PN13RE.bin.16		No
+PN13RE.bin.160		No
+PN13RE.bin.187		No
+PN13RE.vae.10287		No
+PN13RE.vae.2213		No
+PN13RE.vae.2571		No
+PN13RE.vae.49489		No
+PN13RE.vae.54876		No
+PN13RE.vae.66355		No
+PN13RF.bin.113		No
+PN13RF.bin.37		No
+PN13RF.bin.5		No
+PN13RF.vae.6790		No
+PN13RG.bin.11		No
+PN13RG.bin.183		No
+PN13RG.bin.74		No
+PN13RG.vae.2876		No
+PN13RG.vae.43545		No
+PN13RH.bin.146		No
+PN13RH.bin.8		No
+PN13RH.vae.85407		No
+PN13RI.bin.99		No
+PN13RI.vae.33305		No
+PN13RI.vae.4836		No
+PN13RJ.bin.13		No
+PN13RJ.bin.202		No
+PN13RJ.vae.8247		No
+PN13RK.vae.10127		No
+PN13RK.vae.1409		No
+PN13RK.vae.22689		No
+PN13RK.vae.28235		No
+PN13RL.bin.167		No
+PN13RL.vae.10087		No
+PN13RL.vae.22407		No
+PN13RL.vae.49627		No
+PN13RM.bin.113		No
+PN13RM.bin.14		No
+PN13RM.bin.147		No
+PN13RN.bin.123		No
+PN13RN.bin.171		No
+PN13RN.bin.212		No
+PN13RN.bin.97		No
+PN13RN.vae.15856		No
+PN13RO.bin.213		No
+PN13RO.bin.25		No
+PN13RO.bin.68		No
+PN13RO.vae.1349		No
+PN13RO.vae.45168		No
+PN13RO.vae.51403		No
+PN13RP.bin.156		No
+PN13RP.bin.174		No
+PN13RP.bin.232		No
+PN13RP.bin.41		No
+PN13RP.bin.51		No
+PN13RP.bin.76		No
+PN13RP.vae.1205		No
+PN13RP.vae.12446		No
+PN13RQ.bin.213		No
+PN13RQ.vae.10055		No
+PN13RQ.vae.15113		No
+PN13RQ.vae.23495		No
+PN13RQ.vae.3588		No
+PN13RQ.vae.4980		No
+PN13RQ.vae.9350		No
+PN13RR.bin.13		No
+PN13RR.bin.186		No
+PN13RR.vae.13926		No
+PN13RR.vae.20731		No
+PN13RR.vae.2159		No
+PN13RR.vae.21849		No
+PN13RR.vae.25367		No
+PN13RR.vae.45074		No
+PN13RS.bin.123		No
+PN13RS.vae.29261		No
+PN13RS.vae.6370		No
+PN13RT.vae.12509		No
+PN13RT.vae.934		No
+PN13RU.vae.21611		No
+PN13RU.vae.5762		No
+PN14RA.bin.117		No
+PN14RA.bin.96		No
+PN14RA.vae.10105		No
+PN14RA.vae.15210		No
+PN14RB.bin.146		No
+PN14RB.bin.24		No
+PN14RB.bin.73		No
+PN14RB.vae.36677		No
+PN14RC.bin.108		No
+PN14RC.bin.219		No
+PN14RC.vae.335		No
+PN14RC.vae.5517		No
+PN14RD.bin.137		No
+PN14RD.bin.20		No
+PN14RD.bin.91		No
+PN14RD.vae.68413		No
+PN14RD.vae.79669		No
+PN14RE.bin.77		No
+PN14RE.bin.96		No
+PN14RE.vae.12682		No
+PN14RE.vae.18168		No
+PN14RF.bin.142		No
+PN14RF.vae.3391		No
+PN14RF.vae.4416		No
+PN14RF.vae.4766		No
+PN14RG.bin.125		No
+PN14RH.bin.137		No
+PN14RH.bin.16		No
+PN14RH.bin.183		No
+PN14RH.bin.58		No
+PN14RH.bin.60		No
+PN14RH.vae.26987		No
+PN14RH.vae.60503		No
+PN14RH.vae.6914		No
+PN14RI.bin.213		No
+PN14RI.bin.51		No
+PN14RI.vae.2183		No
+PN14RI.vae.60161		No
+PN14RI.vae.6677		No
+PN14RI.vae.7554		No
+PN14RI.vae.889		No
+PN14RJ.bin.188		No
+PN14RJ.bin.222		No
+PN14RJ.bin.84		No
+PN14RJ.vae.2239		No
+PN14RJ.vae.2673		No
+PN14RJ.vae.28141		No
+PN14RK.vae.3709		No
+PN14RK.vae.4602		No
+PN14RK.vae.4906		No
+PN14RL.bin.170		No
+PN14RM.bin.124		No
+PN14RM.bin.95		No
+PN14RM.vae.123731		No
+PN14RM.vae.1728		No
+PN14RM.vae.194787		No
+PN14RM.vae.22903		No
+PN14RN.bin.11		No
+PN14RN.bin.172		No
+PN14RN.vae.373		No
+PN14RO.bin.164		No
+PN14RO.bin.174		No
+PN14RO.vae.1320		No
+PN14RO.vae.13562		No
+PN14RO.vae.20045		No
+PN14RO.vae.33693		No
+PN14RO.vae.50703		No
+PN14RO.vae.77412		No
+PN14RP.bin.7		No
+PN14RP.vae.111753		No
+PN14RP.vae.15464		No
+PN14RP.vae.2063		No
+PN14RP.vae.44700		No
+PN14RP.vae.4818		No
+PN14RP.vae.6884		No
+PN14RP.vae.8357		No
+PN14RQ.bin.12		No
+PN14RQ.bin.173		No
+PN14RQ.bin.234		No
+PN14RQ.bin.75		No
+PN14RQ.bin.92		No
+PN14RQ.vae.4682		No
+PN14RQ.vae.76274		No
+PN14RR.vae.23829		No
+PN14RS.vae.36766		No
+PN14RS.vae.43731		No
+PN14RT.bin.134		No
+PN14RT.bin.36		No
+PN14RT.vae.13757		No
+PN14RT.vae.1935		No
+PN14RT.vae.40680		No
+PN14RT.vae.6219		No
+PN15RA.bin.108		No
+PN15RA.bin.5		No
+PN15RA.bin.63		No
+PN15RB.bin.138		No
+PN15RB.bin.142		No
+PN15RB.vae.111800		No
+PN15RB.vae.6065		No
+PN15RB.vae.74864		No
+PN15RB.vae.92164		No
+PN15RC.bin.96		No
+PN15RC.vae.11312		No
+PN15RC.vae.93681		No
+PN15RD.vae.17892		No
+PN15RD.vae.5788		No
+PN15RE.bin.134		No
+PN15RE.bin.40		No
+PN15RE.bin.78		No
+PN15RE.vae.931		No
+PN15RF.bin.18		No
+PN15RF.bin.57		No
+PN15RF.bin.97		No
+PN15RF.vae.1636		No
+PN15RG.bin.130		No
+PN15RH.bin.46		No
+PN15RH.bin.74		No
+PN15RH.vae.10913		No
+PN15RH.vae.12504		No
+PN15RH.vae.7595		No
+PN15RI.bin.101		No
+PN15RI.bin.107		No
+PN15RI.vae.1573		No
+PN15RI.vae.21457		No
+PN15RI.vae.23814		No
+PN15RI.vae.24372		No
+PN15RI.vae.27551		No
+PN15RI.vae.45959		No
+PN15RK.bin.100		No
+PN15RK.bin.7		No
+PN15RK.vae.25406		No
+PN15RK.vae.35103		No
+PN15RK.vae.36225		No
+PN15RL.bin.150		No
+PN15RL.bin.99		No
+PN15RM.bin.13		No
+PN15RM.bin.29		No
+PN15RM.vae.19256		No
+PN15RN.bin.35		No
+PN15RN.bin.61		No
+PN15RN.vae.1625		No
+PN15RO.bin.125		No
+PN15RO.bin.135		No
+PN15RO.vae.261		No
+PN15RO.vae.4522		No
+PN15RP.bin.42		No
+PN15RP.vae.1355		No
+PN15RP.vae.37429		No
+PN16RA.bin.116		No
+PN16RA.bin.91		No
+PN16RA.vae.2880		No
+PN16RA.vae.36252		No
+PN16RA.vae.68150		No
+PN16RB.bin.208		No
+PN16RB.bin.97		No
+PN16RB.vae.104534		No
+PN16RC.bin.14		No
+PN16RC.bin.158		No
+PN16RC.bin.16		No
+PN16RC.vae.2245		No
+PN16RC.vae.5479		No
+PN16RC.vae.6676		No
+PN16RC.vae.7759		No
+PN16RD.bin.34		No
+PN16RD.bin.42		No
+PN16RE.bin.157		No
+PN16RE.bin.34		No
+PN16RE.bin.65		No
+PN16RE.vae.30577		No
+PN16RE.vae.7477		No
+PN16RE.vae.9073		No
+PN16RE.vae.914		No
+PN16RF.bin.140		No
+PN16RF.bin.17		No
+PN16RF.bin.170		No
+PN16RF.bin.211		No
+PN16RF.bin.22		No
+PN16RF.vae.19241		No
+PN16RF.vae.34783		No
+PN16RF.vae.89971		No
+PN16RG.bin.75		No
+PN16RG.vae.49494		No
+PN16RH.vae.1057		No
+PN16RH.vae.5984		No
+PN16RI.bin.38		No
+PN16RI.vae.19097		No
+PN16RI.vae.23793		No
+PN16RI.vae.59225		No
+PN16RJ.vae.13622		No
+PN16RJ.vae.2002		No
+PN16RJ.vae.645		No
+PN16RK.vae.18101		No
+PN16RK.vae.20626		No
+PN16RK.vae.36348		No
+PN16RL.bin.52		No
+PN16RL.vae.18776		No
+PN16RL.vae.34628		No
+PN16RL.vae.5728		No
+PN16RM.bin.170		No
+PN16RM.bin.54		No
+PN16RM.vae.1065		No
+PN16RN.bin.168		No
+PN16RN.bin.23		No
+PN16RN.bin.50		No
+PN16RN.bin.55		No
+PN16RN.vae.13447		No
+PN16RN.vae.33529		No
+PN16RO.bin.45		No
+PN16RO.vae.2805		No
+PN16RO.vae.3839		No
+PN16RO.vae.4631		No
+PN16RP.bin.77		No
+PN16RP.bin.78		No
+PN16RQ.bin.157		No
+PN16RQ.bin.208		No
+PN16RQ.bin.36		No
+PN16RR.bin.92		No
+PN16RR.vae.6417		No
+PN16RS.bin.119		No
+PN16RS.bin.166		No
+PN16RS.vae.11417		No
+PN16RT.bin.39		No
+PN16RT.bin.59		No
+PN16RT.bin.87		No
+PN16RT.vae.147855		No
+PN16RT.vae.14827		No
+PN16RU.vae.14478		No
+PN16RU.vae.6427		No
+PN16RV.bin.123		No
+PN16RV.vae.14979		No
+PN16RV.vae.32981		No
+PN16RV.vae.4628		No
+PN16RV.vae.47451		No
+PN1CA.bin.150		No
+PN1CA.bin.30		No
+PN1CA.bin.54		No
+PN1CA.bin.8		No
+PN1CA.vae.30833		No
+PN1CA.vae.35480		No
+PN1CB.bin.39		No
+PN1CB.vae.14265		No
+PN1CB.vae.17334		No
+PN1CB.vae.2581		No
+PN1CC.bin.18		No
+PN1CC.bin.32		No
+PN1CD.bin.25		No
+PN1CD.bin.8		No
+PN1CD.vae.14589		No
+PN1CD.vae.18107		No
+PN1CD.vae.19287		No
+PN1CD.vae.23152		No
+PN1CD.vae.27075		No
+PN1CD.vae.41772		No
+PN1CE.bin.89		No
+PN1CF.vae.16276		No
+PN1CF.vae.7430		No
+PN1CG.vae.31761		No
+PN1CH.bin.15		No
+PN1CI.vae.12654		No
+PN1CI.vae.22147		No
+PN1CI.vae.4555		No
+PN1CI.vae.72634		No
+PN1CI.vae.99327		No
+PN1CJ.bin.101		No
+PN1CJ.vae.15401		No
+PN1CJ.vae.6639		No
+PN1CK.bin.25		No
+PN1CL.vae.19985		No
+PN1CL.vae.22093		No
+PN1CL.vae.22638		No
+PN1CL.vae.33227		No
+PN1CL.vae.3367		No
+PN1CL.vae.3833		No
+PN1GB.bin.37		No
+PN1GB.vae.867		No
+PN1GD.bin.41		No
+PN1GE.bin.83		No
+PN1GG.bin.17		No
+PN1GG.bin.46		No
+PN1GG.bin.68		No
+PN1GH.vae.23475		No
+PN1GH.vae.74038		No
+PN1GI.bin.8		No
+PN1GL.bin.46		No
+PN1II.bin.15		No
+PN1JE.bin.5		No
+PN1JE.bin.63		No
+PN1JE.vae.20171		No
+PN1JH.bin.49		No
+PN1JK.vae.5852		No
+PN1LC.bin.75		No
+PN1LD.bin.119		No
+PN1LD.bin.152		No
+PN1LE.vae.465		No
+PN1LF.bin.6		No
+PN1LF.vae.4791		No
+PN1LG.bin.6		No
+PN1LG.vae.20645		No
+PN1LH.vae.121437		No
+PN1LI.bin.105		No
+PN1LI.vae.2220		No
+PN1LI.vae.479		No
+PN1LI.vae.9957		No
+PN1LJ.vae.98180		No
+PN1LL.vae.7969		No
+PN1RA.bin.109		No
+PN1RA.bin.189		No
+PN1RA.bin.272		No
+PN1RA.vae.1175		No
+PN1RA.vae.14534		No
+PN1RA.vae.34901		No
+PN1RA.vae.49027		No
+PN1RA.vae.5840		No
+PN1RA.vae.6313		No
+PN1RB.bin.10		No
+PN1RB.bin.103		No
+PN1RB.bin.225		No
+PN1RB.bin.29		No
+PN1RB.vae.27901		No
+PN1RB.vae.43696		No
+PN1RB.vae.4501		No
+PN1RB.vae.52481		No
+PN1RC.bin.153		No
+PN1RC.bin.174		No
+PN1RC.bin.224		No
+PN1RC.bin.294		No
+PN1RC.vae.11645		No
+PN1RC.vae.12718		No
+PN1RC.vae.13658		No
+PN1RC.vae.15837		No
+PN1RC.vae.18163		No
+PN1RC.vae.27293		No
+PN1RC.vae.2749		No
+PN1RC.vae.31697		No
+PN1RC.vae.41663		No
+PN1RC.vae.5954		No
+PN1RC.vae.62660		No
+PN1RC.vae.66755		No
+PN1RC.vae.7242		No
+PN1RC.vae.8095		No
+PN1RC.vae.93693		No
+PN1RC.vae.9991		No
+PN1RD.bin.106		No
+PN1RD.bin.137		No
+PN1RD.bin.152		No
+PN1RD.bin.191		No
+PN1RD.bin.202		No
+PN1RD.bin.223		No
+PN1RD.bin.241		No
+PN1RD.bin.272		No
+PN1RD.bin.46		No
+PN1RD.vae.102890		No
+PN1RD.vae.114423		No
+PN1RD.vae.154660		No
+PN1RD.vae.16364		No
+PN1RD.vae.1958		No
+PN1RD.vae.222657		No
+PN1RD.vae.22557		No
+PN1RD.vae.28968		No
+PN1RD.vae.35317		No
+PN1RD.vae.55235		No
+PN1RD.vae.55994		No
+PN1RD.vae.6090		No
+PN1RD.vae.76817		No
+PN1RE.bin.102		No
+PN1RE.bin.124		No
+PN1RE.bin.150		No
+PN1RE.bin.183		No
+PN1RE.bin.52		No
+PN1RE.vae.19731		No
+PN1RE.vae.4017		No
+PN1RE.vae.44287		No
+PN1RE.vae.5820		No
+PN1RE.vae.62451		No
+PN1RF.bin.116		No
+PN1RF.bin.81		No
+PN1RF.vae.12819		No
+PN1RF.vae.23371		No
+PN1RF.vae.40981		No
+PN1RF.vae.7682		No
+PN1RG.bin.35		No
+PN1RG.vae.2129		No
+PN1RG.vae.3313		No
+PN1RG.vae.4734		No
+PN1RH.bin.189		No
+PN1RH.bin.217		No
+PN1RH.bin.243		No
+PN1RH.bin.273		No
+PN1RH.vae.11488		No
+PN1RH.vae.13216		No
+PN1RH.vae.13813		No
+PN1RH.vae.18292		No
+PN1RH.vae.21008		No
+PN1RH.vae.26451		No
+PN1RH.vae.37016		No
+PN1RH.vae.9410		No
+PN1RI.bin.31		No
+PN1RI.bin.68		No
+PN1RI.vae.10626		No
+PN1RI.vae.25899		No
+PN1RI.vae.28561		No
+PN1RI.vae.31873		No
+PN1RI.vae.42105		No
+PN1RI.vae.68459		No
+PN1RJ.bin.125		No
+PN1RJ.bin.128		No
+PN1RJ.bin.134		No
+PN1RJ.bin.150		No
+PN1RJ.bin.83		No
+PN1RJ.vae.111196		No
+PN1RJ.vae.11288		No
+PN1RJ.vae.118362		No
+PN1RJ.vae.13990		No
+PN1RJ.vae.21767		No
+PN1RJ.vae.25365		No
+PN1RJ.vae.47929		No
+PN1RJ.vae.491		No
+PN1RK.bin.254		No
+PN1RK.bin.71		No
+PN1RK.vae.14281		No
+PN1RK.vae.1860		No
+PN1RK.vae.19830		No
+PN1RK.vae.5586		No
+PN1RK.vae.7124		No
+PN1RK.vae.9763		No
+PN1RL.bin.135		No
+PN1RL.bin.199		No
+PN1RL.bin.23		No
+PN1RL.bin.29		No
+PN1RL.bin.62		No
+PN1RL.vae.10596		No
+PN1RL.vae.1344		No
+PN1RL.vae.14061		No
+PN1RL.vae.14434		No
+PN1RL.vae.15923		No
+PN1RL.vae.16383		No
+PN1RL.vae.2179		No
+PN1RL.vae.2409		No
+PN1RL.vae.2755		No
+PN1RL.vae.35177		No
+PN1RL.vae.3552		No
+PN1RL.vae.41703		No
+PN1RL.vae.4386		No
+PN1RL.vae.5206		No
+PN1RL.vae.6111		No
+PN1RL.vae.6615		No
+PN1RL.vae.7479		No
+PN1RL.vae.7838		No
+PN1RL.vae.827		No
+PN2CA.bin.71		No
+PN2CA.vae.30002		No
+PN2CB.bin.112		No
+PN2CB.bin.32		No
+PN2CB.bin.66		No
+PN2CB.vae.22637		No
+PN2CC.bin.133		No
+PN2CC.bin.88		No
+PN2CC.vae.102026		No
+PN2CC.vae.45014		No
+PN2CD.vae.17192		No
+PN2CD.vae.20473		No
+PN2CD.vae.34085		No
+PN2CE.bin.127		No
+PN2CE.bin.38		No
+PN2CF.bin.75		No
+PN2CG.bin.10		No
+PN2CG.bin.148		No
+PN2CG.bin.199		No
+PN2CG.bin.49		No
+PN2CG.vae.16150		No
+PN2CG.vae.2503		No
+PN2CG.vae.3032		No
+PN2CG.vae.5780		No
+PN2CG.vae.9399		No
+PN2CH.bin.117		No
+PN2CH.bin.32		No
+PN2CH.bin.54		No
+PN2CH.bin.84		No
+PN2CH.bin.95		No
+PN2CI.vae.2677		No
+PN2CI.vae.6379		No
+PN2CI.vae.879		No
+PN2CJ.bin.131		No
+PN2CJ.vae.496		No
+PN2CJ.vae.7280		No
+PN2GC.bin.3		No
+PN2GC.bin.4		No
+PN2GE.vae.8740		No
+PN2IF.bin.18		No
+PN2LA.bin.124		No
+PN2LA.bin.90		No
+PN2LB.bin.114		No
+PN2LB.bin.141		No
+PN2LB.vae.1136		No
+PN2LB.vae.2767		No
+PN2LB.vae.662		No
+PN2LC.bin.33		No
+PN2LC.vae.53418		No
+PN2LD.bin.87		No
+PN2LE.bin.18		No
+PN2LE.vae.27167		No
+PN2LF.bin.35		No
+PN2LF.bin.36		No
+PN2LF.bin.88		No
+PN2LG.bin.121		No
+PN2LG.bin.137		No
+PN2LG.vae.12543		No
+PN2LG.vae.29162		No
+PN2LG.vae.82158		No
+PN2LH.bin.64		No
+PN2LH.bin.73		No
+PN2LH.vae.16244		No
+PN2LJ.bin.46		No
+PN2LJ.vae.18012		No
+PN2RA.bin.16		No
+PN2RA.bin.88		No
+PN2RA.vae.10556		No
+PN2RA.vae.19995		No
+PN2RA.vae.22141		No
+PN2RA.vae.23678		No
+PN2RA.vae.254505		No
+PN2RA.vae.31577		No
+PN2RA.vae.32426		No
+PN2RA.vae.43933		No
+PN2RA.vae.69411		No
+PN2RB.vae.12927		No
+PN2RB.vae.20406		No
+PN2RB.vae.24203		No
+PN2RD.bin.116		No
+PN2RE.bin.29		No
+PN2RF.bin.53		No
+PN2RF.bin.62		No
+PN2RF.vae.1663		No
+PN2RF.vae.22866		No
+PN2RF.vae.2524		No
+PN2RF.vae.33192		No
+PN2RF.vae.3973		No
+PN2RF.vae.40079		No
+PN2RF.vae.45811		No
+PN2RG.bin.133		No
+PN2RG.bin.62		No
+PN2RG.vae.20829		No
+PN2RG.vae.4561		No
+PN2RH.bin.145		No
+PN2RH.vae.17580		No
+PN2RH.vae.55125		No
+PN2RH.vae.55240		No
+PN2RH.vae.6302		No
+PN2RI.bin.111		No
+PN2RI.bin.152		No
+PN2RI.vae.11061		No
+PN2RJ.bin.109		No
+PN2RJ.bin.167		No
+PN2RJ.bin.4		No
+PN2RJ.bin.8		No
+PN2RJ.vae.1482		No
+PN3CA.bin.115		No
+PN3CA.vae.114276		No
+PN3CA.vae.16217		No
+PN3CA.vae.47362		No
+PN3CA.vae.7838		No
+PN3CA.vae.9529		No
+PN3CB.bin.185		No
+PN3CB.bin.30		No
+PN3CB.bin.54		No
+PN3CB.vae.16545		No
+PN3CB.vae.17327		No
+PN3CB.vae.20479		No
+PN3CB.vae.2124		No
+PN3CB.vae.27763		No
+PN3CB.vae.31052		No
+PN3CB.vae.75552		No
+PN3CC.bin.184		No
+PN3CC.vae.26171		No
+PN3CC.vae.7083		No
+PN3CD.bin.105		No
+PN3CD.bin.116		No
+PN3CD.bin.118		No
+PN3CD.vae.22017		No
+PN3CD.vae.51794		No
+PN3CF.bin.10		No
+PN3CF.vae.17940		No
+PN3CF.vae.69780		No
+PN3CF.vae.85493		No
+PN3CG.bin.67		No
+PN3CG.bin.91		No
+PN3CG.vae.3495		No
+PN3CG.vae.8431		No
+PN3CG.vae.9098		No
+PN3CH.vae.13320		No
+PN3CH.vae.2305		No
+PN3CH.vae.25040		No
+PN3CH.vae.58057		No
+PN3DD.bin.1		No
+PN3DD.bin.63		No
+PN3GA.bin.52		No
+PN3GB.bin.48		No
+PN3GB.vae.4466		No
+PN3GD.bin.22		No
+PN3GE.bin.19		No
+PN3GH.vae.1435		No
+PN3JG.bin.11		No
+PN3JG.bin.24		No
+PN3JG.bin.28		No
+PN3JH.bin.22		No
+PN3JH.vae.2382		No
+PN3LA.bin.150		No
+PN3LA.bin.201		No
+PN3LA.bin.24		No
+PN3LA.bin.49		No
+PN3LA.vae.103619		No
+PN3LA.vae.17621		No
+PN3LA.vae.19898		No
+PN3LA.vae.8234		No
+PN3LB.bin.51		No
+PN3LB.bin.76		No
+PN3LB.vae.30663		No
+PN3LB.vae.91643		No
+PN3LC.vae.3950		No
+PN3LC.vae.45043		No
+PN3LD.bin.75		No
+PN3LD.bin.95		No
+PN3LD.vae.11983		No
+PN3LD.vae.14085		No
+PN3LD.vae.17632		No
+PN3LD.vae.54935		No
+PN3LE.bin.107		No
+PN3LE.bin.152		No
+PN3LE.bin.54		No
+PN3LE.vae.14644		No
+PN3LE.vae.45329		No
+PN3LE.vae.6365		No
+PN3LE.vae.8991		No
+PN3LG.vae.13907		No
+PN3LG.vae.1618		No
+PN3RA.bin.222		No
+PN3RA.bin.29		No
+PN3RA.bin.56		No
+PN3RA.bin.93		No
+PN3RA.vae.101357		No
+PN3RA.vae.3604		No
+PN3RA.vae.519		No
+PN3RA.vae.55291		No
+PN3RA.vae.610		No
+PN3RA.vae.80477		No
+PN3RB.bin.143		No
+PN3RB.bin.156		No
+PN3RB.bin.162		No
+PN3RB.bin.55		No
+PN3RB.vae.14931		No
+PN3RB.vae.22250		No
+PN3RB.vae.225		No
+PN3RB.vae.29048		No
+PN3RB.vae.63216		No
+PN3RB.vae.7224		No
+PN3RB.vae.9685		No
+PN3RC.bin.23		No
+PN3RC.bin.30		No
+PN3RC.vae.19866		No
+PN3RD.bin.147		No
+PN3RD.bin.176		No
+PN3RD.bin.202		No
+PN3RD.bin.39		No
+PN3RD.bin.86		No
+PN3RD.vae.16036		No
+PN3RD.vae.17069		No
+PN3RD.vae.23608		No
+PN3RD.vae.5361		No
+PN3RD.vae.9286		No
+PN3RE.vae.10097		No
+PN3RE.vae.13270		No
+PN3RE.vae.18140		No
+PN3RE.vae.19185		No
+PN3RE.vae.25173		No
+PN3RE.vae.35572		No
+PN3RE.vae.8651		No
+PN3RF.bin.170		No
+PN3RF.bin.189		No
+PN3RF.bin.193		No
+PN3RF.vae.10837		No
+PN3RF.vae.13995		No
+PN3RF.vae.15644		No
+PN3RF.vae.21076		No
+PN3RF.vae.24060		No
+PN3RF.vae.24924		No
+PN3RF.vae.2615		No
+PN3RF.vae.34846		No
+PN3RF.vae.37328		No
+PN3RF.vae.42242		No
+PN3RF.vae.48175		No
+PN3RF.vae.49212		No
+PN3RF.vae.54806		No
+PN3RF.vae.56011		No
+PN3RF.vae.6226		No
+PN3RG.bin.41		No
+PN3RG.vae.10004		No
+PN3RG.vae.10201		No
+PN3RG.vae.12117		No
+PN3RG.vae.13315		No
+PN3RG.vae.16712		No
+PN3RG.vae.1958		No
+PN3RG.vae.2890		No
+PN3RG.vae.4014		No
+PN3RG.vae.41243		No
+PN3RG.vae.8833		No
+PN3RH.bin.230		No
+PN3RH.bin.65		No
+PN3RH.bin.93		No
+PN3RH.vae.27444		No
+PN3RH.vae.37285		No
+PN4RA.bin.102		No
+PN4RA.vae.33526		No
+PN4RA.vae.6383		No
+PN4RA.vae.9845		No
+PN4RB.vae.22037		No
+PN4RB.vae.84121		No
+PN4RC.bin.85		No
+PN4RC.vae.1613		No
+PN4RD.bin.43		No
+PN4RD.bin.65		No
+PN4RD.vae.114046		No
+PN4RD.vae.68850		No
+PN4RE.bin.117		No
+PN4RE.bin.153		No
+PN4RE.bin.172		No
+PN4RE.bin.176		No
+PN4RE.bin.18		No
+PN4RE.bin.75		No
+PN4RE.vae.3744		No
+PN4RE.vae.67693		No
+PN4RE.vae.70140		No
+PN4RF.bin.57		No
+PN4RF.vae.331378		No
+PN4RF.vae.51092		No
+PN4RG.vae.11719		No
+PN4RG.vae.33620		No
+PN4RG.vae.8229		No
+PN4RH.bin.157		No
+PN4RH.vae.11860		No
+PN4RH.vae.15181		No
+PN5CA.bin.92		No
+PN5CA.vae.31839		No
+PN5CA.vae.9799		No
+PN5CA.vae.9885		No
+PN5CB.bin.130		No
+PN5CB.bin.135		No
+PN5CB.bin.143		No
+PN5CB.bin.82		No
+PN5CB.vae.158716		No
+PN5CB.vae.22709		No
+PN5CB.vae.2975		No
+PN5CB.vae.4835		No
+PN5CB.vae.60796		No
+PN5CC.vae.2750		No
+PN5CC.vae.38378		No
+PN5CC.vae.50755		No
+PN5CC.vae.7322		No
+PN5CC.vae.8795		No
+PN5CD.bin.62		No
+PN5CE.bin.251		No
+PN5CE.bin.31		No
+PN5CE.vae.10264		No
+PN5CE.vae.12156		No
+PN5CE.vae.12919		No
+PN5CE.vae.3389		No
+PN5CE.vae.6158		No
+PN5CE.vae.6733		No
+PN5CF.bin.10		No
+PN5CF.vae.13160		No
+PN5CF.vae.2490		No
+PN5CF.vae.25518		No
+PN5CF.vae.42018		No
+PN5CF.vae.5712		No
+PN5CF.vae.63495		No
+PN5CG.bin.170		No
+PN5CG.bin.265		No
+PN5CG.vae.103980		No
+PN5CG.vae.199360		No
+PN5CG.vae.25600		No
+PN5GA.vae.6292		No
+PN5GB.bin.6		No
+PN5GE.vae.2810		No
+PN5IA.bin.19		No
+PN5IA.vae.7499		No
+PN5IE.bin.107		No
+PN5IE.bin.56		No
+PN5IE.vae.204043		No
+PN5IH.vae.2688		No
+PN5IH.vae.665		No
+PN5JB.vae.7699		No
+PN5JC.vae.770		No
+PN5JD.bin.136		No
+PN5JD.bin.61		No
+PN5JD.vae.18303		No
+PN5JD.vae.18609		No
+PN5JD.vae.8928		No
+PN5JF.vae.4331		No
+PN5JH.bin.28		No
+PN5JH.bin.57		No
+PN5LA.bin.172		No
+PN5LA.bin.181		No
+PN5LA.bin.224		No
+PN5LA.vae.17488		No
+PN5LA.vae.6738		No
+PN5LB.bin.158		No
+PN5LB.bin.186		No
+PN5LB.vae.1462		No
+PN5LB.vae.1504		No
+PN5LC.bin.191		No
+PN5LC.bin.69		No
+PN5LC.bin.9		No
+PN5LC.vae.3858		No
+PN5LC.vae.9455		No
+PN5LD.bin.185		No
+PN5LD.bin.2		No
+PN5LD.bin.59		No
+PN5LD.vae.12064		No
+PN5LD.vae.12589		No
+PN5LD.vae.1556		No
+PN5LD.vae.16582		No
+PN5LE.bin.182		No
+PN5LE.bin.190		No
+PN5LE.bin.216		No
+PN5LE.bin.48		No
+PN5LE.vae.12265		No
+PN5LE.vae.14281		No
+PN5LE.vae.18766		No
+PN5LE.vae.7329		No
+PN5LF.bin.11		No
+PN5LF.bin.176		No
+PN5LF.bin.48		No
+PN5LF.bin.68		No
+PN5LF.bin.80		No
+PN5LF.vae.11880		No
+PN5LF.vae.16661		No
+PN5LF.vae.16822		No
+PN5LF.vae.19924		No
+PN5LF.vae.24624		No
+PN5LF.vae.3446		No
+PN5LF.vae.5054		No
+PN5LG.bin.35		No
+PN5LG.bin.65		No
+PN5LG.vae.1874		No
+PN5LG.vae.3825		No
+PN5LG.vae.5964		No
+PN5LH.bin.17		No
+PN5LH.vae.12128		No
+PN5RA.bin.104		No
+PN5RA.bin.185		No
+PN5RA.bin.203		No
+PN5RA.bin.269		No
+PN5RA.bin.273		No
+PN5RA.bin.305		No
+PN5RA.bin.316		No
+PN5RA.bin.5		No
+PN5RA.bin.56		No
+PN5RA.bin.82		No
+PN5RA.vae.10041		No
+PN5RA.vae.103884		No
+PN5RA.vae.111528		No
+PN5RA.vae.11471		No
+PN5RA.vae.14566		No
+PN5RA.vae.15715		No
+PN5RA.vae.16328		No
+PN5RA.vae.24964		No
+PN5RA.vae.2887		No
+PN5RA.vae.29304		No
+PN5RA.vae.35320		No
+PN5RA.vae.42408		No
+PN5RA.vae.48044		No
+PN5RA.vae.5961		No
+PN5RA.vae.6005		No
+PN5RA.vae.64030		No
+PN5RA.vae.67410		No
+PN5RA.vae.9588		No
+PN5RB.bin.120		No
+PN5RB.bin.166		No
+PN5RB.bin.174		No
+PN5RB.bin.25		No
+PN5RB.bin.251		No
+PN5RB.bin.27		No
+PN5RB.bin.277		No
+PN5RB.bin.45		No
+PN5RB.bin.46		No
+PN5RB.vae.17155		No
+PN5RB.vae.19792		No
+PN5RB.vae.20344		No
+PN5RB.vae.20576		No
+PN5RB.vae.25072		No
+PN5RB.vae.3219		No
+PN5RB.vae.38219		No
+PN5RB.vae.46801		No
+PN5RB.vae.5444		No
+PN5RC.bin.11		No
+PN5RC.bin.153		No
+PN5RC.bin.165		No
+PN5RC.bin.169		No
+PN5RC.bin.202		No
+PN5RC.bin.217		No
+PN5RC.bin.237		No
+PN5RC.bin.26		No
+PN5RC.bin.266		No
+PN5RC.vae.10536		No
+PN5RC.vae.11470		No
+PN5RC.vae.11842		No
+PN5RC.vae.12731		No
+PN5RC.vae.12905		No
+PN5RC.vae.14468		No
+PN5RC.vae.225		No
+PN5RC.vae.23630		No
+PN5RC.vae.30971		No
+PN5RC.vae.32339		No
+PN5RC.vae.32485		No
+PN5RC.vae.32897		No
+PN5RC.vae.4441		No
+PN5RC.vae.5206		No
+PN5RC.vae.56164		No
+PN5RC.vae.6630		No
+PN5RC.vae.7632		No
+PN5RC.vae.8055		No
+PN5RC.vae.8363		No
+PN5RD.bin.114		No
+PN5RD.bin.132		No
+PN5RD.bin.237		No
+PN5RD.bin.239		No
+PN5RD.bin.57		No
+PN5RD.bin.63		No
+PN5RD.bin.64		No
+PN5RD.bin.87		No
+PN5RD.vae.1108		No
+PN5RD.vae.11385		No
+PN5RD.vae.11977		No
+PN5RD.vae.13310		No
+PN5RD.vae.15857		No
+PN5RD.vae.22719		No
+PN5RD.vae.38703		No
+PN5RD.vae.5647		No
+PN5RD.vae.5999		No
+PN5RE.bin.134		No
+PN5RE.bin.151		No
+PN5RE.bin.153		No
+PN5RE.bin.154		No
+PN5RE.bin.246		No
+PN5RE.bin.3		No
+PN5RE.bin.306		No
+PN5RE.bin.327		No
+PN5RE.bin.328		No
+PN5RE.bin.352		No
+PN5RE.bin.64		No
+PN5RE.bin.73		No
+PN5RE.vae.103030		No
+PN5RE.vae.103082		No
+PN5RE.vae.10846		No
+PN5RE.vae.13625		No
+PN5RE.vae.25784		No
+PN5RE.vae.29715		No
+PN5RE.vae.35018		No
+PN5RE.vae.36641		No
+PN5RE.vae.51329		No
+PN5RE.vae.7350		No
+PN5RE.vae.7681		No
+PN5RE.vae.85259		No
+PN5RE.vae.85444		No
+PN5RE.vae.9530		No
+PN5RF.bin.146		No
+PN5RF.bin.155		No
+PN5RF.bin.175		No
+PN5RF.bin.177		No
+PN5RF.bin.235		No
+PN5RF.bin.292		No
+PN5RF.bin.6		No
+PN5RF.vae.140329		No
+PN5RF.vae.164235		No
+PN5RF.vae.257		No
+PN5RF.vae.27605		No
+PN5RF.vae.2840		No
+PN5RF.vae.36441		No
+PN5RF.vae.40744		No
+PN5RF.vae.7282		No
+PN5RG.bin.121		No
+PN5RG.bin.225		No
+PN5RG.bin.94		No
+PN5RG.vae.1012		No
+PN5RG.vae.121717		No
+PN5RG.vae.450		No
+PN5RG.vae.45175		No
+PN5RG.vae.52790		No
+PN5RG.vae.52961		No
+PN5RG.vae.86065		No
+PN5RH.bin.31		No
+PN5RH.bin.84		No
+PN5RH.vae.10684		No
+PN5RH.vae.1187		No
+PN5RH.vae.13549		No
+PN5RH.vae.14211		No
+PN5RH.vae.15485		No
+PN5RH.vae.16198		No
+PN5RH.vae.19686		No
+PN5RH.vae.7584		No
+PN6RA.vae.93628		No
+PN6RB.bin.220		No
+PN6RB.vae.2191		No
+PN6RB.vae.32416		No
+PN6RB.vae.6062		No
+PN6RB.vae.7066		No
+PN6RC.vae.10670		No
+PN6RC.vae.12785		No
+PN6RC.vae.14954		No
+PN6RC.vae.15743		No
+PN6RC.vae.17722		No
+PN6RC.vae.8102		No
+PN6RC.vae.8299		No
+PN6RC.vae.9743		No
+PN6RD.vae.1901		No
+PN6RD.vae.25455		No
+PN6RD.vae.8761		No
+PN6RD.vae.921		No
+PN6RE.vae.18336		No
+PN6RE.vae.2948		No
+PN6RE.vae.4061		No
+PN6RE.vae.9055		No
+PN6RF.bin.162		No
+PN6RF.vae.11272		No
+PN6RF.vae.32939		No
+PN6RF.vae.4844		No
+PN6RF.vae.7445		No
+PN6RF.vae.96620		No
+PN6RG.bin.120		No
+PN6RG.vae.12596		No
+PN6RG.vae.26675		No
+PN6RH.bin.111		No
+PN6RH.bin.131		No
+PN6RH.vae.20397		No
+PN6RH.vae.5507		No
+PN6RH.vae.7808		No
+PN6RI.bin.1		No
+PN6RI.bin.168		No
+PN6RI.bin.183		No
+PN6RI.bin.74		No
+PN6RI.vae.12555		No
+PN6RI.vae.16674		No
+PN6RI.vae.21678		No
+PN6RI.vae.2480		No
+PN6RI.vae.25890		No
+PN6RI.vae.38939		No
+PN6RJ.vae.10831		No
+PN6RJ.vae.156555		No
+PN6RJ.vae.1630		No
+PN6RJ.vae.32487		No
+PN6RJ.vae.76657		No
+PN6RL.vae.2889		No
+PN6RL.vae.35006		No
+PN6RL.vae.46963		No
+PN6RL.vae.974		No
+PN6RM.bin.185		No
+PN6RM.bin.60		No
+PN6RM.vae.14177		No
+PN6RN.vae.1258		No
+PN6RN.vae.7756		No
+PN6RO.bin.136		No
+PN6RO.bin.150		No
+PN6RO.bin.159		No
+PN6RO.bin.188		No
+PN6RO.vae.41184		No
+PN6RO.vae.50337		No
+PN6RP.vae.45411		No
+PN6RP.vae.54421		No
+PN6RP.vae.77926		No
+PN6RQ.bin.108		No
+PN6RQ.bin.154		No
+PN6RQ.bin.177		No
+PN6RQ.bin.180		No
+PN6RQ.bin.7		No
+PN6RQ.vae.3619		No
+PN6RQ.vae.45334		No
+PN6RQ.vae.7837		No
+PN6RQ.vae.928		No
+PN6RS.bin.20		No
+PN6RS.bin.39		No
+PN6RS.bin.9		No
+PN6RS.vae.10052		No
+PN6RS.vae.155494		No
+PN6RT.bin.202		No
+PN6RT.bin.37		No
+PN6RT.vae.6506		No
+PN7RA.bin.94		No
+PN7RA.bin.98		No
+PN7RA.vae.24338		No
+PN7RB.bin.154		No
+PN7RB.vae.22893		No
+PN7RC.bin.97		No
+PN7RD.bin.108		No
+PN7RD.vae.2664		No
+PN7RD.vae.4156		No
+PN7RD.vae.7463		No
+PN7RE.bin.131		No
+PN7RE.bin.183		No
+PN7RE.bin.59		No
+PN7RE.vae.2160		No
+PN7RE.vae.25301		No
+PN7RE.vae.3268		No
+PN7RE.vae.5502		No
+PN7RE.vae.58404		No
+PN7RE.vae.9106		No
+PN7RF.bin.55		No
+PN7RF.vae.16537		No
+PN7RF.vae.31801		No
+PN7RG.bin.115		No
+PN7RG.bin.164		No
+PN7RG.vae.71998		No
+PN7RG.vae.7305		No
+PN7RH.vae.37087		No
+PN7RH.vae.56080		No
+PN7RI.bin.161		No
+PN7RI.vae.30615		No
+PN7RI.vae.5076		No
+PN7RI.vae.5574		No
+PN7RJ.bin.115		No
+PN7RJ.vae.4665		No
+PN7RK.bin.178		No
+PN7RK.bin.25		No
+PN7RK.bin.26		No
+PN7RK.vae.14528		No
+PN7RL.bin.131		No
+PN7RL.bin.138		No
+PN7RL.bin.146		No
+PN7RL.bin.155		No
+PN7RL.bin.157		No
+PN7RL.bin.188		No
+PN7RL.bin.40		No
+PN7RL.bin.56		No
+PN7RL.bin.68		No
+PN7RL.vae.10052		No
+PN7RL.vae.4262		No
+PN7RL.vae.4445		No
+PN7RL.vae.747		No
+PN7RM.bin.119		No
+PN7RM.vae.11221		No
+PN7RM.vae.11329		No
+PN7RM.vae.3041		No
+PN7RN.bin.141		No
+PN7RN.bin.84		No
+PN7RN.vae.5847		No
+PN7RN.vae.63066		No
+PN7RN.vae.8215		No
+PN7RN.vae.96553		No
+PN7RO.bin.129		No
+PN7RO.bin.74		No
+PN7RO.bin.89		No
+PN7RO.bin.92		No
+PN7RO.vae.3860		No
+PN7RO.vae.909		No
+PN7RP.bin.162		No
+PN7RP.bin.179		No
+PN7RP.vae.19543		No
+PN7RP.vae.23470		No
+PN7RP.vae.3897		No
+PN7RP.vae.39721		No
+PN7RP.vae.48459		No
+PN7RP.vae.6421		No
+PN7RP.vae.9750		No
+PN7RQ.bin.117		No
+PN7RQ.bin.202		No
+PN7RQ.bin.85		No
+PN7RQ.bin.93		No
+PN7RQ.vae.1990		No
+PN7RQ.vae.24053		No
+PN7RQ.vae.3348		No
+PN7RQ.vae.42891		No
+PN7RR.bin.15		No
+PN7RR.bin.153		No
+PN7RR.vae.10001		No
+PN7RS.bin.135		No
+PN7RT.bin.186		No
+PN7RT.vae.15252		No
+PN7RT.vae.47292		No
+PN7RT.vae.8749		No
+PN7RU.vae.57803		No
+PN7RV.bin.107		No
+PN7RV.vae.20698		No
+PN7RV.vae.20843		No
+PN7RV.vae.8510		No
+PN8RA.vae.11727		No
+PN8RA.vae.23359		No
+PN8RA.vae.3959		No
+PN8RB.bin.141		No
+PN8RB.bin.4		No
+PN8RB.vae.19457		No
+PN8RB.vae.19883		No
+PN8RB.vae.4988		No
+PN8RC.bin.103		No
+PN8RC.bin.109		No
+PN8RC.bin.197		No
+PN8RC.bin.56		No
+PN8RC.bin.88		No
+PN8RC.bin.93		No
+PN8RC.vae.103398		No
+PN8RC.vae.1634		No
+PN8RC.vae.1933		No
+PN8RC.vae.62983		No
+PN8RD.bin.209		No
+PN8RD.vae.14215		No
+PN8RD.vae.15389		No
+PN8RD.vae.2221		No
+PN8RD.vae.25827		No
+PN8RD.vae.29469		No
+PN8RD.vae.3160		No
+PN8RD.vae.5131		No
+PN8RD.vae.6440		No
+PN8RD.vae.8264		No
+PN8RE.bin.116		No
+PN8RE.bin.145		No
+PN8RE.bin.181		No
+PN8RE.vae.10101		No
+PN8RE.vae.10656		No
+PN8RE.vae.2402		No
+PN8RE.vae.28214		No
+PN8RE.vae.28853		No
+PN8RE.vae.56070		No
+PN8RE.vae.94814		No
+PN8RE.vae.9943		No
+PN8RF.bin.207		No
+PN8RF.bin.32		No
+PN8RF.vae.11447		No
+PN8RF.vae.13688		No
+PN8RF.vae.18026		No
+PN8RF.vae.6268		No
+PN8RF.vae.9958		No
+PN8RG.bin.115		No
+PN8RG.bin.116		No
+PN8RG.bin.154		No
+PN8RG.bin.183		No
+PN8RG.vae.10847		No
+PN8RG.vae.14352		No
+PN8RG.vae.22312		No
+PN8RG.vae.83086		No
+PN8RH.bin.154		No
+PN8RH.vae.11584		No
+PN8RH.vae.18486		No
+PN8RH.vae.459		No
+PN8RI.bin.53		No
+PN8RI.vae.10854		No
+PN8RI.vae.712		No
+PN8RJ.bin.112		No
+PN8RJ.bin.117		No
+PN8RJ.bin.120		No
+PN8RJ.bin.163		No
+PN8RJ.bin.67		No
+PN8RJ.bin.77		No
+PN8RJ.vae.1590		No
+PN8RJ.vae.7960		No
+PN8RK.bin.49		No
+PN8RK.bin.77		No
+PN8RK.bin.94		No
+PN8RK.vae.11923		No
+PN8RK.vae.152763		No
+PN8RK.vae.40964		No
+PN8RL.bin.132		No
+PN8RL.bin.149		No
+PN8RL.bin.176		No
+PN8RL.bin.21		No
+PN8RL.vae.14373		No
+PN8RL.vae.16622		No
+PN8RL.vae.20262		No
+PN8RL.vae.33528		No
+PN8RL.vae.34985		No
+PN8RL.vae.41420		No
+PN8RL.vae.6450		No
+PN8RL.vae.7700		No
+PN8RM.bin.200		No
+PN8RM.bin.213		No
+PN8RM.vae.13113		No
+PN8RM.vae.20521		No
+PN8RM.vae.32610		No
+PN8RM.vae.3300		No
+PN8RM.vae.3591		No
+PN8RM.vae.508		No
+PN8RM.vae.5252		No
+PN8RN.bin.201		No
+PN8RN.vae.2013		No
+PN8RN.vae.7261		No
+PN8RO.bin.102		No
+PN8RO.bin.5		No
+PN8RO.bin.62		No
+PN8RO.vae.1089		No
+PN8RO.vae.13817		No
+PN8RO.vae.1661		No
+PN8RO.vae.2175		No
+PN8RO.vae.220		No
+PN8RO.vae.2239		No
+PN8RO.vae.2840		No
+PN8RO.vae.29805		No
+PN8RO.vae.4975		No
+PN8RP.bin.137		No
+PN8RP.bin.166		No
+PN8RP.bin.92		No
+PN8RP.vae.11599		No
+PN8RP.vae.11809		No
+PN8RP.vae.26156		No
+PN8RP.vae.5283		No
+PN8RP.vae.5693		No
+PN8RQ.bin.134		No
+PN8RQ.bin.136		No
+PN8RQ.bin.99		No
+PN8RQ.vae.11114		No
+PN8RQ.vae.31281		No
+PN8RQ.vae.7064		No
+PN8RR.bin.122		No
+PN8RR.bin.25		No
+PN8RR.bin.86		No
+PN8RR.vae.15059		No
+PN8RR.vae.23432		No
+PN8RR.vae.25205		No
+PN8RR.vae.25642		No
+PN8RR.vae.38071		No
+PN8RR.vae.4854		No
+PN8RS.bin.57		No
+PN8RS.vae.23672		No
+PN8RS.vae.2551		No
+PN8RS.vae.3301		No
+PN8RS.vae.9408		No
+PN9RA.bin.136		No
+PN9RB.vae.22858		No
+PN9RB.vae.27512		No
+PN9RC.bin.106		No
+PN9RD.vae.1750		No
+PN9RE.vae.10692		No
+PN9RE.vae.43533		No
+PN9RF.vae.9912		No
+PN9RG.bin.55		No
+PN9RG.vae.6345		No
+PN9RH.vae.1796		No
+PN9RH.vae.9560		No
+PN9RI.bin.18		No
+PN9RI.vae.1292		No
+PN9RI.vae.53597		No
+PN9RI.vae.69848		No
+PN9RJ.bin.13		No
+PN9RJ.bin.225		No
+PN9RJ.bin.283		No
+PN9RJ.bin.55		No
+PN9RJ.bin.67		No
+PN9RJ.vae.12821		No
+PN9RJ.vae.15972		No
+PN9RJ.vae.20216		No
+PN9RJ.vae.3537		No
+PN9RJ.vae.3902		No
+PN9RJ.vae.4381		No
+PN9RJ.vae.56010		No
+PN9RK.bin.125		No
+PN9RK.bin.136		No
+PN9RK.bin.47		No
+PN9RK.vae.11445		No
+PN9RK.vae.25277		No
+PN9RM.bin.130		No
+PN9RM.bin.196		No
+PN9RM.vae.4333		No
+PN9RN.bin.124		No
+PN9RN.bin.23		No
+PN9RO.bin.142		No
+PN9RO.vae.4921		No
+PN9RP.bin.129		No
+PN9RP.bin.83		No
+PN9RP.bin.88		No
+PN9RP.vae.118		No
+PN9RP.vae.4363		No
+PN9RP.vae.858		No
+PN9RQ.bin.10		No
+PN9RQ.vae.2786		No
+
+	

@@ -1,0 +1,4085 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#数据集名称
+DATASET_LABEL	strip_unknown
+#数据集的颜色
+COLOR	#ff0000
+COLOR_BRANCHES	0
+
+#元素类型
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+# 图例
+LEGEND_TITLE	Novo
+#LEGEND_POSITION_X	100
+#LEGEND_POSITION_Y	100
+#LEGEND_HORIZONTAL	0
+LEGEND_SHAPES	1	1
+LEGEND_COLORS	#ff0000	#ffffff
+LEGEND_LABELS	Novo	Known
+#LEGEND_SHAPE_SCALES	1	1	0.5	1
+
+#条形的宽度
+STRIP_WIDTH	30
+# left margin, 与内圈的距离
+MARGIN	30
+#border width; strip的边框线的粗细
+BORDER_WIDTH	0
+#border color; strip的边框线的颜色，默认就是黑色
+#BORDER_COLOR #000000
+#if set to 1, border will be drawn completely around each colored strip box
+#COMPLETE_BORDER 0
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL 0
+#display or hide the individual label inside each colored strip (when defined in the data below)
+#SHOW_STRIP_LABELS 1
+#position of the strip label within the box; 'top', 'center' or 'bottom'
+#STRIP_LABEL_POSITION center
+#strip label size factor (relative to the tree leaf labels)
+#STRIP_LABEL_SIZE_FACTOR 1
+#rotation of the strip labels; used only in rectangular tree display mode
+#STRIP_LABEL_ROTATION 0
+#strip label shift in pixels (positive or negative)
+#STRIP_LABEL_SHIFT 0
+#STRIP_LABEL_COLOR #000000
+#draw a black outline around the text (width in pixels)
+#STRIP_LABEL_OUTLINE 0.5
+#display or hide the dataset label above the colored strip
+#SHOW_LABELS 1
+#dataset label size factor
+#SIZE_FACTOR 1
+#dataset label rotation
+#LABEL_ROTATION 0
+#dataset label shift in pixels (positive or negative)
+#LABEL_SHIFT 0
+
+DATA
+#节点，颜色，名称
+PN12RE.bin.117	#42336c	Unknown
+PN9RE.vae.1728	#42336c	Unknown
+PN5IA.bin.56	#42336c	Unknown
+PN7RO.vae.2046	#42336c	Unknown
+PN9RH.bin.188	#42336c	Unknown
+PN13RS.vae.16054	#42336c	Unknown
+PN2JH.vae.1664	#42336c	Unknown
+PN12RE.vae.2619	#42336c	Unknown
+PN3GH.bin.14	#42336c	Unknown
+PN1DH.bin.3	#42336c	Unknown
+PN15RO.bin.75	#42336c	Unknown
+PN15RP.bin.110	#42336c	Unknown
+PN15RB.vae.9378	#42336c	Unknown
+PN1RG.vae.3730	#42336c	Unknown
+PN5GB.bin.11	#42336c	Unknown
+PN11RM.vae.229	#42336c	Unknown
+PN10RH.vae.1653	#42336c	Unknown
+PN11RH.bin.78	#42336c	Unknown
+PN7RJ.vae.390	#42336c	Unknown
+PN1GF.bin.15	#42336c	Unknown
+PN11RK.bin.88	#42336c	Unknown
+PN3RD.vae.5534	#42336c	Unknown
+PN5LD.vae.9312	#42336c	Unknown
+PN3CA.vae.101009	#42336c	Unknown
+PN1GC.bin.15	#42336c	Unknown
+PN6RN.vae.3728	#42336c	Unknown
+PN14RO.bin.122	#42336c	Unknown
+PN1GK.bin.25	#42336c	Unknown
+PN8RC.vae.36546	#42336c	Unknown
+PN3GB.bin.8	#42336c	Unknown
+PN3GF.vae.5355	#42336c	Unknown
+PN7RU.vae.4551	#42336c	Unknown
+PN3RB.vae.4609	#42336c	Unknown
+PN14RB.vae.5044	#42336c	Unknown
+PN10RG.vae.11046	#42336c	Unknown
+PN2LF.vae.3633	#42336c	Unknown
+PN14RH.vae.37805	#42336c	Unknown
+PN11RB.bin.71	#42336c	Unknown
+PN2JD.vae.12717	#42336c	Unknown
+PN2CF.vae.12729	#42336c	Unknown
+PN2CC.vae.7452	#42336c	Unknown
+PN6RF.bin.18	#42336c	Unknown
+PN13RE.vae.32149	#42336c	Unknown
+PN6RO.vae.66118	#42336c	Unknown
+PN11RF.vae.12622	#42336c	Unknown
+PN6RK.vae.81483	#42336c	Unknown
+PN6RI.vae.2330	#42336c	Unknown
+PN14RB.vae.21314	#42336c	Unknown
+PN3GB.bin.19	#42336c	Unknown
+PN6RC.vae.3581	#42336c	Unknown
+PN11RI.bin.118	#42336c	Unknown
+PN16RQ.vae.9914	#42336c	Unknown
+PN10RB.vae.75587	#42336c	Unknown
+PN8RS.vae.15767	#42336c	Unknown
+PN16RR.vae.80791	#42336c	Unknown
+PN16RD.vae.6276	#42336c	Unknown
+PN3DD.bin.18	#42336c	Unknown
+PN1CL.vae.62331	#42336c	Unknown
+PN13RA.vae.28982	#42336c	Unknown
+PN2LI.bin.30	#42336c	Unknown
+PN11RE.vae.18999	#42336c	Unknown
+PN10RM.vae.5165	#42336c	Unknown
+PN16RK.vae.8937	#42336c	Unknown
+PN11RO.vae.26127	#42336c	Unknown
+PN10RM.vae.3742	#42336c	Unknown
+PN13RT.vae.17061	#42336c	Unknown
+PN12RE.bin.91	#42336c	Unknown
+R78	#42336c	Unknown
+PN16RM.bin.80	#42336c	Unknown
+PN10RS.vae.30369	#42336c	Unknown
+PN5CC.bin.109	#42336c	Unknown
+PN2RB.vae.21973	#42336c	Unknown
+PN1LF.vae.3486	#42336c	Unknown
+PN6RO.vae.123632	#42336c	Unknown
+PN6RC.vae.16352	#42336c	Unknown
+PN11RF.vae.8556	#42336c	Unknown
+PN1RK.vae.7227	#42336c	Unknown
+PN3LA.vae.2051	#42336c	Unknown
+PN8RL.vae.44930	#42336c	Unknown
+PN7RH.vae.14632	#42336c	Unknown
+PN1LF.bin.53	#42336c	Unknown
+PN10RG.vae.5488	#42336c	Unknown
+PN6RC.vae.18865	#42336c	Unknown
+PN15RL.vae.36467	#42336c	Unknown
+PN10RK.bin.142	#42336c	Unknown
+PN4RD.bin.98	#42336c	Unknown
+PN8RQ.bin.43	#42336c	Unknown
+PN8RR.bin.211	#42336c	Unknown
+PN2CC.vae.10734	#42336c	Unknown
+PN8RI.vae.21106	#42336c	Unknown
+PN10RD.vae.68802	#42336c	Unknown
+PN4RC.vae.6332	#42336c	Unknown
+PN3RE.vae.21235	#42336c	Unknown
+G32	#42336c	Unknown
+PN6RL.vae.3945	#42336c	Unknown
+PN11RI.vae.5791	#42336c	Unknown
+PN12RG.vae.22175	#42336c	Unknown
+PN6RC.vae.11816	#42336c	Unknown
+PN10RP.vae.24027	#42336c	Unknown
+PN10RP.vae.14678	#42336c	Unknown
+PN6RM.vae.13644	#42336c	Unknown
+PN7RR.vae.8218	#42336c	Unknown
+PN10RQ.vae.15914	#42336c	Unknown
+PN10RO.vae.13997	#42336c	Unknown
+PN10RB.vae.21862	#42336c	Unknown
+PN7RF.vae.38499	#42336c	Unknown
+PN3GA.bin.38	#42336c	Unknown
+PN11RM.vae.28195	#42336c	Unknown
+PN3RH.vae.16642	#42336c	Unknown
+PN4RH.vae.13294	#42336c	Unknown
+PN1LD.vae.9714	#42336c	Unknown
+PN10RQ.bin.150	#42336c	Unknown
+PN7RC.vae.17768	#42336c	Unknown
+PN13RM.vae.18568	#42336c	Unknown
+PN2JB.bin.10	#42336c	Unknown
+PN10RI.vae.13870	#42336c	Unknown
+PN3DG.bin.89	#42336c	Unknown
+PN14RQ.bin.57	#42336c	Unknown
+PN5RD.vae.22079	#42336c	Unknown
+PN10RB.vae.3433	#42336c	Unknown
+PN2CH.vae.12961	#42336c	Unknown
+PN5GD.bin.7	#42336c	Unknown
+PN10RJ.vae.57880	#42336c	Unknown
+PN14RP.vae.9847	#42336c	Unknown
+PN10RO.vae.6229	#42336c	Unknown
+PN10RI.vae.3953	#42336c	Unknown
+PN11RA.bin.131	#42336c	Unknown
+PN10RR.vae.17193	#42336c	Unknown
+PN5RB.bin.12	#42336c	Unknown
+PN13RJ.vae.12167	#42336c	Unknown
+PN12RA.bin.54	#42336c	Unknown
+PN1CL.vae.8614	#42336c	Unknown
+PN6RP.vae.10731	#42336c	Unknown
+PN3JA.bin.21	#42336c	Unknown
+PN10RD.vae.2387	#42336c	Unknown
+PN13RR.vae.34023	#42336c	Unknown
+PN10RO.vae.37307	#42336c	Unknown
+PN15RB.vae.7963	#42336c	Unknown
+PN10RB.vae.64619	#42336c	Unknown
+PN6RG.bin.31	#42336c	Unknown
+PN10RN.vae.30074	#42336c	Unknown
+PN1RD.vae.160564	#42336c	Unknown
+PN3GA.vae.28292	#42336c	Unknown
+PN7RC.bin.171	#42336c	Unknown
+PN4RB.vae.16410	#42336c	Unknown
+PN5GH.vae.22826	#42336c	Unknown
+PN8RS.vae.39850	#42336c	Unknown
+PN13RQ.bin.227	#42336c	Unknown
+PN7RQ.vae.11258	#42336c	Unknown
+PN16RK.vae.13852	#42336c	Unknown
+PN10RH.vae.10354	#42336c	Unknown
+PN10RN.vae.40463	#42336c	Unknown
+PN1CB.bin.54	#42336c	Unknown
+PN1RF.vae.8342	#42336c	Unknown
+PN1GF.bin.37	#42336c	Unknown
+PN8RN.vae.742	#42336c	Unknown
+PN10RP.vae.19310	#42336c	Unknown
+PN2CF.vae.10636	#42336c	Unknown
+PN10RH.vae.19470	#42336c	Unknown
+PN3RH.vae.70923	#42336c	Unknown
+PN10RL.vae.16582	#42336c	Unknown
+PN2RJ.bin.112	#42336c	Unknown
+PN16RU.vae.32404	#42336c	Unknown
+PN11RL.vae.8438	#42336c	Unknown
+PN3RF.vae.4404	#42336c	Unknown
+PN6RQ.vae.5580	#42336c	Unknown
+PN10RB.vae.48460	#42336c	Unknown
+PN11RE.vae.24347	#42336c	Unknown
+PN8RM.vae.2229	#42336c	Unknown
+PN5RD.vae.76495	#42336c	Unknown
+PN3GB.bin.51	#42336c	Unknown
+PN2LG.vae.4115	#42336c	Unknown
+PN14RG.vae.128486	#42336c	Unknown
+PN5IE.vae.4569	#42336c	Unknown
+PN7RJ.vae.644	#42336c	Unknown
+PN6RM.vae.18043	#42336c	Unknown
+PN10RN.vae.11384	#42336c	Unknown
+PN16RC.vae.26035	#42336c	Unknown
+PN2CE.bin.19	#42336c	Unknown
+PN14RK.vae.22272	#42336c	Unknown
+PN16RR.vae.132844	#42336c	Unknown
+PN4RE.vae.130192	#42336c	Unknown
+PN16RN.vae.1121	#42336c	Unknown
+PN10RF.vae.5320	#42336c	Unknown
+PN5RD.bin.223	#42336c	Unknown
+PN10RI.vae.8529	#42336c	Unknown
+PN3GB.bin.12	#42336c	Unknown
+PN6RM.vae.30819	#42336c	Unknown
+PN8RC.vae.40903	#42336c	Unknown
+PN10RO.vae.27464	#42336c	Unknown
+PN2LD.vae.33551	#42336c	Unknown
+PN14RG.vae.3423	#42336c	Unknown
+PN14RK.vae.28654	#42336c	Unknown
+PN3LH.vae.4288	#42336c	Unknown
+PN6RE.vae.18720	#42336c	Unknown
+PN3RF.vae.27902	#42336c	Unknown
+PN10RS.vae.20750	#42336c	Unknown
+PN1RB.vae.6725	#42336c	Unknown
+PN10RO.bin.29	#42336c	Unknown
+PN13RC.vae.55473	#42336c	Unknown
+PN2RB.bin.2	#42336c	Unknown
+PN7RT.vae.21396	#42336c	Unknown
+PN6RE.vae.4616	#42336c	Unknown
+PN6RO.vae.8535	#42336c	Unknown
+PN8RM.bin.133	#42336c	Unknown
+PN1RD.vae.6521	#42336c	Unknown
+PN10RA.vae.27096	#42336c	Unknown
+PN16RD.vae.5145	#42336c	Unknown
+PN13RB.vae.23509	#42336c	Unknown
+PN3CG.vae.18280	#42336c	Unknown
+PN5CG.vae.28743	#42336c	Unknown
+PN7RK.bin.39	#42336c	Unknown
+PN2GF.vae.3028	#42336c	Unknown
+PN15RL.vae.14864	#42336c	Unknown
+PN10RG.vae.10218	#42336c	Unknown
+PN2RB.bin.21	#42336c	Unknown
+PN11RO.vae.18905	#42336c	Unknown
+PN6RI.vae.2077	#42336c	Unknown
+PN1LL.vae.15513	#42336c	Unknown
+PN6RT.vae.22999	#42336c	Unknown
+PN3JA.bin.20	#42336c	Unknown
+PN10RR.vae.8239	#42336c	Unknown
+PN2CD.vae.19363	#42336c	Unknown
+PN3CG.vae.2539	#42336c	Unknown
+PN5RB.vae.542	#42336c	Unknown
+PN3GG.vae.14509	#42336c	Unknown
+PN3CG.vae.9795	#42336c	Unknown
+PN2LJ.vae.28089	#42336c	Unknown
+PN5IE.bin.89	#42336c	Unknown
+PN11RM.vae.24886	#42336c	Unknown
+PN10RG.vae.3528	#42336c	Unknown
+PN3LB.bin.24	#42336c	Unknown
+PN5LD.vae.7877	#42336c	Unknown
+PN10RQ.vae.11348	#42336c	Unknown
+PN16RH.bin.20	#42336c	Unknown
+PN10RI.vae.16715	#42336c	Unknown
+PN10RO.bin.61	#42336c	Unknown
+PN6RS.bin.92	#42336c	Unknown
+PN7RQ.vae.46230	#42336c	Unknown
+PN2RJ.vae.30272	#42336c	Unknown
+PN3GB.bin.65	#42336c	Unknown
+PN4RE.vae.17329	#42336c	Unknown
+PN8RD.bin.74	#42336c	Unknown
+PN10RS.vae.30335	#42336c	Unknown
+PN6RB.vae.25081	#42336c	Unknown
+PN6RP.vae.19582	#42336c	Unknown
+PN10RJ.vae.45911	#42336c	Unknown
+PN10RK.vae.17141	#42336c	Unknown
+PN16RC.vae.23695	#42336c	Unknown
+PN6RI.bin.103	#42336c	Unknown
+PN4RB.vae.859	#42336c	Unknown
+PN5RA.bin.253	#42336c	Unknown
+PN16RR.vae.90224	#42336c	Unknown
+PN3RG.vae.15371	#42336c	Unknown
+PN6RC.bin.176	#42336c	Unknown
+PN8RL.bin.7	#42336c	Unknown
+PN16RA.vae.15936	#42336c	Unknown
+PN2CC.vae.17166	#42336c	Unknown
+PN16RT.bin.146	#42336c	Unknown
+PN2RE.vae.2835	#42336c	Unknown
+PN10RR.vae.8832	#42336c	Unknown
+PN11RG.vae.33099	#42336c	Unknown
+PN16RA.vae.10211	#42336c	Unknown
+PN10RQ.vae.15095	#42336c	Unknown
+PN12RB.bin.95	#42336c	Unknown
+PN7RB.vae.24627	#42336c	Unknown
+PN11RB.vae.1260	#42336c	Unknown
+PN14RI.bin.242	#42336c	Unknown
+PN3JG.bin.42	#42336c	Unknown
+PN10RO.vae.2161	#42336c	Unknown
+PN3CA.vae.4328	#42336c	Unknown
+PN16RC.bin.216	#42336c	Unknown
+PN3CA.bin.39	#42336c	Unknown
+PN6RC.vae.13639	#42336c	Unknown
+PN13RI.vae.4653	#42336c	Unknown
+PN12RD.vae.20200	#42336c	Unknown
+PN16RA.vae.13675	#42336c	Unknown
+PN2GB.vae.4889	#42336c	Unknown
+PN9RD.vae.4553	#42336c	Unknown
+PN11RH.vae.15484	#42336c	Unknown
+PN6RD.vae.355	#42336c	Unknown
+PN6RB.vae.18442	#42336c	Unknown
+PN9RB.vae.52324	#42336c	Unknown
+PN12RG.bin.34	#42336c	Unknown
+PN6RB.vae.14535	#42336c	Unknown
+PN16RD.bin.84	#42336c	Unknown
+PN12RB.vae.57498	#42336c	Unknown
+PN5LD.vae.927	#42336c	Unknown
+PN11RN.bin.172	#42336c	Unknown
+PN10RP.vae.2380	#42336c	Unknown
+PN1RA.vae.33950	#42336c	Unknown
+PN11RK.vae.11075	#42336c	Unknown
+PN5LB.vae.23756	#42336c	Unknown
+PN7RQ.vae.45980	#42336c	Unknown
+PN9RE.vae.56657	#42336c	Unknown
+PN3RF.vae.29991	#42336c	Unknown
+PN11RD.vae.10849	#42336c	Unknown
+PN10RR.vae.48913	#42336c	Unknown
+PN1CD.vae.1531	#42336c	Unknown
+PN5RH.vae.9465	#42336c	Unknown
+PN4RA.bin.40	#42336c	Unknown
+PN6RJ.bin.101	#42336c	Unknown
+PN10RS.vae.21007	#42336c	Unknown
+PN16RC.vae.9589	#42336c	Unknown
+J252	#42336c	Unknown
+PN16RL.vae.12770	#42336c	Unknown
+PN10RS.bin.164	#42336c	Unknown
+PN11RC.vae.53609	#42336c	Unknown
+PN7RG.vae.8198	#42336c	Unknown
+PN5GD.bin.75	#42336c	Unknown
+PN7RC.bin.100	#42336c	Unknown
+PN10RK.bin.14	#42336c	Unknown
+PN6RI.bin.110	#42336c	Unknown
+PN11RF.vae.10757	#42336c	Unknown
+PN15RF.vae.749	#42336c	Unknown
+PN6RC.bin.157	#42336c	Unknown
+PN11RK.bin.18	#42336c	Unknown
+PN16RE.bin.73	#42336c	Unknown
+PN13RC.vae.13024	#42336c	Unknown
+PN6RT.vae.53489	#42336c	Unknown
+PN10RC.vae.44463	#42336c	Unknown
+PN12RI.vae.9756	#42336c	Unknown
+PN7RK.bin.179	#42336c	Unknown
+PN10RF.vae.16545	#42336c	Unknown
+PN5RE.bin.165	#42336c	Unknown
+PN2RJ.bin.21	#42336c	Unknown
+PN4RE.vae.33932	#42336c	Unknown
+PN3LH.vae.14063	#42336c	Unknown
+PN11RJ.vae.39599	#42336c	Unknown
+PN10RI.vae.2334	#42336c	Unknown
+PN10RD.vae.20059	#42336c	Unknown
+PN5CB.vae.15962	#42336c	Unknown
+PN2CA.bin.102	#42336c	Unknown
+PN10RO.vae.16077	#42336c	Unknown
+PN1RE.vae.4637	#42336c	Unknown
+PN1RB.bin.148	#42336c	Unknown
+PN10RD.vae.8579	#42336c	Unknown
+PN6RA.bin.10	#42336c	Unknown
+PN3CB.bin.18	#42336c	Unknown
+PN10RH.vae.8546	#42336c	Unknown
+PN6RT.vae.25275	#42336c	Unknown
+PN12RJ.vae.3601	#42336c	Unknown
+PN3RB.bin.56	#42336c	Unknown
+PN2LC.bin.42	#42336c	Unknown
+PN3RF.bin.141	#42336c	Unknown
+PN1JG.bin.27	#42336c	Unknown
+PN6RI.vae.12583	#42336c	Unknown
+PN6RT.vae.52612	#42336c	Unknown
+PN7RK.vae.3297	#42336c	Unknown
+PN11RL.vae.5202	#42336c	Unknown
+PN8RM.vae.23004	#42336c	Unknown
+PN11RH.bin.120	#42336c	Unknown
+PN16RB.bin.164	#42336c	Unknown
+PN1RD.vae.34943	#42336c	Unknown
+PN13RH.bin.5	#42336c	Unknown
+PN3CB.vae.3351	#42336c	Unknown
+PN3GE.bin.43	#42336c	Unknown
+PN13RU.vae.8201	#42336c	Unknown
+PN5LD.vae.1684	#42336c	Unknown
+PN16RQ.vae.723	#42336c	Unknown
+PN1JE.bin.56	#42336c	Unknown
+PN3LA.vae.5366	#42336c	Unknown
+PN3CD.vae.38841	#42336c	Unknown
+PN11RE.vae.50946	#42336c	Unknown
+PN10RA.vae.55780	#42336c	Unknown
+PN5LD.vae.12340	#42336c	Unknown
+PN10RD.vae.14324	#42336c	Unknown
+PN10RJ.vae.13829	#42336c	Unknown
+PN1RA.vae.9885	#42336c	Unknown
+PN1GE.vae.19718	#42336c	Unknown
+PN13RA.vae.11960	#42336c	Unknown
+PN13RE.vae.41335	#42336c	Unknown
+PN2RC.vae.2778	#42336c	Unknown
+PN1GJ.bin.70	#42336c	Unknown
+PN10RE.vae.3402	#42336c	Unknown
+PN3CH.vae.104815	#42336c	Unknown
+PN10RF.vae.9549	#42336c	Unknown
+PN1CB.vae.4781	#42336c	Unknown
+PN5CE.vae.6857	#42336c	Unknown
+PN2CB.bin.43	#42336c	Unknown
+PN13RO.vae.10291	#42336c	Unknown
+PN11RK.vae.11286	#42336c	Unknown
+PN16RT.bin.50	#42336c	Unknown
+PN1GF.vae.11730	#42336c	Unknown
+PN1RL.vae.5420	#42336c	Unknown
+PN8RC.bin.75	#42336c	Unknown
+PN2RF.vae.7280	#42336c	Unknown
+PN2CA.vae.13121	#42336c	Unknown
+PN11RD.bin.63	#42336c	Unknown
+PN13RS.vae.7612	#42336c	Unknown
+PN8RM.vae.3712	#42336c	Unknown
+PN6RC.vae.3148	#42336c	Unknown
+PN10RS.vae.6037	#42336c	Unknown
+PN6RL.vae.2267	#42336c	Unknown
+PN11RK.vae.27069	#42336c	Unknown
+PN6RQ.vae.16531	#42336c	Unknown
+PN3RH.vae.2184	#42336c	Unknown
+PN14RK.bin.50	#42336c	Unknown
+PN10RS.vae.8767	#42336c	Unknown
+PN15RJ.vae.4905	#42336c	Unknown
+PN16RA.bin.56	#42336c	Unknown
+PN11RF.bin.47	#42336c	Unknown
+PN10RN.vae.15034	#42336c	Unknown
+PN6RJ.bin.145	#42336c	Unknown
+PN16RF.vae.1970	#42336c	Unknown
+PN5RE.vae.22254	#42336c	Unknown
+PN7RB.vae.5568	#42336c	Unknown
+PN10RR.bin.46	#42336c	Unknown
+PN3RH.vae.13292	#42336c	Unknown
+PN1RD.vae.72805	#42336c	Unknown
+PN10RB.vae.13718	#42336c	Unknown
+PN13RI.bin.189	#42336c	Unknown
+PN3RB.vae.15800	#42336c	Unknown
+PN7RP.bin.133	#42336c	Unknown
+PN11RH.bin.174	#42336c	Unknown
+PN5CC.vae.3038	#42336c	Unknown
+PN12RD.bin.54	#42336c	Unknown
+PN3GH.bin.7	#42336c	Unknown
+PN3CC.bin.111	#42336c	Unknown
+PN1LC.bin.78	#42336c	Unknown
+PN11RK.bin.57	#42336c	Unknown
+PN13RD.bin.42	#42336c	Unknown
+PN11RG.vae.16435	#42336c	Unknown
+PN7RV.vae.1435	#42336c	Unknown
+PN6RC.bin.219	#42336c	Unknown
+PN5LB.vae.22194	#42336c	Unknown
+PN8RS.bin.88	#42336c	Unknown
+PN5LF.bin.295	#42336c	Unknown
+PN16RT.vae.963	#42336c	Unknown
+PN6RB.bin.212	#42336c	Unknown
+PN7RE.vae.9209	#42336c	Unknown
+PN7RU.vae.6305	#42336c	Unknown
+PN11RB.vae.3775	#42336c	Unknown
+PN3GF.bin.45	#42336c	Unknown
+PN3LG.vae.2873	#42336c	Unknown
+PN6RT.vae.7279	#42336c	Unknown
+PN2RC.vae.2215	#42336c	Unknown
+PN9RL.vae.1164	#42336c	Unknown
+PN6RC.vae.2859	#42336c	Unknown
+PN12RB.vae.36045	#42336c	Unknown
+PN7RC.vae.10312	#42336c	Unknown
+PN11RG.vae.2977	#42336c	Unknown
+PN11RB.vae.23289	#42336c	Unknown
+PN1RA.bin.194	#42336c	Unknown
+PN11RI.vae.8176	#42336c	Unknown
+PN16RU.vae.3921	#42336c	Unknown
+PN10RD.vae.74052	#42336c	Unknown
+PN16RG.vae.44311	#42336c	Unknown
+PN16RG.vae.48868	#42336c	Unknown
+PN16RT.vae.55935	#42336c	Unknown
+PN7RD.vae.5371	#42336c	Unknown
+PN11RM.bin.222	#42336c	Unknown
+PN5LB.bin.198	#42336c	Unknown
+PN6RL.bin.24	#42336c	Unknown
+PN4RF.bin.39	#42336c	Unknown
+PN1GD.vae.23015	#42336c	Unknown
+PN10RI.vae.2839	#42336c	Unknown
+PN10RF.vae.3340	#42336c	Unknown
+PN3JF.bin.21	#42336c	Unknown
+PN3RD.bin.32	#42336c	Unknown
+PN10RA.vae.1832	#42336c	Unknown
+PN2RH.vae.31834	#42336c	Unknown
+PN3CH.vae.1043	#42336c	Unknown
+PN10RR.vae.3741	#42336c	Unknown
+PN16RU.bin.52	#42336c	Unknown
+PN10RA.vae.6800	#42336c	Unknown
+PN1LI.vae.5751	#42336c	Unknown
+PN10RC.bin.112	#42336c	Unknown
+PN6RQ.bin.11	#42336c	Unknown
+PN15RM.bin.126	#42336c	Unknown
+PN8RD.vae.24321	#42336c	Unknown
+PN6RT.bin.182	#42336c	Unknown
+PN1GE.bin.42	#42336c	Unknown
+PN10RE.vae.17760	#42336c	Unknown
+PN10RD.vae.7968	#42336c	Unknown
+PN10RI.bin.32	#42336c	Unknown
+PN11RG.bin.206	#42336c	Unknown
+PN3RF.vae.51535	#42336c	Unknown
+PN6RK.vae.23825	#42336c	Unknown
+PN2RE.vae.2846	#42336c	Unknown
+PN10RH.vae.33272	#42336c	Unknown
+PN1JE.bin.11	#42336c	Unknown
+PN16RE.vae.18779	#42336c	Unknown
+PN5RH.vae.7509	#42336c	Unknown
+PN2RC.vae.9956	#42336c	Unknown
+PN2LF.vae.14608	#42336c	Unknown
+PN11RA.vae.22660	#42336c	Unknown
+PN10RB.vae.57037	#42336c	Unknown
+PN3RD.vae.5706	#42336c	Unknown
+PN1RF.vae.26967	#42336c	Unknown
+PN2CD.bin.13	#42336c	Unknown
+PN3CG.bin.3	#42336c	Unknown
+PN7RJ.bin.112	#42336c	Unknown
+PN3DF.vae.9735	#42336c	Unknown
+PN5RE.vae.12715	#42336c	Unknown
+PN3CA.vae.8284	#42336c	Unknown
+PN9RB.vae.37285	#42336c	Unknown
+PN5CB.vae.19190	#42336c	Unknown
+PN2GB.bin.13	#42336c	Unknown
+PN10RQ.vae.1396	#42336c	Unknown
+PN16RA.vae.1272	#42336c	Unknown
+PN5RC.vae.7575	#42336c	Unknown
+PN9RJ.vae.10742	#42336c	Unknown
+PN13RQ.vae.512	#42336c	Unknown
+PN12RA.vae.7782	#42336c	Unknown
+PN16RU.bin.17	#42336c	Unknown
+PN10RC.vae.13532	#42336c	Unknown
+PN2RG.bin.25	#42336c	Unknown
+PN9RK.vae.13626	#42336c	Unknown
+PN2CE.vae.16262	#42336c	Unknown
+PN3CH.vae.6610	#42336c	Unknown
+PN8RG.vae.324	#42336c	Unknown
+PN6RB.vae.1691	#42336c	Unknown
+PN1LD.vae.5324	#42336c	Unknown
+PN6RB.bin.8	#42336c	Unknown
+PN10RC.vae.9875	#42336c	Unknown
+PN10RM.vae.18158	#42336c	Unknown
+PN3JG.bin.48	#42336c	Unknown
+PN10RF.vae.113644	#42336c	Unknown
+PN12RG.vae.28594	#42336c	Unknown
+PN3JG.bin.2	#42336c	Unknown
+PN6RS.vae.32942	#42336c	Unknown
+PN6RJ.vae.20625	#42336c	Unknown
+PN7RC.bin.1	#42336c	Unknown
+PN3LC.vae.9609	#42336c	Unknown
+PN2RF.vae.661	#42336c	Unknown
+PN4RE.vae.32418	#42336c	Unknown
+PN7RQ.bin.138	#42336c	Unknown
+PN1RL.vae.1851	#42336c	Unknown
+PN1CF.vae.30162	#42336c	Unknown
+PN10RQ.vae.15902	#42336c	Unknown
+PN3CD.vae.6551	#42336c	Unknown
+PN2RJ.vae.17248	#42336c	Unknown
+PN3RA.vae.2200	#42336c	Unknown
+PN13RG.vae.40950	#42336c	Unknown
+PN12RE.vae.2368	#42336c	Unknown
+PN7RT.vae.20564	#42336c	Unknown
+PN10RE.vae.4218	#42336c	Unknown
+PN3JF.bin.2	#42336c	Unknown
+PN1RD.bin.39	#42336c	Unknown
+PN10RD.vae.48954	#42336c	Unknown
+PN11RG.vae.47579	#42336c	Unknown
+PN3LD.vae.468	#42336c	Unknown
+PN6RC.vae.6433	#42336c	Unknown
+PN11RE.vae.39460	#42336c	Unknown
+PN3RB.vae.2682	#42336c	Unknown
+PN1RA.vae.47560	#42336c	Unknown
+PN2CF.bin.145	#42336c	Unknown
+PN14RB.bin.163	#42336c	Unknown
+PN6RI.vae.18462	#42336c	Unknown
+PN2CI.vae.13386	#42336c	Unknown
+PN10RS.vae.37188	#42336c	Unknown
+PN6RK.bin.21	#42336c	Unknown
+PN1RA.vae.32286	#42336c	Unknown
+PN16RK.bin.6	#42336c	Unknown
+PN3LH.vae.8964	#42336c	Unknown
+PN16RM.vae.19422	#42336c	Unknown
+PN11RN.vae.11300	#42336c	Unknown
+PN13RU.vae.13142	#42336c	Unknown
+PN1LF.vae.3007	#42336c	Unknown
+PN3GC.bin.11	#42336c	Unknown
+PN11RK.vae.14765	#42336c	Unknown
+PN11RF.bin.34	#42336c	Unknown
+PN6RO.vae.99779	#42336c	Unknown
+PN2LE.vae.579	#42336c	Unknown
+PN16RR.vae.51521	#42336c	Unknown
+PN12RG.vae.54143	#42336c	Unknown
+PN13RL.vae.10509	#42336c	Unknown
+PN2RD.vae.12162	#42336c	Unknown
+PN10RH.vae.20479	#42336c	Unknown
+PN1RB.vae.31310	#42336c	Unknown
+PN2RG.vae.19593	#42336c	Unknown
+PN6RB.bin.142	#42336c	Unknown
+PN5RF.vae.72198	#42336c	Unknown
+PN2RC.bin.87	#42336c	Unknown
+PN13RH.vae.35795	#42336c	Unknown
+PN1RC.bin.199	#42336c	Unknown
+PN16RM.vae.25245	#42336c	Unknown
+PN3CA.vae.9823	#42336c	Unknown
+PN6RD.bin.34	#42336c	Unknown
+PN3CG.bin.162	#42336c	Unknown
+PN3CH.vae.32233	#42336c	Unknown
+PN3RH.bin.286	#42336c	Unknown
+PN11RA.bin.214	#42336c	Unknown
+PN8RG.vae.7943	#42336c	Unknown
+PN14RP.bin.171	#42336c	Unknown
+PN16RV.vae.13077	#42336c	Unknown
+PN3RG.vae.24641	#42336c	Unknown
+PN1LD.vae.239	#42336c	Unknown
+PN10RP.bin.165	#42336c	Unknown
+PN7RF.vae.60356	#42336c	Unknown
+PN1CI.vae.1436	#42336c	Unknown
+PN3CB.bin.196	#42336c	Unknown
+PN6RM.vae.41251	#42336c	Unknown
+PN12RC.bin.21	#42336c	Unknown
+PN2CE.vae.23459	#42336c	Unknown
+PN1GG.bin.69	#42336c	Unknown
+PN6RF.bin.135	#42336c	Unknown
+PN6RI.vae.38263	#42336c	Unknown
+PN10RN.bin.73	#42336c	Unknown
+PN3RH.vae.1850	#42336c	Unknown
+PN11RG.bin.1	#42336c	Unknown
+PN3RG.bin.96	#42336c	Unknown
+PN1CG.bin.53	#42336c	Unknown
+PN5RD.vae.19027	#42336c	Unknown
+PN7RJ.bin.98	#42336c	Unknown
+PN6RI.vae.16388	#42336c	Unknown
+PN3LC.bin.150	#42336c	Unknown
+PN3JG.vae.7445	#42336c	Unknown
+PN1JE.bin.16	#42336c	Unknown
+PN5LG.bin.131	#42336c	Unknown
+PN3RD.vae.3499	#42336c	Unknown
+PN3GF.bin.54	#42336c	Unknown
+PN5RF.vae.14494	#42336c	Unknown
+PN2RB.vae.10840	#42336c	Unknown
+PN3RH.vae.7974	#42336c	Unknown
+PN12RG.bin.56	#42336c	Unknown
+PN16RO.bin.202	#42336c	Unknown
+PN4RG.vae.13447	#42336c	Unknown
+PN6RI.vae.30404	#42336c	Unknown
+PN4RG.vae.476	#42336c	Unknown
+PN10RS.vae.17941	#42336c	Unknown
+PN3LC.bin.10	#42336c	Unknown
+PN11RN.bin.183	#42336c	Unknown
+PN10RR.bin.87	#42336c	Unknown
+PN1GG.bin.43	#42336c	Unknown
+PN3CA.bin.170	#42336c	Unknown
+PN1JE.bin.4	#42336c	Unknown
+PN5CB.vae.27027	#42336c	Unknown
+PN10RC.vae.27098	#42336c	Unknown
+PN7RK.vae.17681	#42336c	Unknown
+PN3CD.bin.149	#42336c	Unknown
+PN14RB.bin.43	#42336c	Unknown
+PN3CD.vae.19124	#42336c	Unknown
+PN16RC.vae.1274	#42336c	Unknown
+PN2JD.bin.5	#42336c	Unknown
+PN2LB.vae.1958	#42336c	Unknown
+PN13RA.vae.27848	#42336c	Unknown
+PN10RF.bin.125	#42336c	Unknown
+PN2RJ.vae.28132	#42336c	Unknown
+PN1RI.vae.26211	#42336c	Unknown
+PN1GG.bin.47	#42336c	Unknown
+PN16RA.vae.1770	#42336c	Unknown
+PN11RK.vae.14576	#42336c	Unknown
+PN11RH.vae.9796	#42336c	Unknown
+PN11RK.vae.24606	#42336c	Unknown
+PN16RA.vae.81687	#42336c	Unknown
+PN6RO.bin.54	#42336c	Unknown
+PN1LC.bin.61	#42336c	Unknown
+PN6RS.bin.139	#42336c	Unknown
+PN12RJ.bin.88	#42336c	Unknown
+PN2RC.vae.13718	#42336c	Unknown
+PN10RO.vae.32421	#42336c	Unknown
+PN16RP.vae.20088	#42336c	Unknown
+PN6RN.vae.18953	#42336c	Unknown
+PN5RH.vae.57552	#42336c	Unknown
+PN16RR.bin.56	#42336c	Unknown
+PN10RD.vae.22907	#42336c	Unknown
+PN11RK.bin.108	#42336c	Unknown
+PN10RJ.vae.50602	#42336c	Unknown
+PN5LD.vae.12989	#42336c	Unknown
+PN15RH.vae.12318	#42336c	Unknown
+PN1RC.vae.13895	#42336c	Unknown
+PN11RN.bin.103	#42336c	Unknown
+PN12RH.bin.7	#42336c	Unknown
+PN6RI.bin.149	#42336c	Unknown
+PN16RN.vae.1955	#42336c	Unknown
+PN1CA.vae.23148	#42336c	Unknown
+PN3RF.vae.24182	#42336c	Unknown
+PN3LC.vae.13512	#42336c	Unknown
+PN5RE.bin.97	#42336c	Unknown
+PN2RJ.vae.16485	#42336c	Unknown
+PN3CH.vae.61649	#42336c	Unknown
+PN10RH.vae.17351	#42336c	Unknown
+PN6RD.vae.2816	#42336c	Unknown
+PN7RQ.vae.16188	#42336c	Unknown
+PN1CJ.vae.25543	#42336c	Unknown
+PN5CG.vae.60887	#42336c	Unknown
+PN1GG.bin.22	#42336c	Unknown
+PN1RD.vae.226823	#42336c	Unknown
+PN6RP.vae.36474	#42336c	Unknown
+PN3RC.vae.6771	#42336c	Unknown
+PN4RE.bin.70	#42336c	Unknown
+PN2CJ.bin.87	#42336c	Unknown
+PN7RQ.vae.42518	#42336c	Unknown
+PN2RH.vae.22093	#42336c	Unknown
+PN6RL.bin.126	#42336c	Unknown
+PN10RS.vae.48866	#42336c	Unknown
+PN1CB.vae.37083	#42336c	Unknown
+PN3RH.vae.1356	#42336c	Unknown
+PN11RJ.vae.31056	#42336c	Unknown
+PN14RB.bin.196	#42336c	Unknown
+PN3RA.bin.220	#42336c	Unknown
+PN2LJ.vae.9188	#42336c	Unknown
+PN2RH.vae.54814	#42336c	Unknown
+PN3RG.vae.1062	#42336c	Unknown
+PN5LB.vae.12198	#42336c	Unknown
+PN10RO.vae.13950	#42336c	Unknown
+PN1RD.vae.31572	#42336c	Unknown
+PN7RF.bin.33	#42336c	Unknown
+PN1LF.vae.7630	#42336c	Unknown
+PN3RD.vae.1602	#42336c	Unknown
+PN6RQ.vae.32505	#42336c	Unknown
+PN13RM.vae.5854	#42336c	Unknown
+PN11RM.vae.18554	#42336c	Unknown
+PN10RA.vae.3369	#42336c	Unknown
+PN10RH.bin.70	#42336c	Unknown
+PN2CE.vae.28692	#42336c	Unknown
+PN2RH.vae.7961	#42336c	Unknown
+PN13RD.vae.7124	#42336c	Unknown
+PN16RU.vae.43548	#42336c	Unknown
+PN4RE.vae.46740	#42336c	Unknown
+PN1CJ.vae.7095	#42336c	Unknown
+PN6RT.bin.94	#42336c	Unknown
+PN11RK.vae.26252	#42336c	Unknown
+PN16RA.vae.13838	#42336c	Unknown
+PN2RE.vae.9227	#42336c	Unknown
+PN2RA.vae.251639	#42336c	Unknown
+PN2RF.vae.37133	#42336c	Unknown
+PN3CH.bin.177	#42336c	Unknown
+PN8RN.bin.163	#42336c	Unknown
+PN10RP.vae.10512	#42336c	Unknown
+PN16RS.vae.23343	#42336c	Unknown
+PN2RE.vae.15616	#42336c	Unknown
+PN2CG.bin.134	#42336c	Unknown
+PN9RM.vae.12507	#42336c	Unknown
+PN6RF.vae.34930	#42336c	Unknown
+PN5CG.vae.47618	#42336c	Unknown
+PN5LD.vae.10095	#42336c	Unknown
+PN1RK.bin.224	#42336c	Unknown
+PN9RL.vae.15265	#42336c	Unknown
+PN6RG.vae.12831	#42336c	Unknown
+PN9RC.bin.136	#42336c	Unknown
+PN1RB.vae.7016	#42336c	Unknown
+PN6RG.bin.19	#42336c	Unknown
+PN9RJ.bin.208	#42336c	Unknown
+PN3RD.bin.141	#42336c	Unknown
+PN16RQ.vae.1925	#42336c	Unknown
+PN6RD.vae.5253	#42336c	Unknown
+PN5RH.vae.40587	#42336c	Unknown
+PN6RE.vae.5312	#42336c	Unknown
+PN3CF.bin.178	#42336c	Unknown
+PN6RH.bin.22	#42336c	Unknown
+PN10RQ.bin.6	#42336c	Unknown
+PN5LH.vae.5910	#42336c	Unknown
+PN11RC.bin.79	#42336c	Unknown
+PN2RE.vae.25782	#42336c	Unknown
+PN11RN.vae.9868	#42336c	Unknown
+PN15RC.vae.7188	#42336c	Unknown
+PN13RT.vae.412	#42336c	Unknown
+PN11RO.vae.19172	#42336c	Unknown
+PN7RN.vae.9940	#42336c	Unknown
+PN3RH.vae.18090	#42336c	Unknown
+PN6RG.bin.156	#42336c	Unknown
+PN16RK.vae.24020	#42336c	Unknown
+PN3LC.vae.2070	#42336c	Unknown
+PN9RQ.vae.1427	#42336c	Unknown
+PN11RF.bin.189	#42336c	Unknown
+PN7RG.vae.29528	#42336c	Unknown
+PN2RF.bin.72	#42336c	Unknown
+PN16RU.vae.36455	#42336c	Unknown
+PN3RB.vae.2662	#42336c	Unknown
+PN3CF.vae.20235	#42336c	Unknown
+PN5RB.vae.11516	#42336c	Unknown
+PN11RE.bin.56	#42336c	Unknown
+PN2RI.bin.218	#42336c	Unknown
+PN11RD.bin.129	#42336c	Unknown
+PN3CA.vae.75723	#42336c	Unknown
+PN2GF.bin.2	#42336c	Unknown
+PN3CA.vae.38455	#42336c	Unknown
+PN2CG.vae.53350	#42336c	Unknown
+PN10RA.vae.29982	#42336c	Unknown
+PN11RI.vae.52251	#42336c	Unknown
+PN5LG.vae.10074	#42336c	Unknown
+PN11RG.vae.87033	#42336c	Unknown
+PN2LA.bin.132	#42336c	Unknown
+PN2RE.vae.1328	#42336c	Unknown
+PN11RO.vae.14900	#42336c	Unknown
+PN8RA.vae.9888	#42336c	Unknown
+PN3CA.vae.2569	#42336c	Unknown
+PN1RC.vae.18583	#42336c	Unknown
+PN6RB.vae.7629	#42336c	Unknown
+PN15RC.bin.63	#42336c	Unknown
+PN11RN.bin.84	#42336c	Unknown
+PN16RB.bin.70	#42336c	Unknown
+PN3CH.vae.26835	#42336c	Unknown
+PN11RI.bin.143	#42336c	Unknown
+PN9RA.bin.53	#42336c	Unknown
+PN6RP.vae.4793	#42336c	Unknown
+PN11RO.vae.14092	#42336c	Unknown
+PN1CA.bin.84	#42336c	Unknown
+PN3LE.vae.5845	#42336c	Unknown
+PN2GD.vae.6314	#42336c	Unknown
+PN4RH.vae.8900	#42336c	Unknown
+PN8RM.vae.48793	#42336c	Unknown
+PN12RD.vae.22189	#42336c	Unknown
+PN8RM.vae.24806	#42336c	Unknown
+PN1RA.vae.9654	#42336c	Unknown
+PN14RJ.vae.16042	#42336c	Unknown
+PN7RP.bin.171	#42336c	Unknown
+PN8RL.bin.54	#42336c	Unknown
+PN16RO.bin.40	#42336c	Unknown
+PN11RA.vae.13774	#42336c	Unknown
+PN11RO.bin.104	#42336c	Unknown
+PN8RC.bin.156	#42336c	Unknown
+PN2LF.bin.56	#42336c	Unknown
+PN16RT.vae.9023	#42336c	Unknown
+PN6RH.vae.4521	#42336c	Unknown
+PN8RQ.bin.128	#42336c	Unknown
+PN10RS.vae.20148	#42336c	Unknown
+PN6RM.vae.4964	#42336c	Unknown
+PN11RN.vae.1704	#42336c	Unknown
+PN4RE.vae.32771	#42336c	Unknown
+PN16RT.vae.18925	#42336c	Unknown
+PN11RG.vae.32922	#42336c	Unknown
+PN9RN.bin.155	#42336c	Unknown
+PN16RG.vae.10311	#42336c	Unknown
+PN2RF.vae.6561	#42336c	Unknown
+PN7RL.vae.4461	#42336c	Unknown
+PN11RF.vae.18451	#42336c	Unknown
+PN3GB.bin.76	#42336c	Unknown
+PN6RB.vae.32906	#42336c	Unknown
+PN10RQ.vae.776	#42336c	Unknown
+PN2RG.bin.177	#42336c	Unknown
+PN14RR.bin.39	#42336c	Unknown
+PN2CE.vae.55092	#42336c	Unknown
+PN2CG.vae.11304	#42336c	Unknown
+PN3CH.vae.35705	#42336c	Unknown
+PN6RB.vae.3960	#42336c	Unknown
+PN10RD.bin.63	#42336c	Unknown
+PN6RI.bin.195	#42336c	Unknown
+PN2RB.vae.37212	#42336c	Unknown
+PN6RJ.vae.41625	#42336c	Unknown
+PN16RP.vae.29666	#42336c	Unknown
+PN10RC.bin.78	#42336c	Unknown
+PN11RK.vae.34303	#42336c	Unknown
+PN11RJ.vae.16782	#42336c	Unknown
+PN2GE.vae.20285	#42336c	Unknown
+PN2RG.vae.31750	#42336c	Unknown
+PN16RJ.bin.144	#42336c	Unknown
+PN1RL.bin.187	#42336c	Unknown
+PN7RO.vae.2841	#42336c	Unknown
+PN16RH.vae.11381	#42336c	Unknown
+PN16RM.vae.54418	#42336c	Unknown
+PN3CB.bin.29	#42336c	Unknown
+PN16RA.bin.156	#42336c	Unknown
+PN2RC.bin.129	#42336c	Unknown
+PN16RK.vae.16692	#42336c	Unknown
+PN2CE.vae.18103	#42336c	Unknown
+PN4RD.vae.10709	#42336c	Unknown
+PN6RF.bin.124	#42336c	Unknown
+PN10RB.bin.103	#42336c	Unknown
+PN2LG.vae.6786	#42336c	Unknown
+PN8RM.vae.12120	#42336c	Unknown
+PN3LH.vae.11922	#42336c	Unknown
+PN13RG.vae.18065	#42336c	Unknown
+PN6RO.bin.102	#42336c	Unknown
+PN10RL.vae.12848	#42336c	Unknown
+PN6RM.vae.17827	#42336c	Unknown
+PN14RJ.vae.18394	#42336c	Unknown
+PN1RA.bin.12	#42336c	Unknown
+PN12RC.bin.3	#42336c	Unknown
+PN6RF.vae.73298	#42336c	Unknown
+J1068	#42336c	Unknown
+PN2GG.bin.16	#42336c	Unknown
+PN7RG.bin.22	#42336c	Unknown
+PN6RA.bin.105	#42336c	Unknown
+PN10RD.bin.103	#42336c	Unknown
+PN5RA.vae.36318	#42336c	Unknown
+PN6RB.bin.67	#42336c	Unknown
+PN11RE.bin.119	#42336c	Unknown
+PN16RM.vae.10735	#42336c	Unknown
+PN10RC.vae.31866	#42336c	Unknown
+PN2RE.vae.5121	#42336c	Unknown
+PN1RL.bin.141	#42336c	Unknown
+PN3CB.vae.5275	#42336c	Unknown
+PN2GG.bin.15	#42336c	Unknown
+PN10RJ.vae.62633	#42336c	Unknown
+PN6RI.bin.187	#42336c	Unknown
+PN2LI.vae.6761	#42336c	Unknown
+PN6RC.vae.19415	#42336c	Unknown
+PN7RS.vae.3808	#42336c	Unknown
+PN3RB.bin.138	#42336c	Unknown
+PN16RK.bin.136	#42336c	Unknown
+PN3RB.vae.44633	#42336c	Unknown
+PN7RG.vae.53009	#42336c	Unknown
+PN2RJ.vae.27490	#42336c	Unknown
+PN2GB.vae.5853	#42336c	Unknown
+PN1RI.vae.131426	#42336c	Unknown
+PN2RA.vae.10280	#42336c	Unknown
+PN2RJ.vae.20178	#42336c	Unknown
+PN16RR.bin.78	#42336c	Unknown
+PN12RE.bin.11	#42336c	Unknown
+PN6RK.bin.19	#42336c	Unknown
+PN10RB.vae.4838	#42336c	Unknown
+PN10RN.vae.21619	#42336c	Unknown
+PN10RP.vae.12108	#42336c	Unknown
+PN14RB.bin.101	#42336c	Unknown
+PN16RT.bin.152	#42336c	Unknown
+PN10RC.bin.54	#42336c	Unknown
+PN3CA.bin.94	#42336c	Unknown
+PN9RA.bin.154	#42336c	Unknown
+PN5LB.vae.17278	#42336c	Unknown
+PN6RB.bin.252	#42336c	Unknown
+PN6RM.bin.12	#42336c	Unknown
+PN14RQ.bin.167	#42336c	Unknown
+PN16RP.vae.89974	#42336c	Unknown
+PN3LA.vae.5200	#42336c	Unknown
+PN1RD.vae.31518	#42336c	Unknown
+PN6RJ.vae.39877	#42336c	Unknown
+PN5RC.vae.27694	#42336c	Unknown
+PN16RH.vae.2362	#42336c	Unknown
+PN10RF.vae.699	#42336c	Unknown
+PN16RN.vae.16330	#42336c	Unknown
+PN1LD.vae.3277	#42336c	Unknown
+PN7RQ.vae.26800	#42336c	Unknown
+PN5RG.bin.109	#42336c	Unknown
+PN12RE.bin.24	#42336c	Unknown
+PN14RH.bin.111	#42336c	Unknown
+PN7RT.vae.1176	#42336c	Unknown
+PN10RD.vae.19703	#42336c	Unknown
+PN5CG.bin.39	#42336c	Unknown
+PN10RK.bin.20	#42336c	Unknown
+PN10RG.bin.62	#42336c	Unknown
+PN9RM.bin.178	#42336c	Unknown
+PN1RA.vae.20947	#42336c	Unknown
+PN16RR.bin.55	#42336c	Unknown
+PN3LH.bin.168	#42336c	Unknown
+PN10RN.vae.46581	#42336c	Unknown
+PN5RE.bin.11	#42336c	Unknown
+PN16RI.vae.1435	#42336c	Unknown
+PN6RF.vae.33473	#42336c	Unknown
+PN3GA.vae.44247	#42336c	Unknown
+PN2CG.vae.30802	#42336c	Unknown
+PN11RF.vae.27363	#42336c	Unknown
+PN2CC.vae.91357	#42336c	Unknown
+PN11RA.vae.12817	#42336c	Unknown
+PN2CG.bin.120	#42336c	Unknown
+PN13RU.bin.189	#42336c	Unknown
+PN7RO.bin.156	#42336c	Unknown
+PN7RI.vae.850	#42336c	Unknown
+PN10RJ.vae.47581	#42336c	Unknown
+PN15RK.vae.86164	#42336c	Unknown
+PN5RA.vae.39830	#42336c	Unknown
+PN7RI.bin.77	#42336c	Unknown
+PN1RK.vae.16135	#42336c	Unknown
+PN3LD.vae.11938	#42336c	Unknown
+PN16RF.vae.49807	#42336c	Unknown
+PN16RG.vae.22426	#42336c	Unknown
+PN7RL.vae.577	#42336c	Unknown
+PN3RH.vae.30221	#42336c	Unknown
+PN16RF.vae.30987	#42336c	Unknown
+PN12RA.bin.143	#42336c	Unknown
+PN3LA.vae.16192	#42336c	Unknown
+PN1RE.bin.38	#42336c	Unknown
+PN11RA.bin.188	#42336c	Unknown
+PN2CG.bin.170	#42336c	Unknown
+PN16RP.vae.34502	#42336c	Unknown
+PN6RP.bin.45	#42336c	Unknown
+PN12RB.bin.9	#42336c	Unknown
+PN10RA.vae.4826	#42336c	Unknown
+PN16RI.vae.21741	#42336c	Unknown
+PN6RA.vae.5473	#42336c	Unknown
+PN9RM.bin.6	#42336c	Unknown
+PN3LB.bin.42	#42336c	Unknown
+PN3GF.bin.30	#42336c	Unknown
+PN1RB.vae.6396	#42336c	Unknown
+PN11RJ.vae.25070	#42336c	Unknown
+PN11RE.bin.23	#42336c	Unknown
+PN3RH.vae.51905	#42336c	Unknown
+PN2CH.vae.21301	#42336c	Unknown
+PN11RH.bin.191	#42336c	Unknown
+PN3CF.vae.6762	#42336c	Unknown
+PN6RB.bin.108	#42336c	Unknown
+PN11RE.vae.18868	#42336c	Unknown
+PN6RG.vae.4377	#42336c	Unknown
+PN5RG.bin.63	#42336c	Unknown
+PN2LF.vae.7722	#42336c	Unknown
+PN16RT.vae.19578	#42336c	Unknown
+PN3CB.vae.52354	#42336c	Unknown
+PN11RA.vae.3778	#42336c	Unknown
+PN2CA.vae.21842	#42336c	Unknown
+PN3CA.bin.99	#42336c	Unknown
+PN1RB.bin.243	#42336c	Unknown
+PN3CH.bin.141	#42336c	Unknown
+PN7RE.vae.45053	#42336c	Unknown
+PN10RQ.vae.9163	#42336c	Unknown
+PN5RB.vae.7162	#42336c	Unknown
+PN10RL.vae.13524	#42336c	Unknown
+PN2RH.bin.45	#42336c	Unknown
+PN1JE.bin.77	#42336c	Unknown
+PN1RB.vae.22965	#42336c	Unknown
+PN14RG.vae.10819	#42336c	Unknown
+PN3CB.vae.12979	#42336c	Unknown
+PN7RN.vae.23254	#42336c	Unknown
+PN2CA.bin.15	#42336c	Unknown
+PN1GE.bin.55	#42336c	Unknown
+PN1RB.vae.16371	#42336c	Unknown
+PN4RC.vae.36767	#42336c	Unknown
+PN10RP.bin.145	#42336c	Unknown
+PN16RC.vae.13949	#42336c	Unknown
+PN5RE.vae.19515	#42336c	Unknown
+PN11RI.vae.313	#42336c	Unknown
+PN6RG.vae.71521	#42336c	Unknown
+PN3CB.vae.44640	#42336c	Unknown
+PN10RB.bin.67	#42336c	Unknown
+PN10RC.vae.41493	#42336c	Unknown
+PN14RI.bin.95	#42336c	Unknown
+PN16RR.vae.133656	#42336c	Unknown
+PN1RL.bin.118	#42336c	Unknown
+PN2RC.vae.3962	#42336c	Unknown
+PN1RL.bin.148	#42336c	Unknown
+PN6RI.vae.10486	#42336c	Unknown
+PN3RF.vae.34698	#42336c	Unknown
+PN3RE.vae.21429	#42336c	Unknown
+PN2RB.vae.8217	#42336c	Unknown
+PN1RH.vae.5691	#42336c	Unknown
+PN10RG.bin.10	#42336c	Unknown
+PN6RI.vae.13687	#42336c	Unknown
+PN10RR.vae.34732	#42336c	Unknown
+PN10RB.bin.140	#42336c	Unknown
+PN3RH.vae.5702	#42336c	Unknown
+PN1RA.bin.118	#42336c	Unknown
+PN3CA.vae.26312	#42336c	Unknown
+PN15RB.bin.17	#42336c	Unknown
+PN3CB.vae.9530	#42336c	Unknown
+PN10RE.vae.27722	#42336c	Unknown
+PN11RA.bin.228	#42336c	Unknown
+PN6RI.bin.57	#42336c	Unknown
+PN3CF.vae.20389	#42336c	Unknown
+PN2RJ.vae.20897	#42336c	Unknown
+PN3RA.bin.76	#42336c	Unknown
+PN15RM.vae.9196	#42336c	Unknown
+PN3RC.vae.2459	#42336c	Unknown
+PN16RP.vae.38909	#42336c	Unknown
+PN3CA.vae.203	#42336c	Unknown
+PN1CA.vae.4767	#42336c	Unknown
+PN10RB.vae.6992	#42336c	Unknown
+PN14RD.vae.35997	#42336c	Unknown
+PN6RP.vae.99285	#42336c	Unknown
+PN3RF.vae.19205	#42336c	Unknown
+PN10RH.bin.149	#42336c	Unknown
+PN6RG.vae.2753	#42336c	Unknown
+PN1RA.vae.4790	#42336c	Unknown
+PN7RM.bin.170	#42336c	Unknown
+PN1RA.vae.3441	#42336c	Unknown
+PN2RC.vae.5263	#42336c	Unknown
+PN13RE.vae.39614	#42336c	Unknown
+PN11RF.vae.14504	#42336c	Unknown
+PN12RA.vae.7343	#42336c	Unknown
+PN12RB.vae.14741	#42336c	Unknown
+PN11RO.bin.30	#42336c	Unknown
+PN15RK.vae.42078	#42336c	Unknown
+PN3CA.vae.3419	#42336c	Unknown
+PN16RG.vae.23843	#42336c	Unknown
+PN2CG.vae.13867	#42336c	Unknown
+PN7RT.vae.62287	#42336c	Unknown
+PN11RH.bin.211	#42336c	Unknown
+PN14RH.vae.6935	#42336c	Unknown
+PN2RG.bin.155	#42336c	Unknown
+PN10RL.vae.25010	#42336c	Unknown
+PN1RB.vae.24020	#42336c	Unknown
+PN12RI.bin.72	#42336c	Unknown
+PN4RE.vae.37633	#42336c	Unknown
+PN3CB.bin.197	#42336c	Unknown
+PN2RC.vae.1420	#42336c	Unknown
+PN1RB.bin.205	#42336c	Unknown
+PN3RF.vae.3811	#42336c	Unknown
+PN2GC.bin.42	#42336c	Unknown
+PN3RF.vae.17177	#42336c	Unknown
+PN11RF.vae.26781	#42336c	Unknown
+PN2RA.vae.116991	#42336c	Unknown
+PN3DD.bin.39	#42336c	Unknown
+PN3CD.vae.175426	#42336c	Unknown
+PN16RK.bin.152	#42336c	Unknown
+PN8RO.vae.3396	#42336c	Unknown
+PN16RN.bin.186	#42336c	Unknown
+PN1LD.vae.41572	#42336c	Unknown
+PN3RH.bin.87	#42336c	Unknown
+PN3CG.vae.27859	#42336c	Unknown
+PN14RQ.vae.8935	#42336c	Unknown
+PN15RB.vae.155435	#42336c	Unknown
+PN3CD.vae.88779	#42336c	Unknown
+PN3CB.vae.7456	#42336c	Unknown
+PN6RO.bin.93	#42336c	Unknown
+PN8RJ.bin.166	#42336c	Unknown
+PN7RR.vae.34571	#42336c	Unknown
+PN1RE.vae.21623	#42336c	Unknown
+PN6RN.vae.2489	#42336c	Unknown
+PN11RE.bin.179	#42336c	Unknown
+PN10RG.vae.5708	#42336c	Unknown
+PN2LG.vae.2093	#42336c	Unknown
+PN8RD.vae.8239	#42336c	Unknown
+PN1RK.bin.40	#42336c	Unknown
+PN1RK.vae.17426	#42336c	Unknown
+PN16RF.vae.40870	#42336c	Unknown
+PN8RM.vae.6944	#42336c	Unknown
+PN7RH.vae.8988	#42336c	Unknown
+PN1CL.vae.6880	#42336c	Unknown
+PN10RA.vae.9727	#42336c	Unknown
+PN7RE.bin.71	#42336c	Unknown
+PN6RQ.bin.99	#42336c	Unknown
+PN7RT.vae.12594	#42336c	Unknown
+PN5RG.vae.5512	#42336c	Unknown
+PN3LC.vae.3141	#42336c	Unknown
+PN3RF.bin.79	#42336c	Unknown
+PN1RL.bin.42	#42336c	Unknown
+PN1CC.vae.3984	#42336c	Unknown
+PN14RB.vae.64119	#42336c	Unknown
+PN1RD.vae.53684	#42336c	Unknown
+PN3DG.vae.71786	#42336c	Unknown
+PN16RV.bin.35	#42336c	Unknown
+PN3CD.vae.80983	#42336c	Unknown
+PN14RS.vae.46794	#42336c	Unknown
+PN3CC.vae.39272	#42336c	Unknown
+PN1LD.vae.5683	#42336c	Unknown
+PN6RM.bin.194	#42336c	Unknown
+PN11RD.vae.20653	#42336c	Unknown
+PN1CD.vae.22975	#42336c	Unknown
+PN1RL.vae.2467	#42336c	Unknown
+PN3RH.bin.131	#42336c	Unknown
+PN7RE.vae.76249	#42336c	Unknown
+PN11RI.vae.14133	#42336c	Unknown
+PN6RJ.vae.6785	#42336c	Unknown
+PN3CC.bin.55	#42336c	Unknown
+PN6RF.bin.48	#42336c	Unknown
+PN6RT.vae.14226	#42336c	Unknown
+PN1RC.vae.19806	#42336c	Unknown
+PN1RA.bin.93	#42336c	Unknown
+PN5RG.vae.14740	#42336c	Unknown
+PN5RG.bin.230	#42336c	Unknown
+PN13RD.bin.51	#42336c	Unknown
+PN1RB.vae.39594	#42336c	Unknown
+PN1RD.vae.40434	#42336c	Unknown
+PN10RC.bin.106	#42336c	Unknown
+PN11RH.bin.1	#42336c	Unknown
+PN11RK.vae.7492	#42336c	Unknown
+PN14RE.vae.12891	#42336c	Unknown
+PN5LH.bin.225	#42336c	Unknown
+PN3RD.bin.9	#42336c	Unknown
+PN6RC.bin.92	#42336c	Unknown
+PN2RB.bin.109	#42336c	Unknown
+PN16RG.vae.24619	#42336c	Unknown
+PN3LG.bin.156	#42336c	Unknown
+PN2GD.bin.37	#42336c	Unknown
+PN1RC.bin.67	#42336c	Unknown
+PN3GA.bin.26	#42336c	Unknown
+PN16RH.vae.10054	#42336c	Unknown
+PN3RA.bin.83	#42336c	Unknown
+PN8RP.bin.160	#42336c	Unknown
+PN5RC.vae.17613	#42336c	Unknown
+PN10RJ.vae.37052	#42336c	Unknown
+PN16RR.vae.26068	#42336c	Unknown
+PN6RM.vae.12444	#42336c	Unknown
+PN10RQ.bin.60	#42336c	Unknown
+PN5RH.vae.12413	#42336c	Unknown
+PN12RD.vae.6836	#42336c	Unknown
+PN11RO.vae.6781	#42336c	Unknown
+PN2CA.vae.10976	#42336c	Unknown
+PN8RC.vae.88918	#42336c	Unknown
+PN10RB.bin.191	#42336c	Unknown
+PN16RT.vae.89614	#42336c	Unknown
+PN12RA.vae.49175	#42336c	Unknown
+PN1RH.vae.743	#42336c	Unknown
+PN12RB.bin.5	#42336c	Unknown
+PN11RO.vae.12524	#42336c	Unknown
+PN2RA.vae.139188	#42336c	Unknown
+PN4RE.vae.68132	#42336c	Unknown
+PN1CD.bin.40	#42336c	Unknown
+PN3CA.bin.121	#42336c	Unknown
+PN2CB.bin.79	#42336c	Unknown
+PN6RG.bin.100	#42336c	Unknown
+PN7RI.bin.98	#42336c	Unknown
+PN1RC.bin.27	#42336c	Unknown
+PN16RO.vae.22886	#42336c	Unknown
+PN1RB.vae.9968	#42336c	Unknown
+PN16RV.vae.24032	#42336c	Unknown
+PN3RA.vae.12956	#42336c	Unknown
+PN6RQ.bin.90	#42336c	Unknown
+PN1RA.vae.5867	#42336c	Unknown
+PN13RE.vae.22232	#42336c	Unknown
+PN1GH.bin.46	#42336c	Unknown
+PN10RN.vae.57081	#42336c	Unknown
+PN11RH.vae.13129	#42336c	Unknown
+PN1RB.vae.51949	#42336c	Unknown
+PN11RM.bin.26	#42336c	Unknown
+PN13RE.vae.33110	#42336c	Unknown
+PN2CH.vae.27671	#42336c	Unknown
+PN5LD.bin.63	#42336c	Unknown
+PN7RI.bin.15	#42336c	Unknown
+PN4RE.vae.50510	#42336c	Unknown
+PN5RG.vae.91992	#42336c	Unknown
+PN11RD.vae.35449	#42336c	Unknown
+PN3RB.vae.16764	#42336c	Unknown
+PN1RL.vae.21414	#42336c	Unknown
+PN1RC.bin.202	#42336c	Unknown
+PN13RQ.vae.314	#42336c	Unknown
+PN2GE.bin.22	#42336c	Unknown
+PN6RK.vae.27890	#42336c	Unknown
+PN15RC.bin.118	#42336c	Unknown
+PN12RI.vae.7954	#42336c	Unknown
+PN1RB.vae.72886	#42336c	Unknown
+PN7RE.bin.29	#42336c	Unknown
+PN8RK.bin.17	#42336c	Unknown
+PN12RI.vae.6826	#42336c	Unknown
+PN13RB.vae.40534	#42336c	Unknown
+PN3RF.vae.16907	#42336c	Unknown
+PN3RA.vae.4758	#42336c	Unknown
+PN2CB.bin.71	#42336c	Unknown
+PN2RI.vae.24934	#42336c	Unknown
+PN16RG.vae.22445	#42336c	Unknown
+PN15RA.bin.48	#42336c	Unknown
+PN7RE.bin.91	#42336c	Unknown
+PN1RC.vae.1239	#42336c	Unknown
+PN2RF.vae.72712	#42336c	Unknown
+PN6RM.vae.49654	#42336c	Unknown
+PN10RF.vae.20632	#42336c	Unknown
+PN3RF.bin.74	#42336c	Unknown
+PN7RO.bin.101	#42336c	Unknown
+PN6RS.vae.30524	#42336c	Unknown
+PN3CA.bin.95	#42336c	Unknown
+PN10RP.bin.155	#42336c	Unknown
+PN5CC.vae.16157	#42336c	Unknown
+PN16RR.bin.8	#42336c	Unknown
+PN11RM.vae.34038	#42336c	Unknown
+PN4RA.bin.28	#42336c	Unknown
+PN1RH.vae.22029	#42336c	Unknown
+PN8RD.vae.5665	#42336c	Unknown
+PN12RC.vae.6321	#42336c	Unknown
+PN4RE.vae.86162	#42336c	Unknown
+PN11RA.vae.4471	#42336c	Unknown
+PN16RE.vae.12059	#42336c	Unknown
+PN1RB.bin.217	#42336c	Unknown
+PN1RJ.vae.12439	#42336c	Unknown
+PN3CA.bin.26	#42336c	Unknown
+PN1RA.vae.8397	#42336c	Unknown
+PN8RC.bin.102	#42336c	Unknown
+PN7RF.bin.112	#42336c	Unknown
+PN6RB.vae.12530	#42336c	Unknown
+PN2RB.vae.26909	#42336c	Unknown
+PN16RR.bin.19	#42336c	Unknown
+PN16RT.bin.223	#42336c	Unknown
+PN3RH.vae.30410	#42336c	Unknown
+PN1CL.bin.154	#42336c	Unknown
+PN1RD.bin.78	#42336c	Unknown
+PN11RE.bin.27	#42336c	Unknown
+PN14RN.vae.9396	#42336c	Unknown
+PN10RG.vae.21728	#42336c	Unknown
+PN3RG.vae.14171	#42336c	Unknown
+PN3CF.bin.3	#42336c	Unknown
+PN1RF.bin.61	#42336c	Unknown
+PN6RM.vae.30604	#42336c	Unknown
+PN16RA.vae.59032	#42336c	Unknown
+PN10RE.bin.9	#42336c	Unknown
+PN1RH.vae.9742	#42336c	Unknown
+PN12RF.bin.54	#42336c	Unknown
+PN3CB.bin.108	#42336c	Unknown
+PN10RJ.vae.61585	#42336c	Unknown
+PN6RO.vae.4683	#42336c	Unknown
+PN6RF.bin.174	#42336c	Unknown
+PN16RA.vae.4545	#42336c	Unknown
+PN1RC.vae.47770	#42336c	Unknown
+PN3CA.vae.4556	#42336c	Unknown
+PN3CD.vae.19133	#42336c	Unknown
+PN11RF.vae.6661	#42336c	Unknown
+PN6RM.bin.6	#42336c	Unknown
+PN4RD.vae.36140	#42336c	Unknown
+PN15RH.vae.959	#42336c	Unknown
+PN10RP.vae.47458	#42336c	Unknown
+PN16RG.vae.23847	#42336c	Unknown
+PN12RH.vae.10325	#42336c	Unknown
+PN3RG.vae.119529	#42336c	Unknown
+PN1GG.bin.71	#42336c	Unknown
+PN2RH.vae.11000	#42336c	Unknown
+PN11RC.bin.66	#42336c	Unknown
+PN11RE.bin.108	#42336c	Unknown
+PN7RB.vae.15257	#42336c	Unknown
+PN1JE.bin.75	#42336c	Unknown
+PN1RI.vae.194640	#42336c	Unknown
+PN10RL.vae.5968	#42336c	Unknown
+PN11RN.bin.22	#42336c	Unknown
+PN2RA.vae.62029	#42336c	Unknown
+PN16RT.bin.100	#42336c	Unknown
+PN10RF.vae.2414	#42336c	Unknown
+PN12RE.bin.1	#42336c	Unknown
+PN11RN.bin.80	#42336c	Unknown
+PN16RA.vae.61343	#42336c	Unknown
+PN7RU.bin.82	#42336c	Unknown
+PN1RC.vae.20374	#42336c	Unknown
+PN3CF.vae.5986	#42336c	Unknown
+PN10RA.bin.94	#42336c	Unknown
+PN10RR.vae.128	#42336c	Unknown
+PN10RF.vae.20267	#42336c	Unknown
+PN16RR.vae.39651	#42336c	Unknown
+PN16RU.vae.13176	#42336c	Unknown
+PN6RO.vae.14063	#42336c	Unknown
+PN14RP.vae.28811	#42336c	Unknown
+PN11RN.bin.36	#42336c	Unknown
+PN8RC.vae.52047	#42336c	Unknown
+PN1RL.vae.10794	#42336c	Unknown
+PN3RG.bin.208	#42336c	Unknown
+PN2LF.vae.4800	#42336c	Unknown
+PN10RF.vae.20734	#42336c	Unknown
+PN5RG.vae.10095	#42336c	Unknown
+PN3RE.vae.1778	#42336c	Unknown
+PN1RC.vae.20794	#42336c	Unknown
+PN1CD.vae.23372	#42336c	Unknown
+PN1RH.bin.137	#42336c	Unknown
+PN3CD.bin.66	#42336c	Unknown
+PN3RE.bin.61	#42336c	Unknown
+PN10RS.vae.34978	#42336c	Unknown
+PN7RO.bin.91	#42336c	Unknown
+PN11RF.vae.7841	#42336c	Unknown
+PN2CF.bin.125	#42336c	Unknown
+PN4RE.vae.32966	#42336c	Unknown
+PN6RL.vae.8694	#42336c	Unknown
+PN16RJ.bin.48	#42336c	Unknown
+PN12RA.bin.183	#42336c	Unknown
+PN16RR.vae.27178	#42336c	Unknown
+PN10RC.vae.28904	#42336c	Unknown
+PN1RI.vae.57461	#42336c	Unknown
+PN16RA.vae.15156	#42336c	Unknown
+PN3CA.bin.161	#42336c	Unknown
+PN1RC.vae.18795	#42336c	Unknown
+PN3RF.vae.7107	#42336c	Unknown
+PN8RC.vae.33586	#42336c	Unknown
+PN16RG.vae.14305	#42336c	Unknown
+CH18	#42336c	Unknown
+PN6RT.vae.1562	#42336c	Unknown
+PN11RF.vae.11531	#42336c	Unknown
+PN3RF.bin.26	#42336c	Unknown
+PN2RA.bin.190	#42336c	Unknown
+PN6RL.vae.8077	#42336c	Unknown
+PN13RP.vae.5514	#42336c	Unknown
+PN16RO.vae.7959	#42336c	Unknown
+PN1RF.vae.22137	#42336c	Unknown
+PN1RA.vae.29068	#42336c	Unknown
+PN11RF.vae.962	#42336c	Unknown
+PN11RH.vae.919	#42336c	Unknown
+PN3LD.vae.35957	#42336c	Unknown
+PN16RM.vae.17470	#42336c	Unknown
+PN16RJ.vae.42000	#42336c	Unknown
+PN6RC.vae.27573	#42336c	Unknown
+PN6RS.vae.40801	#42336c	Unknown
+PN11RE.bin.38	#42336c	Unknown
+PN10RR.vae.7086	#42336c	Unknown
+PN16RC.bin.60	#42336c	Unknown
+PN1RA.vae.5729	#42336c	Unknown
+PN3RF.bin.43	#42336c	Unknown
+PN16RH.bin.45	#42336c	Unknown
+PN11RF.bin.127	#42336c	Unknown
+PN11RA.vae.8181	#42336c	Unknown
+PN10RD.bin.47	#42336c	Unknown
+PN16RC.vae.8615	#42336c	Unknown
+PN8RC.bin.82	#42336c	Unknown
+PN12RD.vae.6430	#42336c	Unknown
+PN3LG.vae.24862	#42336c	Unknown
+PN12RD.vae.10523	#42336c	Unknown
+PN11RG.vae.78453	#42336c	Unknown
+PN2RH.vae.5879	#42336c	Unknown
+PN12RI.bin.163	#42336c	Unknown
+PN3RA.vae.6783	#42336c	Unknown
+PN11RN.bin.60	#42336c	Unknown
+PN11RN.vae.7658	#42336c	Unknown
+PN6RO.vae.62989	#42336c	Unknown
+PN10RG.bin.67	#42336c	Unknown
+PN8RC.bin.13	#42336c	Unknown
+PN1RB.vae.5744	#42336c	Unknown
+PN6RI.bin.121	#42336c	Unknown
+PN12RB.vae.9771	#42336c	Unknown
+PN8RC.bin.120	#42336c	Unknown
+PN11RN.bin.16	#42336c	Unknown
+PN11RN.bin.19	#42336c	Unknown
+PN7RC.vae.22397	#42336c	Unknown
+PN15RB.vae.85478	#42336c	Unknown
+PN10RP.vae.6232	#42336c	Unknown
+PN16RT.bin.4	#42336c	Unknown
+PN11RH.bin.10	#42336c	Unknown
+PN6RF.vae.27684	#42336c	Unknown
+PN6RI.bin.111	#42336c	Unknown
+PN10RK.bin.123	#42336c	Unknown
+PN1RC.vae.35732	#42336c	Unknown
+PN1RC.vae.6534	#42336c	Unknown
+J1034	#42336c	Unknown
+J1040	#42336c	Unknown
+J1045	#42336c	Unknown
+J941	#42336c	Unknown
+K329	#42336c	Unknown
+K331	#42336c	Unknown
+K338	#42336c	Unknown
+K343	#42336c	Unknown
+PN8RD.vae.6440	#42336c	Unknown
+PN10RL.vae.4516	#42336c	Unknown
+PN5GA.vae.6292	#42336c	Unknown
+PN10RM.vae.12084	#42336c	Unknown
+PN3LB.vae.91643	#42336c	Unknown
+PN10RR.vae.7277	#42336c	Unknown
+PN10RE.vae.22287	#42336c	Unknown
+PN1CF.vae.7430	#42336c	Unknown
+PN1II.bin.15	#42336c	Unknown
+PN5RF.vae.7282	#42336c	Unknown
+PN5RA.vae.103884	#42336c	Unknown
+PN8RC.vae.103398	#42336c	Unknown
+PN6RA.vae.93628	#42336c	Unknown
+PN6RQ.bin.154	#42336c	Unknown
+PN14RP.vae.111753	#42336c	Unknown
+PN5CB.vae.22709	#42336c	Unknown
+PN10RH.vae.5545	#42336c	Unknown
+PN6RI.bin.168	#42336c	Unknown
+PN1RG.vae.3313	#42336c	Unknown
+PN10RS.vae.31748	#42336c	Unknown
+PN16RT.vae.14827	#42336c	Unknown
+PN5CC.vae.8795	#42336c	Unknown
+PN14RA.vae.15210	#42336c	Unknown
+PN5RC.vae.5206	#42336c	Unknown
+PN3CG.vae.3495	#42336c	Unknown
+PN5LA.vae.6738	#42336c	Unknown
+PN2CG.vae.2503	#42336c	Unknown
+PN13RD.vae.8515	#42336c	Unknown
+PN13RR.vae.13926	#42336c	Unknown
+PN8RM.vae.3591	#42336c	Unknown
+PN14RB.bin.146	#42336c	Unknown
+PN7RP.bin.162	#42336c	Unknown
+PN5IE.vae.204043	#42336c	Unknown
+PN7RT.vae.47292	#42336c	Unknown
+PN2RF.vae.1663	#42336c	Unknown
+PN1RH.vae.21008	#42336c	Unknown
+PN11RI.vae.43284	#42336c	Unknown
+PN16RE.vae.7477	#42336c	Unknown
+PN6RJ.vae.156555	#42336c	Unknown
+PN4RC.vae.1613	#42336c	Unknown
+PN5RB.vae.25072	#42336c	Unknown
+PN5LC.vae.3858	#42336c	Unknown
+PN6RB.vae.6062	#42336c	Unknown
+PN6RN.vae.1258	#42336c	Unknown
+PN16RE.bin.157	#42336c	Unknown
+PN11RI.vae.7714	#42336c	Unknown
+PN3RE.vae.10097	#42336c	Unknown
+PN6RS.vae.10052	#42336c	Unknown
+PN5CG.vae.103980	#42336c	Unknown
+PN4RG.vae.11719	#42336c	Unknown
+PN5RG.vae.450	#42336c	Unknown
+PN1CD.bin.25	#42336c	Unknown
+PN3CD.vae.51794	#42336c	Unknown
+PN8RS.vae.9408	#42336c	Unknown
+PN10RO.vae.26865	#42336c	Unknown
+PN2LJ.vae.18012	#42336c	Unknown
+PN15RD.vae.5788	#42336c	Unknown
+PN7RA.vae.24338	#42336c	Unknown
+PN4RC.bin.85	#42336c	Unknown
+PN10RM.vae.8333	#42336c	Unknown
+PN7RV.vae.20698	#42336c	Unknown
+PN1RL.vae.827	#42336c	Unknown
+PN5JD.bin.136	#42336c	Unknown
+PN3RG.vae.4014	#42336c	Unknown
+PN14RI.vae.7554	#42336c	Unknown
+PN8RD.vae.8264	#42336c	Unknown
+PN5LF.vae.3446	#42336c	Unknown
+PN16RC.bin.14	#42336c	Unknown
+PN6RB.bin.220	#42336c	Unknown
+PN6RP.vae.45411	#42336c	Unknown
+PN14RO.vae.50703	#42336c	Unknown
+PN10RN.vae.28271	#42336c	Unknown
+PN10RP.vae.14595	#42336c	Unknown
+PN4RF.vae.51092	#42336c	Unknown
+PN2RI.vae.11061	#42336c	Unknown
+PN7RS.bin.135	#42336c	Unknown
+PN10RB.vae.19525	#42336c	Unknown
+PN2RB.vae.24203	#42336c	Unknown
+PN3LE.bin.54	#42336c	Unknown
+PN13RQ.vae.10055	#42336c	Unknown
+PN13RN.vae.15856	#42336c	Unknown
+PN1LI.vae.2220	#42336c	Unknown
+PN11RG.vae.14036	#42336c	Unknown
+PN13RB.vae.27796	#42336c	Unknown
+PN9RB.vae.22858	#42336c	Unknown
+PN14RP.vae.44700	#42336c	Unknown
+PN1CI.vae.72634	#42336c	Unknown
+PN1CA.vae.30833	#42336c	Unknown
+PN13RS.vae.6370	#42336c	Unknown
+PN2CG.bin.10	#42336c	Unknown
+PN1LI.bin.105	#42336c	Unknown
+PN2LC.bin.33	#42336c	Unknown
+PN3RD.vae.5361	#42336c	Unknown
+PN1CG.vae.31761	#42336c	Unknown
+PN2RA.vae.31577	#42336c	Unknown
+PN16RI.vae.19097	#42336c	Unknown
+PN7RA.bin.94	#42336c	Unknown
+PN3RC.vae.19866	#42336c	Unknown
+PN7RE.vae.25301	#42336c	Unknown
+PN13RQ.vae.15113	#42336c	Unknown
+PN2LF.bin.88	#42336c	Unknown
+PN7RE.bin.59	#42336c	Unknown
+PN10RA.vae.11136	#42336c	Unknown
+PN10RF.vae.2930	#42336c	Unknown
+PN5LH.vae.12128	#42336c	Unknown
+PN16RV.vae.14979	#42336c	Unknown
+PN13RF.bin.37	#42336c	Unknown
+PN10RP.vae.27143	#42336c	Unknown
+PN4RH.vae.11860	#42336c	Unknown
+PN14RP.vae.2063	#42336c	Unknown
+PN2RJ.bin.4	#42336c	Unknown
+PN16RF.vae.34783	#42336c	Unknown
+PN10RS.vae.14750	#42336c	Unknown
+PN10RR.vae.16186	#42336c	Unknown
+PN11RN.bin.178	#42336c	Unknown
+PN10RI.vae.17698	#42336c	Unknown
+PN4RD.bin.65	#42336c	Unknown
+PN5RA.bin.269	#42336c	Unknown
+PN6RH.vae.7808	#42336c	Unknown
+PN3RH.vae.37285	#42336c	Unknown
+PN10RK.vae.116728	#42336c	Unknown
+PN5RG.bin.121	#42336c	Unknown
+PN1CL.vae.22638	#42336c	Unknown
+PN7RI.bin.161	#42336c	Unknown
+PN11RF.vae.22053	#42336c	Unknown
+PN12RA.vae.46444	#42336c	Unknown
+PN14RJ.vae.2673	#42336c	Unknown
+PN1CA.bin.150	#42336c	Unknown
+PN6RB.vae.7066	#42336c	Unknown
+PN1CF.vae.16276	#42336c	Unknown
+PN13RE.bin.16	#42336c	Unknown
+PN3RD.vae.17069	#42336c	Unknown
+PN8RO.vae.2840	#42336c	Unknown
+PN5RD.bin.87	#42336c	Unknown
+PN10RR.bin.21	#42336c	Unknown
+PN10RM.vae.45517	#42336c	Unknown
+PN7RF.bin.55	#42336c	Unknown
+PN6RD.vae.1901	#42336c	Unknown
+PN1RC.vae.31697	#42336c	Unknown
+PN3LA.bin.150	#42336c	Unknown
+PN5RA.bin.56	#42336c	Unknown
+PN16RE.vae.9073	#42336c	Unknown
+PN9RF.vae.9912	#42336c	Unknown
+PN6RJ.vae.76657	#42336c	Unknown
+PN16RL.vae.5728	#42336c	Unknown
+PN7RL.vae.4262	#42336c	Unknown
+PN4RD.vae.114046	#42336c	Unknown
+PN3LA.vae.103619	#42336c	Unknown
+PN1CD.vae.19287	#42336c	Unknown
+PN6RF.vae.96620	#42336c	Unknown
+PN10RF.vae.6867	#42336c	Unknown
+PN1RA.vae.14534	#42336c	Unknown
+PN5CF.vae.25518	#42336c	Unknown
+PN1RC.vae.15837	#42336c	Unknown
+PN7RI.vae.5076	#42336c	Unknown
+PN1CD.vae.27075	#42336c	Unknown
+PN11RA.vae.10405	#42336c	Unknown
+PN6RT.bin.37	#42336c	Unknown
+PN5RA.vae.5961	#42336c	Unknown
+PN13RN.bin.123	#42336c	Unknown
+PN13RK.vae.28235	#42336c	Unknown
+PN8RD.vae.14215	#42336c	Unknown
+PN16RF.bin.211	#42336c	Unknown
+PN3CB.vae.17327	#42336c	Unknown
+PN8RO.vae.1661	#42336c	Unknown
+PN14RM.vae.194787	#42336c	Unknown
+PN8RK.vae.152763	#42336c	Unknown
+PN6RB.vae.2191	#42336c	Unknown
+PN15RB.vae.74864	#42336c	Unknown
+PN6RL.vae.974	#42336c	Unknown
+PN11RG.vae.40958	#42336c	Unknown
+PN16RA.vae.36252	#42336c	Unknown
+PN2CI.vae.6379	#42336c	Unknown
+PN11RE.bin.206	#42336c	Unknown
+PN10RJ.bin.166	#42336c	Unknown
+PN16RS.bin.166	#42336c	Unknown
+PN1RF.vae.12819	#42336c	Unknown
+PN12RI.bin.1	#42336c	Unknown
+PN2RG.vae.20829	#42336c	Unknown
+PN13RR.bin.13	#42336c	Unknown
+PN1CI.vae.99327	#42336c	Unknown
+PN11RN.vae.20363	#42336c	Unknown
+PN13RL.vae.10087	#42336c	Unknown
+PN16RA.vae.2880	#42336c	Unknown
+PN8RM.vae.5252	#42336c	Unknown
+PN5RA.vae.15715	#42336c	Unknown
+PN7RQ.vae.42891	#42336c	Unknown
+PN13RH.vae.85407	#42336c	Unknown
+PN6RO.vae.50337	#42336c	Unknown
+PN10RF.vae.9542	#42336c	Unknown
+PN1RK.vae.7124	#42336c	Unknown
+PN2RG.bin.133	#42336c	Unknown
+PN13RB.vae.13829	#42336c	Unknown
+PN2LE.bin.18	#42336c	Unknown
+PN16RC.vae.7759	#42336c	Unknown
+PN6RP.vae.77926	#42336c	Unknown
+PN10RD.bin.13	#42336c	Unknown
+PN11RK.vae.21049	#42336c	Unknown
+PN1RA.bin.109	#42336c	Unknown
+PN16RT.bin.59	#42336c	Unknown
+PN3RA.bin.222	#42336c	Unknown
+PN11RD.vae.20348	#42336c	Unknown
+PN16RV.vae.32981	#42336c	Unknown
+PN13RR.vae.25367	#42336c	Unknown
+PN5IE.bin.56	#42336c	Unknown
+PN7RP.vae.3897	#42336c	Unknown
+J312	#42336c	Unknown
+PN10RP.vae.4655	#42336c	Unknown
+PN1RG.vae.4734	#42336c	Unknown
+PN4RE.bin.117	#42336c	Unknown
+PN5LD.vae.16582	#42336c	Unknown
+PN3CC.vae.26171	#42336c	Unknown
+PN8RO.vae.4975	#42336c	Unknown
+PN8RO.vae.2175	#42336c	Unknown
+PN14RP.vae.15464	#42336c	Unknown
+PN3LB.bin.51	#42336c	Unknown
+PN1RB.vae.4501	#42336c	Unknown
+PN8RF.vae.6268	#42336c	Unknown
+PN1CE.bin.89	#42336c	Unknown
+PN13RE.vae.49489	#42336c	Unknown
+PN13RH.bin.8	#42336c	Unknown
+PN16RU.vae.14478	#42336c	Unknown
+PN10RP.bin.55	#42336c	Unknown
+PN6RQ.vae.7837	#42336c	Unknown
+PN11RM.bin.100	#42336c	Unknown
+PN1CK.bin.25	#42336c	Unknown
+PN8RG.vae.22312	#42336c	Unknown
+PN3CD.vae.22017	#42336c	Unknown
+PN3RB.vae.22250	#42336c	Unknown
+PN5RA.vae.24964	#42336c	Unknown
+PN2CG.vae.9399	#42336c	Unknown
+PN11RA.bin.203	#42336c	Unknown
+PN10RC.vae.8821	#42336c	Unknown
+PN5LC.bin.191	#42336c	Unknown
+PN12RG.bin.90	#42336c	Unknown
+PN1RK.vae.9763	#42336c	Unknown
+PN5RE.bin.154	#42336c	Unknown
+PN6RS.bin.9	#42336c	Unknown
+PN5RA.vae.67410	#42336c	Unknown
+PN14RI.vae.889	#42336c	Unknown
+PN10RJ.vae.58360	#42336c	Unknown
+PN5JH.bin.57	#42336c	Unknown
+PN3RF.vae.37328	#42336c	Unknown
+PN5RH.vae.10684	#42336c	Unknown
+PN11RM.vae.4344	#42336c	Unknown
+PN6RO.vae.41184	#42336c	Unknown
+PN2CG.bin.49	#42336c	Unknown
+PN6RL.vae.46963	#42336c	Unknown
+PN11RI.vae.1829	#42336c	Unknown
+PN16RG.vae.49494	#42336c	Unknown
+PN2RB.vae.12927	#42336c	Unknown
+PN1RD.bin.202	#42336c	Unknown
+PN6RI.vae.38939	#42336c	Unknown
+PN2CE.bin.38	#42336c	Unknown
+PN10RJ.bin.164	#42336c	Unknown
+PN3CB.vae.27763	#42336c	Unknown
+PN3RF.vae.10837	#42336c	Unknown
+PN10RP.vae.37655	#42336c	Unknown
+PN15RC.vae.93681	#42336c	Unknown
+PN1RC.vae.11645	#42336c	Unknown
+PN10RO.vae.49396	#42336c	Unknown
+PN7RD.vae.2664	#42336c	Unknown
+PN10RH.bin.87	#42336c	Unknown
+PN1LC.bin.75	#42336c	Unknown
+PN12RD.vae.11021	#42336c	Unknown
+PN7RD.bin.108	#42336c	Unknown
+PN1RA.vae.5840	#42336c	Unknown
+PN1RL.vae.14061	#42336c	Unknown
+PN16RN.vae.13447	#42336c	Unknown
+PN3RF.vae.56011	#42336c	Unknown
+PN1CB.bin.39	#42336c	Unknown
+PN1RC.vae.5954	#42336c	Unknown
+PN1RH.bin.217	#42336c	Unknown
+PN3RE.vae.25173	#42336c	Unknown
+PN10RL.bin.165	#42336c	Unknown
+PN10RJ.bin.118	#42336c	Unknown
+PN11RI.bin.91	#42336c	Unknown
+PN16RE.vae.30577	#42336c	Unknown
+PN7RG.bin.164	#42336c	Unknown
+PN2RI.bin.111	#42336c	Unknown
+PN12RB.vae.7057	#42336c	Unknown
+PN10RH.bin.111	#42336c	Unknown
+PN1RJ.vae.11288	#42336c	Unknown
+PN6RD.vae.25455	#42336c	Unknown
+PN5CA.vae.31839	#42336c	Unknown
+PN3RE.vae.35572	#42336c	Unknown
+PN1RH.vae.37016	#42336c	Unknown
+PN11RC.vae.15398	#42336c	Unknown
+PN10RR.vae.40708	#42336c	Unknown
+PN2RD.bin.116	#42336c	Unknown
+PN8RM.vae.32610	#42336c	Unknown
+PN2CH.bin.54	#42336c	Unknown
+PN3RB.vae.14931	#42336c	Unknown
+PN3RF.vae.2615	#42336c	Unknown
+PN13RS.bin.123	#42336c	Unknown
+PN3RA.vae.3604	#42336c	Unknown
+PN6RI.vae.16674	#42336c	Unknown
+PN5RH.vae.14211	#42336c	Unknown
+PN11RJ.vae.1284	#42336c	Unknown
+PN1RL.vae.35177	#42336c	Unknown
+PN3CH.vae.13320	#42336c	Unknown
+PN5CE.bin.251	#42336c	Unknown
+PN6RH.vae.5507	#42336c	Unknown
+PN2CD.vae.20473	#42336c	Unknown
+PN6RI.vae.2480	#42336c	Unknown
+PN11RK.vae.814	#42336c	Unknown
+PN2RA.vae.69411	#42336c	Unknown
+PN11RO.vae.13758	#42336c	Unknown
+PN7RE.vae.5502	#42336c	Unknown
+PN10RH.bin.190	#42336c	Unknown
+PN1RL.vae.4386	#42336c	Unknown
+PN11RH.vae.8287	#42336c	Unknown
+PN1RH.bin.189	#42336c	Unknown
+PN14RM.bin.124	#42336c	Unknown
+PN10RF.vae.9448	#42336c	Unknown
+PN7RK.bin.25	#42336c	Unknown
+PN1CI.vae.22147	#42336c	Unknown
+PN3RH.vae.27444	#42336c	Unknown
+PN3LE.vae.14644	#42336c	Unknown
+PN6RC.vae.12785	#42336c	Unknown
+PN5CF.vae.5712	#42336c	Unknown
+PN5RE.vae.13625	#42336c	Unknown
+PN6RC.vae.8299	#42336c	Unknown
+PN12RA.bin.172	#42336c	Unknown
+PN3RD.bin.39	#42336c	Unknown
+PN1RB.vae.27901	#42336c	Unknown
+PN3RB.vae.63216	#42336c	Unknown
+PN2LH.vae.16244	#42336c	Unknown
+PN1RD.bin.223	#42336c	Unknown
+PN1CA.vae.35480	#42336c	Unknown
+PN16RO.bin.45	#42336c	Unknown
+PN3CB.bin.54	#42336c	Unknown
+PN3RH.bin.93	#42336c	Unknown
+PN11RN.vae.8899	#42336c	Unknown
+PN6RJ.vae.10831	#42336c	Unknown
+PN11RE.vae.35415	#42336c	Unknown
+PN5RH.bin.84	#42336c	Unknown
+PN10RO.vae.17172	#42336c	Unknown
+PN10RL.vae.8061	#42336c	Unknown
+PN13RO.bin.25	#42336c	Unknown
+PN5RH.vae.19686	#42336c	Unknown
+PN7RN.vae.5847	#42336c	Unknown
+PN13RP.bin.51	#42336c	Unknown
+PN11RH.vae.11653	#42336c	Unknown
+PN8RF.vae.13688	#42336c	Unknown
+PN8RR.vae.23432	#42336c	Unknown
+PN10RJ.vae.39342	#42336c	Unknown
+PN9RO.bin.142	#42336c	Unknown
+PN10RO.vae.8897	#42336c	Unknown
+PN3CC.vae.7083	#42336c	Unknown
+PN10RD.vae.40831	#42336c	Unknown
+PN7RP.vae.9750	#42336c	Unknown
+PN1RL.bin.199	#42336c	Unknown
+PN11RF.vae.61502	#42336c	Unknown
+PN1RC.vae.66755	#42336c	Unknown
+PN11RI.vae.51642	#42336c	Unknown
+PN10RQ.bin.23	#42336c	Unknown
+PN1CA.bin.30	#42336c	Unknown
+PN11RJ.vae.37594	#42336c	Unknown
+PN15RF.bin.97	#42336c	Unknown
+PN11RC.vae.35492	#42336c	Unknown
+PN5CB.vae.158716	#42336c	Unknown
+PN10RH.bin.168	#42336c	Unknown
+PN11RF.vae.42744	#42336c	Unknown
+PN13RF.vae.6790	#42336c	Unknown
+PN2CJ.bin.131	#42336c	Unknown
+PN13RQ.vae.23495	#42336c	Unknown
+PN1CJ.vae.6639	#42336c	Unknown
+PN7RD.vae.7463	#42336c	Unknown
+PN8RM.vae.13113	#42336c	Unknown
+PN5CG.vae.25600	#42336c	Unknown
+PN2CA.bin.71	#42336c	Unknown
+PN12RC.vae.17901	#42336c	Unknown
+PN1RB.vae.43696	#42336c	Unknown
+PN12RE.vae.1131	#42336c	Unknown
+PN7RB.bin.154	#42336c	Unknown
+PN7RO.vae.909	#42336c	Unknown
+PN2RF.vae.22866	#42336c	Unknown
+PN3CB.bin.185	#42336c	Unknown
+PN3CF.bin.10	#42336c	Unknown
+PN8RJ.bin.120	#42336c	Unknown
+PN5RH.vae.13549	#42336c	Unknown
+PN11RI.vae.4412	#42336c	Unknown
+PN10RF.vae.4766	#42336c	Unknown
+PN6RO.bin.159	#42336c	Unknown
+PN5RA.vae.35320	#42336c	Unknown
+PN5RE.bin.246	#42336c	Unknown
+PN10RR.bin.84	#42336c	Unknown
+PN8RF.vae.18026	#42336c	Unknown
+PN14RM.vae.123731	#42336c	Unknown
+PN3RA.vae.101357	#42336c	Unknown
+PN1RL.vae.7838	#42336c	Unknown
+PN7RI.vae.30615	#42336c	Unknown
+PN11RO.vae.11106	#42336c	Unknown
+PN2CG.vae.16150	#42336c	Unknown
+PN3RB.vae.29048	#42336c	Unknown
+PN2CA.vae.30002	#42336c	Unknown
+PN10RR.vae.16207	#42336c	Unknown
+PN16RR.vae.6417	#42336c	Unknown
+PN3LA.bin.49	#42336c	Unknown
+PN5IE.bin.107	#42336c	Unknown
+PN16RE.bin.34	#42336c	Unknown
+PN11RK.vae.4648	#42336c	Unknown
+PN10RS.vae.18429	#42336c	Unknown
+PN1CD.vae.18107	#42336c	Unknown
+PN3RA.bin.56	#42336c	Unknown
+PN11RA.vae.18046	#42336c	Unknown
+PN2RG.vae.4561	#42336c	Unknown
+PN8RI.vae.712	#42336c	Unknown
+PN12RC.bin.47	#42336c	Unknown
+PN2LG.vae.82158	#42336c	Unknown
+PN8RL.vae.7700	#42336c	Unknown
+PN1RD.vae.55994	#42336c	Unknown
+PN10RO.vae.6077	#42336c	Unknown
+PN7RB.vae.22893	#42336c	Unknown
+PN1RB.bin.225	#42336c	Unknown
+PN3RG.vae.16712	#42336c	Unknown
+PN5RE.vae.103082	#42336c	Unknown
+PN6RJ.vae.32487	#42336c	Unknown
+PN5CG.vae.199360	#42336c	Unknown
+PN15RB.vae.6065	#42336c	Unknown
+PN16RU.vae.6427	#42336c	Unknown
+PN1RF.vae.23371	#42336c	Unknown
+PN16RC.vae.5479	#42336c	Unknown
+PN2CB.bin.66	#42336c	Unknown
+PN5RF.bin.146	#42336c	Unknown
+PN7RL.bin.68	#42336c	Unknown
+PN1RH.vae.13813	#42336c	Unknown
+PN10RJ.bin.8	#42336c	Unknown
+PN9RI.vae.53597	#42336c	Unknown
+PN8RJ.vae.1590	#42336c	Unknown
+PN7RL.bin.155	#42336c	Unknown
+PN1RI.vae.28561	#42336c	Unknown
+PN2CH.bin.95	#42336c	Unknown
+PN16RM.vae.1065	#42336c	Unknown
+PN7RH.vae.37087	#42336c	Unknown
+PN1RH.vae.26451	#42336c	Unknown
+PN5IA.bin.19	#42336c	Unknown
+PN1RA.vae.34901	#42336c	Unknown
+PN1RE.vae.4017	#42336c	Unknown
+PN3CF.vae.85493	#42336c	Unknown
+PN1RC.bin.224	#42336c	Unknown
+PN10RD.bin.153	#42336c	Unknown
+PN7RP.vae.48459	#42336c	Unknown
+PN1RG.vae.2129	#42336c	Unknown
+PN7RL.vae.10052	#42336c	Unknown
+PN13RQ.vae.4980	#42336c	Unknown
+PN11RF.bin.92	#42336c	Unknown
+PN16RR.bin.92	#42336c	Unknown
+PN11RM.vae.27387	#42336c	Unknown
+PN11RJ.vae.50594	#42336c	Unknown
+PN3RG.vae.10201	#42336c	Unknown
+PN10RB.bin.39	#42336c	Unknown
+PN1RC.vae.12718	#42336c	Unknown
+PN3RF.vae.49212	#42336c	Unknown
+PN6RG.vae.26675	#42336c	Unknown
+PN1RI.vae.31873	#42336c	Unknown
+PN8RC.vae.62983	#42336c	Unknown
+PN4RB.vae.84121	#42336c	Unknown
+PN3LC.vae.45043	#42336c	Unknown
+PN16RF.vae.19241	#42336c	Unknown
+PN3RF.vae.6226	#42336c	Unknown
+PN16RF.vae.89971	#42336c	Unknown
+PN3RF.bin.193	#42336c	Unknown
+PN1LF.vae.4791	#42336c	Unknown
+PN2RA.vae.32426	#42336c	Unknown
+PN1CL.vae.22093	#42336c	Unknown
+PN1CL.vae.33227	#42336c	Unknown
+PN3RF.vae.13995	#42336c	Unknown
+PN7RK.vae.14528	#42336c	Unknown
+PN1RC.vae.93693	#42336c	Unknown
+PN16RQ.bin.208	#42336c	Unknown
+PN3RG.bin.41	#42336c	Unknown
+PN7RN.bin.84	#42336c	Unknown
+PN5RF.vae.164235	#42336c	Unknown
+PN1RH.bin.243	#42336c	Unknown
+PN1CA.bin.8	#42336c	Unknown
+PN2CD.vae.17192	#42336c	Unknown
+PN7RQ.vae.24053	#42336c	Unknown
+PN13RG.vae.43545	#42336c	Unknown
+PN7RE.vae.9106	#42336c	Unknown
+PN3CA.vae.114276	#42336c	Unknown
+PN1RD.vae.22557	#42336c	Unknown
+PN10RP.vae.19671	#42336c	Unknown
+PN2RF.bin.53	#42336c	Unknown
+PN8RJ.bin.117	#42336c	Unknown
+PN1RF.vae.7682	#42336c	Unknown
+PN11RA.vae.11578	#42336c	Unknown
+PN3RC.bin.30	#42336c	Unknown
+PN7RP.vae.19543	#42336c	Unknown
+PN11RA.bin.82	#42336c	Unknown
+PN13RU.vae.5762	#42336c	Unknown
+PN10RH.bin.189	#42336c	Unknown
+PN5RB.bin.25	#42336c	Unknown
+PN6RD.vae.8761	#42336c	Unknown
+PN10RK.vae.23166	#42336c	Unknown
+PN10RE.bin.70	#42336c	Unknown
+PN1RD.bin.106	#42336c	Unknown
+PN13RO.vae.1349	#42336c	Unknown
+PN3RG.vae.10004	#42336c	Unknown
+PN10RL.bin.130	#42336c	Unknown
+PN2CC.vae.45014	#42336c	Unknown
+PN8RO.bin.62	#42336c	Unknown
+PN2RF.vae.33192	#42336c	Unknown
+PN7RG.bin.115	#42336c	Unknown
+PN6RI.vae.21678	#42336c	Unknown
+PN7RP.bin.179	#42336c	Unknown
+PN13RC.vae.12739	#42336c	Unknown
+PN2CG.bin.199	#42336c	Unknown
+PN1RD.vae.6090	#42336c	Unknown
+PN3RA.vae.80477	#42336c	Unknown
+PN4RH.bin.157	#42336c	Unknown
+PN3LG.vae.1618	#42336c	Unknown
+PN1CD.vae.14589	#42336c	Unknown
+PN10RN.bin.109	#42336c	Unknown
+PN5RF.vae.257	#42336c	Unknown
+PN8RC.bin.197	#42336c	Unknown
+PN8RF.bin.207	#42336c	Unknown
+PN11RM.bin.210	#42336c	Unknown
+PN7RE.vae.58404	#42336c	Unknown
+PN2RF.vae.2524	#42336c	Unknown
+PN6RF.vae.4844	#42336c	Unknown
+PN16RQ.bin.157	#42336c	Unknown
+PN2RH.bin.145	#42336c	Unknown
+PN16RF.bin.170	#42336c	Unknown
+PN16RL.vae.34628	#42336c	Unknown
+PN1RJ.bin.134	#42336c	Unknown
+PN1RD.bin.152	#42336c	Unknown
+PN3RH.bin.230	#42336c	Unknown
+PN8RG.vae.10847	#42336c	Unknown
+PN1RE.vae.19731	#42336c	Unknown
+PN1RL.bin.29	#42336c	Unknown
+PN1RD.vae.154660	#42336c	Unknown
+PN3RF.vae.34846	#42336c	Unknown
+PN3LD.vae.54935	#42336c	Unknown
+PN1RC.bin.294	#42336c	Unknown
+PN4RE.vae.67693	#42336c	Unknown
+PN1RC.bin.174	#42336c	Unknown
+PN2CH.bin.84	#42336c	Unknown
+PN3CB.vae.16545	#42336c	Unknown
+PN2LA.bin.90	#42336c	Unknown
+PN13RM.bin.147	#42336c	Unknown
+PN13RP.bin.41	#42336c	Unknown
+PN1RA.bin.189	#42336c	Unknown
+PN15RI.bin.101	#42336c	Unknown
+PN1RB.bin.103	#42336c	Unknown
+PN3RF.vae.48175	#42336c	Unknown
+PN1RC.vae.7242	#42336c	Unknown
+PN1CL.vae.3367	#42336c	Unknown
+PN16RT.vae.147855	#42336c	Unknown
+PN1RF.bin.81	#42336c	Unknown
+PN3RA.bin.29	#42336c	Unknown
+PN1RD.vae.102890	#42336c	Unknown
+PN3CB.vae.75552	#42336c	Unknown
+PN7RF.vae.16537	#42336c	Unknown
+PN1RC.vae.27293	#42336c	Unknown
+PN3RA.vae.610	#42336c	Unknown
+PN1RA.vae.1175	#42336c	Unknown
+PN3RE.vae.18140	#42336c	Unknown
+PN7RC.bin.97	#42336c	Unknown
+PN14RO.vae.20045	#42336c	Unknown
+PN14RS.vae.36766	#42336c	Unknown
+PN6RI.bin.74	#42336c	Unknown
+PN10RN.vae.22944	#42336c	Unknown
+PN11RJ.vae.27966	#42336c	Unknown
+PN14RO.vae.13562	#42336c	Unknown
+PN1RD.vae.76817	#42336c	Unknown
+PN16RB.vae.104534	#42336c	Unknown
+PN3LE.bin.152	#42336c	Unknown
+PN13RA.vae.27190	#42336c	Unknown
+PN13RG.bin.183	#42336c	Unknown
+PN10RS.vae.11887	#42336c	Unknown
+PN12RC.bin.68	#42336c	Unknown
+PN5RD.bin.239	#42336c	Unknown
+PN2LG.vae.12543	#42336c	Unknown
+PN2RA.vae.254505	#42336c	Unknown
+PN3RF.bin.189	#42336c	Unknown
+PN2RJ.bin.8	#42336c	Unknown
+PN1RL.vae.16383	#42336c	Unknown
+PN13RR.vae.2159	#42336c	Unknown
+PN3CB.bin.30	#42336c	Unknown
+PN16RH.vae.1057	#42336c	Unknown
+PN5RG.vae.52790	#42336c	Unknown
+PN7RL.bin.157	#42336c	Unknown
+PN3LA.bin.201	#42336c	Unknown
+PN3LD.bin.75	#42336c	Unknown
+PN6RI.bin.1	#42336c	Unknown
+PN4RE.bin.75	#42336c	Unknown
+PN3CB.vae.20479	#42336c	Unknown
+PN5RC.vae.32485	#42336c	Unknown
+PN3CB.vae.2124	#42336c	Unknown
+PN1RD.vae.222657	#42336c	Unknown
+PN15RI.vae.23814	#42336c	Unknown
+PN4RH.vae.15181	#42336c	Unknown
+PN14RE.bin.77	#42336c	Unknown
+PN1RL.bin.62	#42336c	Unknown
+PN2RJ.bin.167	#42336c	Unknown
+PN14RT.bin.134	#42336c	Unknown
+PN10RM.vae.7967	#42336c	Unknown
+PN10RH.vae.22924	#42336c	Unknown
+PN3CA.vae.47362	#42336c	Unknown
+PN8RL.vae.34985	#42336c	Unknown
+PN13RR.vae.20731	#42336c	Unknown
+PN12RG.vae.2658	#42336c	Unknown
+PN1RB.vae.52481	#42336c	Unknown
+PN4RG.vae.8229	#42336c	Unknown
+PN8RK.bin.77	#42336c	Unknown
+PN16RL.vae.18776	#42336c	Unknown
+PN3CA.vae.16217	#42336c	Unknown
+PN5RD.bin.237	#42336c	Unknown
+PN6RF.vae.7445	#42336c	Unknown
+PN1RD.vae.1958	#42336c	Unknown
+PN3RG.vae.12117	#42336c	Unknown
+PN5RE.bin.3	#42336c	Unknown
+PN12RA.vae.20296	#42336c	Unknown
+PN3CF.vae.69780	#42336c	Unknown
+PN14RT.vae.6219	#42336c	Unknown
+PN10RJ.vae.76460	#42336c	Unknown
+PN8RD.vae.29469	#42336c	Unknown
+PN1RF.bin.116	#42336c	Unknown
+PN16RT.bin.87	#42336c	Unknown
+PN1RJ.vae.111196	#42336c	Unknown
+PN2RA.vae.10556	#42336c	Unknown
+PN1RK.vae.1860	#42336c	Unknown
+PN7RL.vae.4445	#42336c	Unknown
+PN14RH.vae.60503	#42336c	Unknown
+PN1RC.vae.2749	#42336c	Unknown
+PN1RK.vae.14281	#42336c	Unknown
+PN8RH.vae.11584	#42336c	Unknown
+PN2CD.vae.34085	#42336c	Unknown
+PN1RL.vae.2179	#42336c	Unknown
+PN8RO.bin.102	#42336c	Unknown
+PN3RD.bin.147	#42336c	Unknown
+PN5RE.vae.10846	#42336c	Unknown
+PN1RD.bin.137	#42336c	Unknown
+PN5RG.vae.45175	#42336c	Unknown
+PN8RD.vae.5131	#42336c	Unknown
+PN1RL.vae.6615	#42336c	Unknown
+PN1RJ.vae.118362	#42336c	Unknown
+PN1RK.vae.5586	#42336c	Unknown
+PN2RA.vae.19995	#42336c	Unknown
+PN10RL.vae.34513	#42336c	Unknown
+PN10RJ.vae.2376	#42336c	Unknown
+PN3RD.bin.86	#42336c	Unknown
+PN1RC.vae.18163	#42336c	Unknown
+PN1RB.bin.10	#42336c	Unknown
+PN2LB.vae.662	#42336c	Unknown
+PN13RC.bin.134	#42336c	Unknown
+PN10RK.vae.1868	#42336c	Unknown
+PN1RJ.vae.47929	#42336c	Unknown
+PN5RA.vae.48044	#42336c	Unknown
+PN16RE.vae.914	#42336c	Unknown
+PN3LA.bin.24	#42336c	Unknown
+PN11RK.vae.18645	#42336c	Unknown
+PN8RM.bin.213	#42336c	Unknown
+PN13RO.bin.68	#42336c	Unknown
+PN2RI.bin.152	#42336c	Unknown
+PN16RF.bin.17	#42336c	Unknown
+PN1RJ.vae.13990	#42336c	Unknown
+PN7RO.vae.3860	#42336c	Unknown
+PN1RK.bin.71	#42336c	Unknown
+PN11RO.vae.3331	#42336c	Unknown
+PN1RL.vae.2755	#42336c	Unknown
+PN13RE.vae.54876	#42336c	Unknown
+PN2RH.vae.17580	#42336c	Unknown
+PN1RJ.bin.128	#42336c	Unknown
+PN10RN.vae.53878	#42336c	Unknown
+PN1RL.vae.6111	#42336c	Unknown
+PN3RG.vae.2890	#42336c	Unknown
+PN1RD.bin.191	#42336c	Unknown
+PN1RF.vae.40981	#42336c	Unknown
+PN6RF.vae.11272	#42336c	Unknown
+PN1RD.bin.241	#42336c	Unknown
+PN1RL.bin.23	#42336c	Unknown
+PN8RL.vae.41420	#42336c	Unknown
+PN1RD.vae.16364	#42336c	Unknown
+PN4RF.vae.331378	#42336c	Unknown
+PN1CD.vae.23152	#42336c	Unknown
+PN2CG.vae.5780	#42336c	Unknown
+PN16RB.bin.97	#42336c	Unknown
+PN2RH.vae.55125	#42336c	Unknown
+PN10RH.vae.12867	#42336c	Unknown
+PN3RH.bin.65	#42336c	Unknown
+PN1RL.vae.5206	#42336c	Unknown
+PN11RD.vae.13902	#42336c	Unknown
+PN6RM.bin.185	#42336c	Unknown
+PN7RL.vae.747	#42336c	Unknown
+PN11RO.vae.16332	#42336c	Unknown
+PN14RS.vae.43731	#42336c	Unknown
+PN1CJ.vae.15401	#42336c	Unknown
+PN3CA.vae.7838	#42336c	Unknown
+PN1RL.vae.1344	#42336c	Unknown
+PN3RF.vae.24924	#42336c	Unknown
+PN2RA.vae.23678	#42336c	Unknown
+PN3LA.vae.17621	#42336c	Unknown
+PN8RR.vae.4854		Known
+PN5CC.vae.2750		Known
+PN14RJ.vae.2239		Known
+PN3JE.vae.1057		Known
+PN1LI.vae.479		Known
+PN5GE.vae.2810		Known
+PN2GE.vae.8740		Known
+PN1RE.vae.1889		Known
+PN5IA.bin.34		Known
+PN5CB.vae.3104		Known
+PN1LJ.bin.85		Known
+CH25		Known
+PN16RB.bin.208		Known
+PN5CE.vae.10264		Known
+PN3DD.vae.1024		Known
+PN2RF.vae.3973		Known
+PN15RE.vae.931		Known
+PN11RI.bin.137		Known
+PN2JF.bin.1		Known
+PN8RB.bin.204		Known
+PN5IH.vae.665		Known
+PN1RE.vae.2523		Known
+PN8RM.vae.508		Known
+PN14RF.vae.940		Known
+PN2RD.bin.31		Known
+PN6RL.vae.2889		Known
+PN13RS.vae.1267		Known
+PN1IH.bin.5		Known
+PN5JF.vae.4331		Known
+PN3DD.bin.58		Known
+PN2LD.bin.87		Known
+PN5JC.vae.770		Known
+PN2LB.bin.141		Known
+PN3GH.vae.3016		Known
+PN3JH.vae.2382		Known
+PN8RK.bin.49		Known
+PN9RQ.bin.10		Known
+PN7RL.bin.146		Known
+J1119		Known
+PN15RG.bin.84		Known
+PN14RC.vae.335		Known
+J1114		Known
+PN7RR.bin.15		Known
+PN1CL.vae.19985		Known
+PN1CD.bin.159		Known
+PN11RI.bin.209		Known
+PN7RE.vae.3268		Known
+PN3GH.vae.1435		Known
+PN10RA.vae.5622		Known
+PN15RJ.vae.2033		Known
+PN14RF.bin.142		Known
+PN15RO.bin.125		Known
+PN15RF.bin.57		Known
+PN10RF.vae.2611		Known
+PN14RM.vae.1728		Known
+PN5LD.vae.1556		Known
+PN1RL.vae.2409		Known
+PN8RG.bin.115		Known
+PN7RP.vae.6421		Known
+PN12RD.bin.15		Known
+PN13RH.bin.85		Known
+PN1CJ.bin.101		Known
+PN5JD.vae.18303		Known
+PN5GB.bin.6		Known
+PN5CG.bin.170		Known
+PN3RB.bin.117		Known
+PN8RK.vae.257		Known
+PN9RB.bin.190		Known
+PN1DK.vae.35022		Known
+PN10RE.bin.81		Known
+PN13RC.vae.10903		Known
+PN16RM.bin.54		Known
+PN1RB.bin.120		Known
+PN11RO.vae.2047		Known
+PN1CE.bin.18		Known
+PN10RS.vae.1153		Known
+PN5RF.vae.4017		Known
+PN5CE.vae.3389		Known
+PN3DF.bin.18		Known
+PN1RH.vae.13216		Known
+PN3LE.bin.107		Known
+PN3GG.vae.8518		Known
+PN10RP.bin.154		Known
+J474		Known
+PN9RK.vae.11445		Known
+PN10RO.vae.5995		Known
+PN16RF.vae.14450		Known
+PN1RE.vae.534		Known
+PN13RP.vae.1205		Known
+PN3GE.bin.19		Known
+PN1GJ.bin.90		Known
+PN9RC.bin.106		Known
+PN5GG.vae.6559		Known
+PN13RH.bin.146		Known
+J1395		Known
+PN8RJ.bin.67		Known
+PN4RB.vae.22037		Known
+PN1IE.vae.26367		Known
+PN7RM.bin.119		Known
+PN5RB.vae.19792		Known
+PN5LG.vae.3825		Known
+PN10RH.vae.2465		Known
+PN14RA.bin.96		Known
+PN7RG.vae.71998		Known
+PN3CG.bin.91		Known
+PN14RO.vae.77412		Known
+PN2CI.vae.2677		Known
+PN13RM.bin.113		Known
+PN3RG.bin.91		Known
+PN3LA.vae.8234		Known
+PN5RC.vae.4441		Known
+PN5RC.vae.225		Known
+PN16RI.vae.23793		Known
+PN8RM.bin.200		Known
+PN12RH.vae.10178		Known
+PN5RE.bin.153		Known
+PN11RK.bin.56		Known
+PN1GD.bin.41		Known
+PN9RJ.vae.3902		Known
+PN5CB.bin.82		Known
+PN1CH.bin.15		Known
+PN9RI.vae.1292		Known
+PN5RA.vae.6005		Known
+G47		Known
+PN1RL.vae.41703		Known
+PN10RD.bin.112		Known
+PN10RD.vae.2040		Known
+PN8RD.vae.2221		Known
+PN5LF.bin.176		Known
+PN5RA.vae.11471		Known
+PN3GG.vae.9536		Known
+PN12RI.vae.889		Known
+PN5RG.vae.1012		Known
+PN1CF.bin.53		Known
+PN3JA.bin.5		Known
+PN4RE.bin.176		Known
+PN5GD.vae.1241		Known
+PN13RC.vae.146874		Known
+PN7RT.vae.1040		Known
+PN7RN.bin.141		Known
+PN9RN.bin.124		Known
+PN14RA.vae.900		Known
+PN5GE.bin.22		Known
+PN3GA.bin.14		Known
+PN11RC.bin.104		Known
+PN7RJ.bin.115		Known
+PN5LG.vae.9777		Known
+PN16RD.bin.34		Known
+PN13RO.vae.51403		Known
+PN5CB.bin.135		Known
+PN8RB.bin.150		Known
+PN2LC.vae.53418		Known
+PN14RH.bin.183		Known
+PN2LH.bin.64		Known
+PN9RM.bin.130		Known
+PN3RD.vae.4706		Known
+PN8RD.vae.3381		Known
+PN6RQ.vae.3619		Known
+PN16RJ.bin.135		Known
+PN11RE.vae.3978		Known
+PN2GC.bin.3		Known
+PN14RA.vae.434		Known
+PN7RA.bin.98		Known
+PN5RB.vae.5788		Known
+PN9RQ.vae.2786		Known
+PN15RA.bin.9		Known
+PN8RJ.vae.7960		Known
+PN9RH.vae.1796		Known
+PN10RF.vae.12877		Known
+PN7RQ.bin.202		Known
+PN6RL.vae.1633		Known
+PN8RC.vae.6474		Known
+PN14RB.vae.26740		Known
+PN15RO.vae.261		Known
+PN13RT.vae.934		Known
+PN8RE.vae.48285		Known
+PN5LE.vae.7329		Known
+PN8RB.vae.19883		Known
+PN14RE.vae.18168		Known
+PN7RO.vae.364		Known
+PN8RF.bin.54		Known
+PN15RA.bin.108		Known
+CH8		Known
+PN8RL.vae.6450		Known
+PN1RJ.vae.3602		Known
+PN9RP.vae.118		Known
+PN5RH.vae.4409		Known
+PN13RA.bin.104		Known
+PN11RM.vae.35089		Known
+PN10RO.vae.1355		Known
+PN5RD.bin.57		Known
+PN16RO.vae.3839		Known
+PN3RD.bin.138		Known
+PN13RQ.vae.9350		Known
+PN10RL.bin.182		Known
+PN1RL.vae.3552		Known
+PN13RP.bin.232		Known
+PN6RE.vae.18336		Known
+PN14RQ.vae.4682		Known
+PN11RI.vae.576		Known
+PN5LF.bin.11		Known
+PN12RB.bin.110		Known
+PN5CF.vae.42018		Known
+PN5GA.vae.2156		Known
+PN15RC.vae.11312		Known
+PN16RJ.vae.645		Known
+PN1JA.bin.12		Known
+PN6RI.bin.183		Known
+PN6RG.bin.120		Known
+PN2LB.vae.1136		Known
+PN1GL.bin.46		Known
+PN2LD.bin.130		Known
+PN12RH.vae.2345		Known
+PN8RE.bin.116		Known
+PN5JD.bin.61		Known
+PN1RC.vae.604		Known
+PN11RA.bin.182		Known
+PN1RE.vae.1621		Known
+PN14RK.vae.3709		Known
+PN6RS.vae.155494		Known
+PN10RF.vae.12158		Known
+K67		Known
+PN3JH.bin.22		Known
+PN2CE.vae.27783		Known
+PN5RC.vae.12731		Known
+PN5RH.vae.1187		Known
+PN1RK.bin.254		Known
+PN5RE.bin.328		Known
+PN11RK.bin.123		Known
+PN1GB.vae.867		Known
+PN5RA.bin.273		Known
+PN9RD.vae.1750		Known
+PN2GJ.vae.6147		Known
+PN3GA.bin.52		Known
+PN6RC.bin.65		Known
+PN11RI.vae.288		Known
+PN16RK.vae.36348		Known
+PN11RF.vae.28473		Known
+PN14RA.vae.10105		Known
+PN16RJ.vae.2002		Known
+PN10RP.vae.19791		Known
+PN2CG.vae.3032		Known
+PN5LE.bin.190		Known
+PN1RE.bin.124		Known
+PN13RE.vae.2213		Known
+PN5JG.vae.4500		Known
+PN5LF.vae.19924		Known
+PN1GD.bin.25		Known
+PN12RJ.vae.164162		Known
+PN14RL.bin.170		Known
+PN5RA.bin.104		Known
+PN1RG.bin.35		Known
+PN5IB.vae.5283		Known
+PN9RH.vae.9560		Known
+PN14RM.bin.95		Known
+PN8RC.bin.14		Known
+PN7RT.vae.8749		Known
+PN13RH.vae.18563		Known
+PN5IB.vae.2209		Known
+PN5LE.bin.48		Known
+PN3JG.bin.11		Known
+PN15RP.vae.1355		Known
+PN5RB.bin.174		Known
+PN5LE.vae.5041		Known
+PN5CA.vae.9885		Known
+PN16RI.bin.154		Known
+PN5CE.vae.6158		Known
+PN2LB.bin.114		Known
+PN13RP.bin.76		Known
+PN8RA.vae.3959		Known
+X28a		Known
+PN13RK.vae.1409		Known
+PN7RG.bin.178		Known
+PN10RE.vae.1614		Known
+PN6RO.vae.20214		Known
+PN15RK.bin.100		Known
+PN13RB.vae.3958		Known
+PN1GH.vae.83207		Known
+PN5RB.bin.45		Known
+PN12RD.vae.9679		Known
+PN1GI.bin.8		Known
+PN16RP.bin.77		Known
+PN13RC.vae.7082		Known
+PN8RR.bin.203		Known
+PN2LB.vae.2767		Known
+PN5RC.vae.8363		Known
+PN7RV.bin.107		Known
+PN7RI.vae.5574		Known
+PN12RD.vae.6216		Known
+PN14RI.vae.60161		Known
+PN13RC.vae.14047		Known
+PN15RH.bin.46		Known
+PN8RL.vae.33528		Known
+PN1IB.vae.15256		Known
+PN8RO.bin.5		Known
+PN1LF.bin.6		Known
+PN7RD.vae.4156		Known
+PN11RG.vae.20532		Known
+PN7RN.vae.96553		Known
+PN6RC.vae.10670		Known
+PN5CA.vae.9799		Known
+PN14RT.vae.1935		Known
+PN15RI.bin.107		Known
+PN11RG.vae.37198		Known
+PN8RL.vae.14373		Known
+PN6RM.vae.14177		Known
+PN5RC.bin.202		Known
+PN11RL.bin.107		Known
+PN15RG.bin.130		Known
+PN7RG.vae.7305		Known
+PN5RD.vae.11977		Known
+PN2CB.bin.101		Known
+PN8RJ.bin.77		Known
+PN3GD.bin.33		Known
+PN2RH.vae.55240		Known
+PN5CE.vae.12156		Known
+PN3GB.vae.7714		Known
+PN9RC.vae.5449		Known
+PN15RA.vae.12433		Known
+PN7RM.vae.2197		Known
+PN11RE.vae.12187		Known
+PN7RR.vae.10652		Known
+PN11RD.bin.137		Known
+PN5JD.vae.8928		Known
+PN7RN.vae.8215		Known
+PN5RE.vae.7350		Known
+PN11RB.bin.172		Known
+PN16RP.bin.78		Known
+PN1GH.vae.23475		Known
+PN15RM.bin.29		Known
+PN5CG.vae.5625		Known
+PN5RC.vae.11842		Known
+PN3LE.vae.2705		Known
+PN8RD.bin.209		Known
+PN5RE.vae.85259		Known
+PN1JG.vae.13389		Known
+PN1LE.vae.465		Known
+PN7RQ.vae.1990		Known
+PN12RC.vae.3991		Known
+PN10RC.vae.518		Known
+PN4RF.bin.57		Known
+PN9RM.bin.196		Known
+PN10RH.bin.3		Known
+PN8RE.vae.94814		Known
+PN5LG.bin.35		Known
+PN3CH.vae.2305		Known
+PN1GF.vae.19345		Known
+PN3JF.vae.16046		Known
+PN13RK.vae.22689		Known
+PN2CB.bin.112		Known
+PN8RM.vae.3080		Known
+PN5GF.bin.69		Known
+PN15RC.vae.9046		Known
+PN5RD.vae.13310		Known
+PN6RQ.vae.45334		Known
+PN3RB.vae.7224		Known
+PN15RJ.vae.8082		Known
+PN7RT.bin.186		Known
+PN13RG.bin.11		Known
+PN13RI.vae.4836		Known
+PN9RN.vae.8861		Known
+PN3GD.vae.24199		Known
+PN8RE.vae.2402		Known
+PN8RE.vae.5104		Known
+PN13RF.bin.5		Known
+PN6RF.vae.32939		Known
+PN5LE.vae.14281		Known
+PN14RJ.bin.84		Known
+PN16RF.bin.22		Known
+PN14RN.vae.373		Known
+PN5LE.vae.12265		Known
+PN5RD.vae.38703		Known
+PN5IB.vae.1127		Known
+PN15RM.vae.10032		Known
+PN13RB.bin.67		Known
+PN11RF.vae.43843		Known
+PN10RN.vae.20273		Known
+PN16RD.vae.1180		Known
+PN9RG.vae.6345		Known
+PN8RM.vae.3300		Known
+PN11RG.bin.31		Known
+PN12RA.vae.8317		Known
+PN16RI.vae.59225		Known
+PN1GJ.bin.56		Known
+PN13RA.bin.191		Known
+PN11RL.vae.9447		Known
+PN2LH.bin.73		Known
+PN14RK.vae.4906		Known
+PN5JD.vae.18609		Known
+PN13RE.vae.2571		Known
+PN13RO.vae.45168		Known
+PN5LD.vae.12589		Known
+PN11RF.vae.5164		Known
+PN10RE.vae.35066		Known
+PN12RH.bin.61		Known
+PN5LA.bin.224		Known
+PN6RE.vae.2948		Known
+PN11RF.bin.105		Known
+PN1GG.vae.29493		Known
+PN5CF.vae.2490		Known
+PN1CI.vae.4555		Known
+PN6RS.bin.20		Known
+PN12RB.vae.10809		Known
+PN9RH.vae.2191		Known
+PN16RM.bin.176		Known
+J458		Known
+PN1GD.bin.19		Known
+PN5RF.bin.177		Known
+PN5GA.vae.7976		Known
+PN15RN.vae.1625		Known
+PN3RA.vae.55291		Known
+PN3DF.bin.15		Known
+PN8RC.vae.1634		Known
+PN7RG.vae.32444		Known
+PN7RJ.vae.4665		Known
+PN16RH.bin.16		Known
+PN2LE.vae.27167		Known
+PN11RM.vae.652		Known
+PN5RC.bin.237		Known
+PN13RT.vae.9075		Known
+PN1LL.vae.7969		Known
+PN10RI.bin.149		Known
+PN8RF.vae.9958		Known
+PN3RA.vae.519		Known
+PN8RE.vae.10101		Known
+PN3LG.bin.72		Known
+PN2LG.bin.121		Known
+PN5GH.vae.19480		Known
+PN5LD.bin.59		Known
+PN5RB.bin.46		Known
+PN6RO.vae.45512		Known
+PN3JH.bin.35		Known
+PN6RE.bin.46		Known
+PN10RJ.vae.349		Known
+PN8RG.vae.33505		Known
+PN15RO.bin.174		Known
+PN3RB.bin.162		Known
+PN6RG.vae.12596		Known
+PN5LC.vae.8673		Known
+PN6RO.bin.188		Known
+PN9RK.bin.7		Known
+PN16RF.bin.140		Known
+PN10RM.vae.47156		Known
+PN12RC.vae.13629		Known
+PN7RM.vae.11329		Known
+PN7RM.vae.11221		Known
+PN11RA.vae.1033		Known
+PN3LB.vae.30663		Known
+PN7RF.vae.31801		Known
+PN5JB.vae.7699		Known
+PN16RN.bin.23		Known
+PN10RG.vae.8672		Known
+PN2LA.bin.124		Known
+PN8RS.vae.2523		Known
+PN16RL.bin.82		Known
+PN5RB.vae.20576		Known
+PN10RH.vae.45902		Known
+PN16RV.vae.4628		Known
+PN8RB.vae.24384		Known
+PN2LD.vae.8668		Known
+PN7RQ.vae.4036		Known
+PN2CI.vae.879		Known
+PN10RA.bin.28		Known
+PN6RE.vae.9055		Known
+PN3RB.vae.134867		Known
+PN1GE.bin.83		Known
+PN12RE.bin.72		Known
+PN9RF.vae.4481		Known
+PN11RA.bin.14		Known
+PN5RA.vae.29304		Known
+PN5IA.bin.33		Known
+PN3GA.bin.54		Known
+PN15RB.bin.121		Known
+PN9RE.vae.43533		Known
+PN5RB.vae.17155		Known
+PN1RA.bin.272		Known
+PN11RK.vae.3461		Known
+PN3CA.vae.9529		Known
+PN13RO.bin.213		Known
+PN13RR.vae.45074		Known
+PN1GF.bin.3		Known
+PN8RL.bin.151		Known
+PN8RI.vae.10854		Known
+PN13RE.bin.160		Known
+PN5IE.bin.2		Known
+PN1LH.vae.121437		Known
+PN14RD.vae.79669		Known
+PN9RB.bin.189		Known
+PN11RK.vae.25272		Known
+PN14RF.vae.4766		Known
+PN1RC.vae.39584		Known
+PN2LA.bin.64		Known
+PN1CJ.bin.98		Known
+PN3GB.bin.48		Known
+PN9RB.vae.9726		Known
+PN12RD.bin.73		Known
+PN6RS.bin.102		Known
+PN5RF.bin.235		Known
+PN5RD.vae.22719		Known
+PN1CH.vae.1558		Known
+PN6RI.vae.25890		Known
+PN13RE.vae.10287		Known
+PN5RH.vae.7584		Known
+PN5LE.vae.18766		Known
+PN11RN.vae.1026		Known
+PN1CB.vae.2581		Known
+PN15RI.vae.1573		Known
+PN7RL.bin.56		Known
+PN3DD.bin.63		Known
+PN3DG.bin.28		Known
+PN8RQ.bin.57		Known
+PN9RJ.vae.3537		Known
+PN1JH.bin.31		Known
+PN15RE.bin.40		Known
+PN5RE.bin.323		Known
+PN8RL.vae.23547		Known
+PN1CI.vae.12654		Known
+PN2RA.bin.16		Known
+PN6RQ.bin.177		Known
+PN12RF.bin.98		Known
+PN15RK.vae.36225		Known
+PN8RS.vae.2551		Known
+PN8RJ.bin.163		Known
+PN5LB.vae.12257		Known
+PN3CH.vae.58057		Known
+PN7RU.vae.57803		Known
+PN15RC.bin.96		Known
+PN11RO.bin.158		Known
+PN14RO.vae.1320		Known
+PN10RL.vae.5506		Known
+PN14RQ.bin.92		Known
+PN3JG.bin.28		Known
+PN1DJ.bin.33		Known
+PN13RT.bin.80		Known
+PN5LE.bin.216		Known
+PN14RM.vae.22903		Known
+PN5LH.bin.17		Known
+PN12RG.vae.7281		Known
+PN14RO.vae.7348		Known
+PN5RE.bin.306		Known
+PN5RE.vae.29715		Known
+PN13RJ.bin.74		Known
+PN2RA.bin.118		Known
+PN3CH.vae.25040		Known
+PN7RQ.bin.93		Known
+PN3RF.vae.24060		Known
+PN6RO.bin.136		Known
+PN10RP.vae.18017		Known
+PN15RO.vae.4522		Known
+PN13RL.vae.22407		Known
+PN5IH.vae.2688		Known
+PN14RT.bin.36		Known
+PN3CD.bin.116		Known
+PN5RA.vae.14566		Known
+PN5RB.bin.120		Known
+PN5RC.vae.56164		Known
+PN7RV.vae.8510		Known
+PN15RA.bin.17		Known
+PN15RI.vae.3071		Known
+PN5RC.bin.169		Known
+PN6RN.vae.7756		Known
+PN3CH.bin.113		Known
+PN5GG.bin.34		Known
+PN3CH.vae.19501		Known
+PN3RE.vae.13270		Known
+PN6RS.bin.39		Known
+PN3RB.bin.55		Known
+PN10RL.vae.771		Known
+PN1LI.vae.9957		Known
+PN3LB.bin.76		Known
+PN1GB.bin.37		Known
+PN5RG.vae.33178		Known
+PN8RR.vae.515		Known
+PN16RB.bin.91		Known
+PN16RT.bin.84		Known
+PN2LF.bin.36		Known
+PN1GG.vae.28871		Known
+PN5LG.vae.5964		Known
+PN2GE.bin.34		Known
+PN15RJ.bin.110		Known
+PN3GA.bin.55		Known
+PN14RR.vae.23829		Known
+PN9RP.bin.88		Known
+PN14RN.bin.172		Known
+PN7RB.bin.94		Known
+PN3GD.bin.22		Known
+PN9RA.bin.136		Known
+PN5JH.bin.28		Known
+PN7RO.bin.74		Known
+PN15RL.bin.150		Known
+PN5CF.vae.63495		Known
+PN9RI.vae.69848		Known
+PN3LD.vae.17632		Known
+PN5IH.vae.7468		Known
+PN16RC.vae.2245		Known
+PN6RH.bin.111		Known
+PN8RD.bin.64		Known
+PN3JG.bin.78		Known
+PN15RN.vae.4908		Known
+PN1RD.bin.267		Known
+PN15RA.vae.5033		Known
+PN2CJ.vae.7280		Known
+PN14RG.bin.125		Known
+PN9RG.bin.55		Known
+PN5RC.vae.30971		Known
+PN2CC.bin.133		Known
+PN5RF.vae.140329		Known
+PN5LH.vae.17356		Known
+PN5CF.bin.10		Known
+PN10RD.vae.8840		Known
+PN5LF.vae.24624		Known
+PN5RD.bin.132		Known
+PN1RH.vae.26417		Known
+PN9RI.vae.17238		Known
+PN12RH.bin.30		Known
+PN8RS.vae.9894		Known
+PN11RO.bin.161		Known
+PN5CA.bin.135		Known
+PN2RH.vae.43779		Known
+PN1RI.vae.25899		Known
+PN1CC.bin.18		Known
+PN3GD.vae.11167		Known
+PN5CF.vae.13160		Known
+PN5RA.bin.5		Known
+PN6RP.vae.54421		Known
+PN5RH.vae.15485		Known
+PN7RE.bin.131		Known
+PN9RO.vae.4921		Known
+PN1LF.vae.9401		Known
+PN16RT.bin.187		Known
+PN1RC.vae.62660		Known
+PN10RB.vae.90602		Known
+PN6RF.bin.151		Known
+PN10RH.vae.91881		Known
+PN6RT.vae.6506		Known
+PN14RC.bin.219		Known
+PN7RR.vae.10001		Known
+PN5LA.bin.181		Known
+K273		Known
+PN9RK.vae.4841		Known
+PN5CD.bin.62		Known
+PN5GF.vae.5113		Known
+PN7RD.bin.169		Known
+PN5LD.bin.2		Known
+PN6RH.bin.131		Known
+PN14RA.bin.117		Known
+PN3LA.bin.70		Known
+PN5RF.vae.2840		Known
+PN1GG.vae.9172		Known
+PN11RD.vae.10428		Known
+PN16RA.bin.116		Known
+PN16RC.bin.16		Known
+PN1GJ.bin.91		Known
+PN10RB.bin.92		Known
+PN1CD.vae.41772		Known
+PN8RC.bin.88		Known
+PN10RJ.bin.144		Known
+PN9RN.bin.23		Known
+PN5RB.vae.46801		Known
+PN15RK.bin.111		Known
+PN3GD.bin.28		Known
+PN10RM.vae.1005		Known
+PN5LA.bin.172		Known
+PN8RA.vae.23359		Known
+PN3GB.vae.4040		Known
+PN16RD.bin.42		Known
+PN5LA.vae.7976		Known
+PN3LF.bin.44		Known
+PN9RK.vae.13598		Known
+PN13RN.vae.1268		Known
+PN13RI.vae.5943		Known
+PN13RL.bin.151		Known
+J183		Known
+PN7RS.vae.865		Known
+PN11RG.bin.126		Known
+PN9RM.vae.5103		Known
+PN12RJ.vae.32321		Known
+PN5LB.vae.1504		Known
+PN10RI.vae.10777		Known
+PN4RE.vae.4629		Known
+PN10RH.vae.44457		Known
+PN14RK.vae.5901		Known
+PN13RB.vae.27210		Known
+PN3JA.vae.29559		Known
+PN11RL.bin.2		Known
+PN3LD.vae.14085		Known
+PN14RT.vae.40680		Known
+PN8RE.bin.60		Known
+PN4RE.vae.3744		Known
+PN5RC.bin.153		Known
+PN5LF.vae.11880		Known
+PN1GC.vae.2069		Known
+PN11RJ.vae.75920		Known
+PN5RC.vae.7632		Known
+PN15RO.bin.135		Known
+PN13RC.vae.87658		Known
+PN5RB.bin.251		Known
+PN2RH.vae.6302		Known
+PN6RT.bin.92		Known
+PN6RC.vae.9743		Known
+PN16RF.vae.19064		Known
+PN1CA.bin.54		Known
+PN3RF.vae.42242		Known
+PN3CE.bin.4		Known
+PN7RQ.vae.3348		Known
+PN6RC.vae.1485		Known
+PN2RJ.vae.1482		Known
+PN1GG.bin.17		Known
+PN3CB.bin.38		Known
+PN5CG.vae.35720		Known
+PN13RL.bin.167		Known
+PN14RM.vae.30501		Known
+PN1RF.vae.10247		Known
+PN5LB.bin.158		Known
+PN15RL.bin.99		Known
+PN5RF.vae.5024		Known
+PN3GG.bin.14		Known
+PN15RE.vae.874		Known
+PN6RF.vae.7774		Known
+PN1RC.bin.180		Known
+PN1GE.bin.59		Known
+PN8RP.vae.5283		Known
+PN8RR.vae.25642		Known
+PN6RQ.bin.108		Known
+PN15RK.bin.76		Known
+PN6RJ.vae.1630		Known
+PN10RI.bin.119		Known
+PN3JA.bin.13		Known
+PN8RS.vae.3301		Known
+PN8RR.vae.15059		Known
+PN6RL.vae.35006		Known
+PN5RC.bin.165		Known
+PN2JC.bin.19		Known
+PN6RS.vae.6788		Known
+PN6RI.vae.32989		Known
+PN3GD.bin.73		Known
+PN3JG.bin.5		Known
+PN8RP.vae.26156		Known
+PN11RH.vae.51299		Known
+PN5CG.bin.265		Known
+PN3GB.bin.41		Known
+PN12RH.vae.13126		Known
+PN14RH.vae.6914		Known
+PN15RM.bin.13		Known
+PN2RJ.bin.67		Known
+PN1CD.bin.8		Known
+PN16RF.bin.12		Known
+PN3DF.vae.9493		Known
+PN2CH.bin.32		Known
+PN15RD.vae.14904		Known
+PN10RM.bin.150		Known
+PN12RJ.vae.37198		Known
+PN5LF.vae.16661		Known
+PN3GH.vae.448		Known
+PN11RL.bin.98		Known
+PN14RP.vae.4818		Known
+PN1RH.vae.18292		Known
+PN8RI.vae.5552		Known
+PN14RO.bin.60		Known
+PN11RK.bin.197		Known
+PN3DD.bin.69		Known
+PN11RA.vae.19652		Known
+PN9RM.vae.4333		Known
+PN16RO.vae.4631		Known
+PN8RB.bin.4		Known
+PN5LD.vae.12064		Known
+PN3DG.bin.56		Known
+PN3RF.bin.170		Known
+PN1JG.vae.32237		Known
+PN1IB.bin.20		Known
+PN14RI.bin.219		Known
+PN11RB.bin.80		Known
+PN12RI.vae.26997		Known
+PN1GG.bin.16		Known
+PN16RV.bin.55		Known
+PN14RN.bin.156		Known
+PN14RI.vae.2183		Known
+PN14RP.vae.13516		Known
+PN3DG.bin.6		Known
+PN3CG.bin.67		Known
+PN16RK.vae.18101		Known
+PN13RQ.bin.59		Known
+PN2RE.bin.29		Known
+PN14RQ.bin.75		Known
+PN13RP.vae.12446		Known
+PN8RK.vae.11923		Known
+PN13RT.vae.344		Known
+PN14RP.bin.7		Known
+PN13RD.vae.9407		Known
+PN5RA.vae.111528		Known
+PN10RD.vae.147424		Known
+PN1GJ.bin.9		Known
+PN10RR.bin.138		Known
+PN11RO.bin.20		Known
+PN9RJ.bin.167		Known
+PN16RE.bin.65		Known
+PN10RO.vae.58256		Known
+PN5RC.vae.89543		Known
+PN5RB.vae.3219		Known
+PN3GA.vae.9523		Known
+PN5CC.vae.7322		Known
+PN8RO.vae.2239		Known
+PN5RF.vae.40744		Known
+PN2CB.vae.22637		Known
+PN8RE.vae.56070		Known
+PN2CB.bin.32		Known
+PN6RG.bin.102		Known
+PN13RD.vae.8686		Known
+PN15RI.vae.24372		Known
+PN1CJ.vae.2310		Known
+PN15RN.vae.12625		Known
+PN5CG.bin.154		Known
+PN2JC.vae.28754		Known
+PN7RH.vae.56080		Known
+PN3GB.bin.49		Known
+PN8RN.vae.7261		Known
+PN10RI.vae.2857		Known
+PN1GH.vae.74038		Known
+PN8RH.vae.18486		Known
+PN7RP.vae.23470		Known
+PN16RQ.bin.36		Known
+PN13RK.bin.162		Known
+PN5CB.vae.21197		Known
+PN1RH.vae.1109		Known
+PN16RA.vae.68150		Known
+PN11RO.bin.34		Known
+PN13RG.bin.74		Known
+PN16RC.vae.6676		Known
+PN13RC.vae.14812		Known
+PN9RP.bin.129		Known
+PN5GH.vae.5575		Known
+PN12RG.bin.23		Known
+PN1GK.bin.36		Known
+PN6RN.vae.16850		Known
+PN9RB.vae.27512		Known
+PN3CG.bin.161		Known
+PN7RD.bin.182		Known
+PN4RE.bin.172		Known
+PN6RC.vae.14954		Known
+PN5LC.bin.69		Known
+PN9RC.vae.5861		Known
+PN8RG.bin.116		Known
+PN16RK.vae.2142		Known
+PN5RD.bin.64		Known
+PN3RG.vae.13315		Known
+PN5RC.bin.232		Known
+PN7RL.bin.138		Known
+PN13RB.vae.8101		Known
+J276		Known
+PN16RM.bin.115		Known
+PN14RP.bin.100		Known
+PN1RI.bin.31		Known
+PN5GH.vae.14692		Known
+PN5LD.bin.185		Known
+PN15RB.bin.142		Known
+PN4RD.vae.68850		Known
+PN16RQ.bin.87		Known
+PN7RT.vae.15252		Known
+PN5GG.bin.30		Known
+PN3GB.vae.4466		Known
+PN5CA.vae.62899		Known
+PN3RG.vae.18204		Known
+PN1RJ.bin.150		Known
+PN14RB.vae.36677		Known
+PN11RA.bin.146		Known
+PN3GB.bin.4		Known
+PN5LA.vae.17488		Known
+PN3RC.bin.23		Known
+PN2RG.bin.62		Known
+PN8RG.vae.14352		Known
+PN1LJ.bin.3		Known
+PN3CG.vae.9098		Known
+PN1RD.vae.21874		Known
+PN3GF.bin.46		Known
+PN16RI.bin.110		Known
+PN10RA.bin.62		Known
+PN4RA.vae.6383		Known
+PN13RK.vae.10127		Known
+PN8RK.vae.40964		Known
+PN5RA.bin.82		Known
+PN8RR.bin.122		Known
+PN6RR.vae.795		Known
+PN15RK.vae.25406		Known
+PN10RL.vae.8572		Known
+PN5LB.vae.12017		Known
+PN13RJ.bin.202		Known
+PN2CG.bin.148		Known
+PN5RB.vae.6262		Known
+PN3LE.vae.45329		Known
+PN13RK.vae.19292		Known
+PN16RI.bin.38		Known
+PN10RN.bin.182		Known
+PN5RB.bin.166		Known
+PN15RD.vae.17892		Known
+PN9RP.vae.858		Known
+PN2RJ.bin.109		Known
+PN1GJ.vae.17654		Known
+PN11RI.vae.36013		Known
+PN10RL.bin.190		Known
+PN15RI.bin.82		Known
+PN5RE.vae.51329		Known
+PN10RN.vae.63041		Known
+PN1JJ.vae.12846		Known
+PN8RE.vae.28853		Known
+PN14RE.vae.12682		Known
+PN8RB.vae.4988		Known
+PN8RO.vae.220		Known
+PN5RB.vae.38219		Known
+PN14RM.vae.18396		Known
+PN2RB.vae.20406		Known
+PN12RJ.bin.184		Known
+PN5RB.bin.27		Known
+PN8RP.vae.18878		Known
+PN1IB.vae.5971		Known
+PN8RO.vae.13817		Known
+PN2CC.vae.102026		Known
+PN5RH.vae.5657		Known
+PN15RI.vae.45959		Known
+PN5RG.vae.121717		Known
+PN10RH.vae.1640		Known
+PN8RK.vae.51668		Known
+PN16RD.bin.91		Known
+PN5RF.bin.283		Known
+PN3RG.vae.41243		Known
+PN14RO.bin.164		Known
+PN8RR.bin.210		Known
+PN14RQ.vae.3291		Known
+PN5RB.bin.277		Known
+PN11RG.bin.160		Known
+PN5CB.bin.143		Known
+PN1CA.vae.690		Known
+PN2RA.vae.40846		Known
+PN5LE.vae.10689		Known
+PN1GG.bin.46		Known
+PN14RC.bin.72		Known
+PN16RI.vae.20113		Known
+PN6RQ.vae.928		Known
+PN6RC.vae.15743		Known
+PN8RP.vae.11599		Known
+PN13RT.vae.12509		Known
+PN8RG.bin.154		Known
+PN10RG.vae.1394		Known
+PN1RI.vae.42105		Known
+PN9RB.vae.21883		Known
+PN6RK.bin.147		Known
+PN2CE.bin.127		Known
+PN3LD.vae.11983		Known
+PN9RE.bin.207		Known
+PN10RB.bin.129		Known
+PN1RD.vae.35317		Known
+PN5CF.vae.3781		Known
+PN5RF.bin.155		Known
+PN11RD.bin.119		Known
+PN3LB.bin.64		Known
+PN1LJ.vae.98180		Known
+PN5RG.vae.12730		Known
+PN5RD.bin.63		Known
+PN3DG.bin.30		Known
+PN8RH.vae.459		Known
+PN9RE.bin.135		Known
+PN1RC.vae.13658		Known
+PN7RM.vae.3041		Known
+PN5CB.vae.60796		Known
+PN6RF.vae.28618		Known
+PN1RE.vae.5820		Known
+PN3DD.vae.3228		Known
+PN8RL.bin.149		Known
+PN6RQ.bin.7		Known
+J548		Known
+PN5RE.vae.36641		Known
+PN15RF.bin.18		Known
+PN13RN.bin.171		Known
+PN1CC.bin.32		Known
+PN11RA.bin.84		Known
+PN16RR.bin.25		Known
+PN7RJ.vae.3395		Known
+PN10RD.bin.77		Known
+PN3RG.vae.1958		Known
+PN5CC.vae.38378		Known
+PN16RR.vae.38495		Known
+PN10RR.vae.8502		Known
+PN11RE.vae.12252		Known
+PN10RL.bin.92		Known
+PN10RJ.vae.32410		Known
+PN11RK.vae.9311		Known
+PN1GE.bin.16		Known
+PN1RH.vae.11488		Known
+PN10RP.vae.148402		Known
+PN8RF.vae.1780		Known
+PN3LE.vae.8991		Known
+PN13RJ.vae.8247		Known
+PN16RH.vae.5984		Known
+PN5RE.bin.167		Known
+PN11RC.vae.11465		Known
+PN11RO.bin.14		Known
+PN8RD.vae.3160		Known
+PN9RH.vae.1288		Known
+PN1RJ.bin.125		Known
+PN7RK.bin.178		Known
+PN12RF.vae.47732		Known
+PN16RN.vae.33529		Known
+PN5LD.vae.18976		Known
+PN15RN.bin.61		Known
+PN14RQ.bin.45		Known
+PN10RS.vae.3752		Known
+PN5CE.bin.31		Known
+PN9RK.bin.125		Known
+PN1DL.bin.41		Known
+PN7RV.vae.20843		Known
+PN16RC.bin.158		Known
+PN8RQ.bin.99		Known
+PN11RJ.vae.6926		Known
+PN14RF.vae.3391		Known
+PN1RB.vae.23408		Known
+PN5RA.vae.42408		Known
+PN8RO.vae.29805		Known
+PN1RL.vae.10596		Known
+PN15RK.vae.10602		Known
+PN8RP.bin.137		Known
+PN5CB.bin.136		Known
+PN8RQ.vae.11114		Known
+PN10RO.vae.4196		Known
+PN9RK.bin.136		Known
+PN8RA.vae.20328		Known
+PN5RC.vae.8055		Known
+PN14RC.vae.5517		Known
+PN13RE.vae.66355		Known
+PN1CB.vae.17334		Known
+PN15RB.vae.111800		Known
+PN4RE.bin.18		Known
+PN7RO.bin.89		Known
+PN12RE.bin.122		Known
+PN5RD.vae.1108		Known
+PN10RF.bin.114		Known
+PN1RC.vae.8095		Known
+PN5RE.vae.2799		Known
+PN15RA.vae.251		Known
+PN1RJ.vae.73852		Known
+PN7RS.bin.117		Known
+PN8RG.vae.13914		Known
+PN6RC.vae.8122		Known
+PN3DD.bin.1		Known
+PN8RN.vae.13692		Known
+PN16RO.vae.11096		Known
+PN8RI.bin.53		Known
+PN12RA.bin.101		Known
+PN11RG.bin.24		Known
+PN5GG.bin.8		Known
+PN1RH.bin.273		Known
+PN5LC.bin.9		Known
+PN8RS.vae.23672		Known
+PN15RO.vae.27880		Known
+PN3DD.bin.6		Known
+PN3RD.vae.16036		Known
+PN2RF.bin.62		Known
+PN6RF.bin.162		Known
+PN5CB.vae.2975		Known
+PN8RK.bin.94		Known
+PN1JE.bin.63		Known
+PN3DD.vae.16929		Known
+PN8RA.vae.6280		Known
+PN5RC.bin.26		Known
+PN5LG.bin.65		Known
+PN7RD.vae.3897		Known
+PN15RP.vae.37429		Known
+PN5RA.vae.10041		Known
+PN7RP.vae.5844		Known
+PN5GD.bin.53		Known
+PN3RF.vae.54806		Known
+J1047		Known
+PN15RH.bin.74		Known
+PN16RB.bin.6		Known
+PN16RL.bin.52		Known
+PN2LF.bin.35		Known
+PN5LB.vae.1462		Known
+PN1CB.vae.14265		Known
+PN13RF.bin.113		Known
+PN3GH.bin.21		Known
+PN14RQ.bin.102		Known
+PN10RR.bin.26		Known
+PN1RC.bin.153		Known
+PN1JK.vae.5852		Known
+PN1GG.bin.68		Known
+PN1JE.vae.20171		Known
+PN5LF.bin.48		Known
+PN2RJ.vae.9786		Known
+PN3RD.vae.9286		Known
+PN1RB.bin.187		Known
+PN3RE.vae.8651		Known
+PN15RP.bin.42		Known
+PN12RI.bin.136		Known
+PN3LA.bin.183		Known
+PN14RC.vae.6726		Known
+PN3RF.vae.15644		Known
+PN3RF.vae.21076		Known
+PN3GF.vae.7096		Known
+PN5LF.vae.5054		Known
+PN8RF.vae.13850		Known
+PN5JD.vae.7980		Known
+PN5RA.bin.305		Known
+PN2CE.vae.10598		Known
+PN13RR.bin.186		Known
+PN8RR.bin.25		Known
+PN16RA.bin.47		Known
+PN8RS.bin.57		Known
+PN8RJ.bin.112		Known
+PN5RD.vae.11385		Known
+PN14RN.vae.22034		Known
+PN3RA.bin.116		Known
+PN4RA.vae.5061		Known
+PN15RK.bin.7		Known
+PN5RE.vae.7681		Known
+PN5RE.bin.50		Known
+PN5RE.bin.352		Known
+PN9RJ.bin.13		Known
+PN6RC.vae.17722		Known
+PN12RB.bin.61		Known
+PN10RM.bin.143		Known
+PN15RC.vae.27881		Known
+PN7RE.vae.2160		Known
+PN16RG.bin.75		Known
+PN7RN.vae.63066		Known
+PN12RB.bin.160		Known
+PN14RC.bin.108		Known
+PN5RE.vae.103030		Known
+PN1RG.bin.54		Known
+PN8RO.vae.3999		Known
+PN12RG.bin.96		Known
+PN7RO.bin.129		Known
+PN5LB.bin.186		Known
+PN14RK.vae.4602		Known
+PN6RD.bin.26		Known
+PN7RP.vae.39721		Known
+PN3RG.vae.8833		Known
+PN3JG.bin.24		Known
+PN13RO.bin.182		Known
+PN6RF.bin.20		Known
+PN1JH.bin.49		Known
+PN8RP.vae.11809		Known
+PN6RD.vae.921		Known
+PN6RC.vae.4761		Known
+PN10RK.bin.128		Known
+PN4RA.bin.65		Known
+J113		Known
+PN3RB.bin.143		Known
+PN11RK.vae.102815		Known
+PN1RI.vae.68459		Known
+PN1LH.bin.39		Known
+PN5RE.bin.226		Known
+PN15RN.vae.5220		Known
+PN3LC.vae.133304		Known
+PN5RC.vae.23720		Known
+PN5RA.vae.64030		Known
+PN5RA.bin.185		Known
+PN9RJ.vae.4381		Known
+PN5CE.vae.6733		Known
+PN9RK.bin.47		Known
+PN15RH.vae.7595		Known
+PN5RA.vae.16328		Known
+PN13RI.vae.33305		Known
+PN3DG.bin.3		Known
+PN1LD.bin.152		Known
+PN4RE.vae.70140		Known
+PN6RQ.bin.180		Known
+PN15RO.bin.160		Known
+PN16RN.bin.168		Known
+PN13RP.bin.156		Known
+PN5RE.vae.9530		Known
+PN2LJ.bin.46		Known
+PN1LL.vae.6549		Known
+PN9RJ.vae.20216		Known
+PN3CB.vae.31052		Known
+PN8RO.vae.606		Known
+PN11RI.vae.29069		Known
+PN1RA.bin.179		Known
+PN8RQ.bin.136		Known
+PN5LC.vae.9455		Known
+PN5RC.vae.18314		Known
+PN8RJ.bin.20		Known
+PN1JG.bin.8		Known
+PN3RD.bin.202		Known
+PN14RJ.bin.81		Known
+PN15RE.bin.78		Known
+PN10RI.vae.4874		Known
+PN9RJ.bin.67		Known
+PN9RJ.bin.283		Known
+PN15RM.bin.88		Known
+PN1GG.bin.65		Known
+PN8RE.bin.181		Known
+PN5LE.bin.182		Known
+PN8RB.bin.141		Known
+PN16RK.bin.100		Known
+PN5LD.bin.148		Known
+PN5JD.vae.7370		Known
+PN2RF.bin.167		Known
+PN1RD.bin.272		Known
+PN3RG.vae.25122		Known
+PN1RE.vae.44287		Known
+PN9RP.bin.83		Known
+PN3LD.bin.95		Known
+PN13RC.vae.51177		Known
+PN5RF.bin.292		Known
+PN9RJ.vae.56010		Known
+PN5CB.vae.4835		Known
+PN5RH.vae.5611		Known
+PN2CC.bin.88		Known
+PN5RE.vae.35018		Known
+PN14RH.bin.137		Known
+PN16RV.vae.47451		Known
+PN4RE.bin.153		Known
+PN5RF.vae.15887		Known
+PN3RD.vae.23608		Known
+PN6RB.vae.32416		Known
+PN14RH.vae.26987		Known
+PN14RE.bin.96		Known
+PN8RE.vae.10656		Known
+PN15RK.vae.42691		Known
+PN9RJ.vae.40224		Known
+PN9RI.bin.18		Known
+PN8RQ.vae.7064		Known
+PN10RA.vae.10537		Known
+PN3CG.vae.8431		Known
+PN15RK.vae.35103		Known
+PN5RC.vae.11857		Known
+PN1CH.vae.93024		Known
+PN4RH.vae.3046		Known
+PN3LA.vae.19898		Known
+PN15RI.vae.146		Known
+PN7RQ.bin.117		Known
+PN8RE.bin.145		Known
+PN5RE.bin.327		Known
+PN1GE.bin.8		Known
+PN14RQ.bin.234		Known
+PN16RN.bin.26		Known
+PN4RA.vae.6628		Known
+PN1CC.bin.56		Known
+PN1LD.bin.119		Known
+PN7RR.bin.153		Known
+PN9RH.vae.994		Known
+PN10RD.bin.125		Known
+PN16RR.bin.160		Known
+PN14RD.bin.91		Known
+PN1RA.bin.34		Known
+G93		Known
+PN5RG.bin.94		Known
+PN5RF.bin.175		Known
+PN12RI.vae.4991		Known
+PN5RH.bin.185		Known
+PN14RB.bin.6		Known
+PN3CG.bin.112		Known
+PN8RJ.vae.13178		Known
+PN15RB.vae.32111		Known
+PN5RF.bin.6		Known
+PN9RP.vae.4363		Known
+PN14RB.bin.24		Known
+PN15RK.vae.25170		Known
+PN5LF.bin.107		Known
+PN15RE.vae.20316		Known
+PN16RM.bin.170		Known
+PN11RE.bin.178		Known
+PN5LG.vae.5458		Known
+PN16RD.bin.18		Known
+PN9RF.bin.169		Known
+PN15RM.vae.19256		Known
+PN14RO.bin.148		Known
+PN13RB.vae.38664		Known
+PN9RK.vae.3159		Known
+PN4RD.bin.8		Known
+PN2GE.bin.4		Known
+PN1RF.vae.12205		Known
+PN2LG.bin.137		Known
+PN14RD.vae.41410		Known
+PN8RN.vae.34503		Known
+PN4RE.bin.8		Known
+PN2RD.bin.83		Known
+PN1RH.bin.241		Known
+PN5RD.vae.5999		Known
+PN8RS.vae.4675		Known
+PN13RQ.vae.27084		Known
+PN14RC.vae.5403		Known
+PN8RL.vae.16622		Known
+PN3CC.bin.184		Known
+PN6RB.bin.34		Known
+PN13RS.vae.29261		Known
+PN6RL.bin.194		Known
+PN9RJ.bin.163		Known
+PN8RF.vae.11447		Known
+PN14RQ.vae.15046		Known
+PN16RK.vae.20626		Known
+PN14RI.bin.51		Known
+PN11RE.vae.938		Known
+PN3RC.vae.13320		Known
+PN3RB.vae.225		Known
+PN3RE.vae.19185		Known
+PN12RC.bin.33		Known
+PN15RM.vae.8105		Known
+PN16RC.vae.6570		Known
+PN3LF.bin.122		Known
+PN6RI.vae.12555		Known
+PN5LG.bin.252		Known
+PN6RK.bin.86		Known
+PN8RC.bin.160		Known
+PN5JH.vae.53004		Known
+PN5JC.bin.15		Known
+PN2CD.vae.293		Known
+PN5RG.vae.52961		Known
+PN3RB.vae.9685		Known
+PN5RG.bin.24		Known
+PN5RD.vae.15857		Known
+PN2RC.vae.4607		Known
+PN3RE.vae.2473		Known
+PN1RD.vae.55235		Known
+PN5RG.vae.86065		Known
+PN8RP.bin.166		Known
+PN14RN.bin.11		Known
+PN2RE.bin.80		Known
+PN8RC.bin.103		Known
+PN5RB.vae.5444		Known
+PN14RH.bin.16		Known
+PN15RI.vae.35681		Known
+PN15RA.bin.5		Known
+PN14RQ.bin.12		Known
+PN5RC.bin.217		Known
+PN10RP.vae.45483		Known
+PN8RL.bin.124		Known
+PN4RG.vae.489		Known
+PN8RB.vae.24904		Known
+PN9RJ.bin.55		Known
+PN3DG.bin.16		Known
+PN14RQ.vae.76274		Known
+PN11RJ.bin.152		Known
+PN5RE.vae.85444		Known
+PN13RB.vae.2722		Known
+PN10RS.bin.30		Known
+PN8RQ.vae.31281		Known
+PN8RR.bin.86		Known
+PN5IA.vae.7499		Known
+PN12RG.vae.23805		Known
+PN14RJ.bin.222		Known
+PN6RP.bin.105		Known
+PN13RL.vae.49627		Known
+PN8RG.vae.13769		Known
+PN5CG.vae.8912		Known
+PN9RB.bin.80		Known
+CH28		Known
+PN5RC.bin.253		Known
+PN12RJ.vae.27043		Known
+PN13RJ.bin.13		Known
+PN5CC.bin.18		Known
+PN16RN.bin.55		Known
+PN1RE.bin.52		Known
+PN1RJ.vae.25365		Known
+PN8RR.vae.38071		Known
+PN1RD.vae.28968		Known
+PN14RB.bin.73		Known
+PN3RC.bin.158		Known
+PN13RE.bin.187		Known
+PN6RF.vae.16804		Known
+PN12RC.bin.100		Known
+PN5LE.bin.199		Known
+PN8RP.vae.3124		Known
+PN14RH.bin.58		Known
+PN2RA.vae.22141		Known
+PN5CB.bin.130		Known
+PN8RH.vae.10598		Known
+PN1RJ.vae.21767		Known
+PN16RQ.bin.188		Known
+PN1CL.vae.3833		Known
+PN15RH.vae.10913		Known
+PN1RE.bin.183		Known
+PN5RB.vae.20344		Known
+PN5RC.bin.266		Known
+PN7RQ.bin.85		Known
+PN1GC.bin.52		Known
+PN6RD.vae.642		Known
+PN10RO.bin.82		Known
+PN15RI.vae.27551		Known
+PN16RJ.bin.77		Known
+PN1RE.vae.37929		Known
+PN8RQ.bin.48		Known
+PN5RA.vae.2887		Known
+PN16RF.vae.10640		Known
+PN1JE.bin.38		Known
+PN13RS.vae.9334		Known
+PN16RH.bin.4		Known
+PN9RJ.bin.225		Known
+PN5RC.bin.200		Known
+PN1CB.vae.952		Known
+PN5RA.vae.21980		Known
+PN9RE.vae.10692		Known
+PN9RJ.vae.18632		Known
+PN14RH.bin.60		Known
+PN8RS.bin.110		Known
+PN7RE.bin.203		Known
+PN16RQ.vae.57		Known
+PN8RS.vae.10070		Known
+PN3DG.bin.7		Known
+PN10RD.bin.48		Known
+PN8RR.bin.104		Known
+PN15RB.bin.34		Known
+PN1LG.bin.6		Known
+PN10RP.vae.25083		Known
+PN7RQ.bin.196		Known
+PN11RC.bin.20		Known
+PN15RE.vae.16672		Known
+PN1RD.vae.114423		Known
+PN8RG.vae.7562		Known
+PN2RF.vae.40079		Known
+PN16RH.bin.164		Known
+PN5RC.vae.12905		Known
+PN15RD.bin.108		Known
+PN7RA.bin.60		Known
+PN7RK.bin.26		Known
+PN3GD.vae.18336		Known
+PN6RQ.vae.4766		Known
+PN13RJ.bin.33		Known
+PN10RF.vae.23084		Known
+PN6RS.bin.125		Known
+PN3CD.bin.118		Known
+PN5CG.vae.12874		Known
+PN15RF.vae.1636		Known
+PN5RC.vae.13389		Known
+PN4RD.bin.105		Known
+PN11RE.bin.77		Known
+PN8RE.vae.28214		Known
+PN8RC.bin.56		Known
+PN13RH.bin.132		Known
+PN14RE.vae.6049		Known
+PN2GD.bin.7		Known
+PN5LF.bin.68		Known
+PN8RL.vae.20262		Known
+PN5RC.vae.14468		Known
+PN5RF.vae.97247		Known
+PN10RO.bin.11		Known
+PN13RK.vae.955		Known
+PN3RB.bin.156		Known
+PN16RT.bin.39		Known
+PN16RH.bin.109		Known
+PN1RI.vae.10626		Known
+PN16RT.bin.29		Known
+PN6RO.bin.101		Known
+PN1RI.bin.68		Known
+PN1RL.vae.15923		Known
+PN5RA.bin.286		Known
+PN2GD.bin.23		Known
+PN1RC.vae.9991		Known
+PN5RF.vae.36441		Known
+PN11RG.bin.82		Known
+PN13RB.vae.30613		Known
+PN5CE.vae.12919		Known
+PN15RO.bin.41		Known
+PN8RL.bin.132		Known
+PN16RO.bin.124		Known
+PN2CJ.bin.61		Known
+PN8RG.vae.44321		Known
+PN13RR.vae.21849		Known
+PN16RA.vae.1291		Known
+PN3CD.bin.105		Known
+PN13RU.vae.21611		Known
+PN8RQ.bin.134		Known
+PN5RA.bin.316		Known
+PN6RR.vae.7961		Known
+J1391		Known
+PN5RA.bin.203		Known
+PN13RG.vae.55		Known
+PN9RI.vae.17240		Known
+PN1CK.bin.41		Known
+PN8RN.vae.2013		Known
+PN8RC.bin.93		Known
+PN8RR.vae.25205		Known
+PN9RM.bin.62		Known
+PN8RD.vae.12927		Known
+PN5CA.bin.92		Known
+PN14RI.vae.6677		Known
+PN8RF.vae.2424		Known
+PN10RK.bin.90		Known
+PN16RS.vae.13609		Known
+PN8RG.vae.83086		Known
+PN4RD.bin.43		Known
+PN5RC.bin.267		Known
+PN14RQ.bin.173		Known
+PN16RO.vae.2805		Known
+PN14RN.bin.76		Known
+PN3RD.vae.36905		Known
+PN16RU.bin.200		Known
+PN4RE.vae.26706		Known
+PN14RJ.bin.227		Known
+PN5LC.bin.165		Known
+PN1CK.vae.54643		Known
+PN10RE.vae.1538		Known
+PN5LF.vae.16822		Known
+PN1RF.vae.5656		Known
+PN7RL.bin.131		Known
+PN2CF.vae.13437		Known
+PN8RG.bin.196		Known
+PN2IF.bin.18		Known
+PN11RE.bin.164		Known
+PN14RS.vae.7012		Known
+PN5RC.vae.11470		Known
+PN10RL.vae.31784		Known
+PN10RL.bin.49		Known
+PN15RP.bin.18		Known
+PN8RN.vae.33858		Known
+PN8RL.bin.176		Known
+PN16RA.bin.91		Known
+PN1RJ.vae.491		Known
+PN8RF.bin.32		Known
+PN13RG.bin.72		Known
+PN14RD.bin.20		Known
+PN5LG.vae.1874		Known
+PN1RH.vae.24812		Known
+PN8RA.bin.133		Known
+PN8RM.vae.20521		Known
+PN7RG.bin.162		Known
+PN6RE.bin.54		Known
+PN3LD.bin.118		Known
+PN3LG.vae.13907		Known
+PN5RE.bin.134		Known
+PN8RA.vae.11727		Known
+PN5RC.bin.11		Known
+PN5JH.vae.37233		Known
+PN6RA.bin.106		Known
+PN14RD.vae.68413		Known
+PN14RK.vae.7725		Known
+PN7RL.bin.188		Known
+PN13RN.bin.212		Known
+PN2RA.bin.88		Known
+PN14RF.vae.4416		Known
+PN6RH.vae.20397		Known
+PN10RS.vae.51532		Known
+PN7RG.bin.58		Known
+PN1JE.bin.62		Known
+PN8RE.vae.9943		Known
+PN1LJ.vae.24777		Known
+PN5RG.vae.46649		Known
+PN6RI.bin.29		Known
+PN11RE.bin.6		Known
+PN2CF.bin.75		Known
+PN8RR.vae.40753		Known
+PN16RF.bin.122		Known
+PN5RC.vae.32897		Known
+PN15RO.vae.3204		Known
+PN3LD.bin.79		Known
+PN14RM.bin.54		Known
+PN6RM.bin.60		Known
+PN15RI.vae.21787		Known
+PN8RP.bin.82		Known
+PN14RE.bin.125		Known
+PN11RN.vae.8734		Known
+PN8RN.vae.20547		Known
+PN6RC.vae.8102		Known
+PN1RL.bin.135		Known
+PN8RO.vae.1089		Known
+PN5RF.vae.27605		Known
+PN15RA.bin.63		Known
+PN14RP.vae.17677		Known
+PN16RH.vae.4683		Known
+PN14RB.vae.23181		Known
+PN9RK.vae.13713		Known
+PN14RD.bin.137		Known
+PN8RB.vae.15171		Known
+PN8RC.vae.1933		Known
+PN12RC.bin.135		Known
+PN16RU.vae.11056		Known
+PN5LE.bin.54		Known
+PN16RN.bin.50		Known
+PN2RF.vae.45811		Known
+PN5IE.bin.94		Known
+PN15RB.vae.92164		Known
+PN8RN.bin.201		Known
+PN15RH.vae.12504		Known
+PN16RJ.vae.13622		Known
+PN14RP.vae.6884		Known
+PN16RK.vae.35606		Known
+PN4RG.vae.18313		Known
+PN6RR.bin.27		Known
+PN16RS.bin.119		Known
+PN3CF.vae.17940		Known
+PN1LG.vae.20645		Known
+PN15RH.vae.8206		Known
+PN5RH.vae.16198		Known
+PN8RP.bin.108		Known
+PN5RD.vae.5647		Known
+PN6RN.bin.86		Known
+PN1JE.vae.11532		Known
+PN16RS.vae.11417		Known
+J406		Known
+PN1GD.vae.57121		Known
+PN1RH.vae.9410		Known
+PN15RA.vae.545		Known
+PN16RD.vae.7431		Known
+PN4RD.bin.95		Known
+J381		Known
+PN16RM.vae.2026		Known
+PN5LF.bin.37		Known
+PN11RI.bin.98		Known
+PN15RK.vae.9539		Known
+PN8RD.vae.8226		Known
+PN6RT.bin.202		Known
+PN7RO.bin.127		Known
+PN5LF.vae.94903		Known
+PN5CC.vae.50755		Known
+PN1JE.vae.11294		Known
+PN1RE.bin.102		Known
+PN8RJ.vae.25332		Known
+PN8RB.vae.19457		Known
+PN14RT.vae.13757		Known
+PN7RQ.bin.130		Known
+PN5RG.vae.18667		Known
+PN11RD.vae.6557		Known
+PN4RF.vae.1919		Known
+PN1RD.vae.108429		Known
+PN16RT.vae.19994		Known
+PN14RK.bin.5		Known
+PN8RS.bin.124		Known
+PN5RE.vae.37969		Known
+PN9RJ.vae.12821		Known
+PN1RG.bin.76		Known
+G88		Known
+PN2RA.vae.43933		Known
+PN7RO.bin.92		Known
+PN2GE.vae.1862		Known
+PN14RD.vae.1920		Known
+PN5CC.vae.66275		Known
+PN8RC.bin.109		Known
+PN1RL.vae.14434		Known
+PN15RH.vae.11459		Known
+PN6RE.vae.4061		Known
+PN9RI.bin.196		Known
+PN11RE.bin.157		Known
+PN3CA.bin.115		Known
+PN11RO.bin.183		Known
+PN15RO.bin.99		Known
+PN10RC.bin.31		Known
+PN4RG.vae.33620		Known
+PN2RI.bin.76		Known
+PN5CC.bin.127		Known
+PN5RE.vae.25784		Known
+PN12RC.vae.4146		Known
+PN1RE.vae.9908		Known
+PN5LF.bin.80		Known
+PN5RE.bin.64		Known
+PN12RD.bin.155		Known
+PN8RJ.bin.137		Known
+PN7RL.bin.40		Known
+PN5RH.bin.31		Known
+PN16RP.vae.6423		Known
+PN10RS.vae.16799		Known
+PN15RN.bin.35		Known
+PN1JE.bin.5		Known
+PN1LI.bin.63		Known
+PN13RP.bin.174		Known
+PN6RT.vae.19627		Known
+PN2LH.vae.19597		Known
+PN11RJ.bin.205		Known
+J352		Known
+PN16RV.bin.20		Known
+PN5RC.vae.32339		Known
+PN8RP.vae.2970		Known
+PN8RG.bin.183		Known
+PN11RG.bin.118		Known
+PN10RS.vae.919		Known
+PN8RN.vae.27502		Known
+PN9RK.vae.25277		Known
+PN10RA.bin.155		Known
+PN9RJ.vae.34650		Known
+PN15RB.vae.150691		Known
+PN5RG.bin.225		Known
+PN1RA.vae.4918		Known
+PN10RN.vae.10565		Known
+PN10RS.vae.9089		Known
+PN12RA.bin.49		Known
+PN3RA.vae.6278		Known
+PN11RM.bin.146		Known
+K319		Known
+PN16RT.bin.23		Known
+PN8RF.vae.10732		Known
+PN11RI.bin.22		Known
+K260		Known
+CH19		Known
+PN5RE.bin.115		Known
+PN8RK.vae.678		Known
+PN11RN.bin.28		Known
+PN14RQ.bin.207		Known
+CH17		Known
+PN8RL.vae.20741		Known
+PN16RJ.bin.105		Known
+PN13RQ.bin.213		Known
+PN6RJ.vae.2555		Known
+PN4RE.bin.135		Known
+PN11RD.bin.142		Known
+PN1RL.vae.7479		Known
+PN8RD.vae.10067		Known
+PN4RA.vae.33526		Known
+PN13RG.vae.2876		Known
+PN14RC.bin.172		Known
+PN5RE.bin.87		Known
+PN3DD.bin.19		Known
+PN8RG.vae.27456		Known
+PN14RO.vae.12971		Known
+PN2CJ.vae.496		Known
+PN14RO.vae.33693		Known
+PN5CE.vae.15762		Known
+PN3LC.vae.3950		Known
+PN8RH.bin.154		Known
+PN8RO.vae.6799		Known
+PN2GC.bin.4		Known
+PN1RH.vae.39939		Known
+PN13RT.vae.3232		Known
+PN8RL.bin.62		Known
+PN5RF.bin.106		Known
+PN15RC.vae.5660		Known
+PN16RS.bin.57		Known
+PN1RC.vae.41663		Known
+PN2LG.vae.29162		Known
+PN14RJ.vae.28141		Known
+PN14RJ.bin.188		Known
+PN16RJ.bin.59		Known
+PN12RD.vae.10282		Known
+PN15RE.vae.12705		Known
+PN10RK.bin.95		Known
+PN9RJ.vae.15972		Known
+PN5RA.vae.9588		Known
+PN11RE.bin.79		Known
+PN11RA.vae.49668		Known
+PN13RQ.vae.3588		Known
+PN5LE.vae.21455		Known
+PN8RC.bin.167		Known
+PN8RQ.bin.3		Known
+PN1RE.bin.150		Known
+PN1RB.bin.29		Known
+PN7RE.bin.183		Known
+PN8RP.vae.14320		Known
+PN5RG.bin.243		Known
+J1001		Known
+PN15RC.vae.1160		Known
+PN8RD.vae.25827		Known
+PN3LA.vae.490		Known
+PN11RM.bin.89		Known
+PN6RT.bin.128		Known
+PN12RD.vae.5182		Known
+PN5RE.bin.73		Known
+PN1RE.vae.62451		Known
+PN15RB.bin.138		Known
+PN9RJ.vae.14565		Known
+PN8RL.bin.21		Known
+PN8RP.vae.5693		Known
+PN6RS.vae.7833		Known
+PN13RR.bin.66		Known
+PN11RO.bin.126		Known
+PN3RA.bin.93		Known
+PN1RD.vae.19220		Known
+PN15RA.vae.110478		Known
+PN15RE.vae.15126		Known
+PN3LE.vae.4107		Known
+PN5RH.vae.15428		Known
+PN8RR.vae.3898		Known
+PN15RK.vae.50342		Known
+PN16RV.bin.68		Known
+PN14RO.bin.174		Known
+PN8RN.vae.34234		Known
+PN5RD.bin.114		Known
+PN10RE.vae.8331		Known
+PN11RH.bin.22		Known
+PN5RE.bin.151		Known
+PN13RM.bin.14		Known
+PN14RC.vae.13544		Known
+PN3LE.vae.6365		Known
+PN11RJ.vae.38048		Known
+PN3CA.vae.16356		Known
+PN1RD.bin.46		Known
+PN4RH.bin.1		Known
+PN16RL.vae.13976		Known
+PN16RR.bin.66		Known
+PN16RV.bin.123		Known
+PN5RC.vae.6630		Known
+PN12RH.vae.10048		Known
+PN14RI.bin.213		Known
+PN7RQ.vae.28215		Known
+PN4RA.bin.102		Known
+PN9RJ.bin.16		Known
+PN14RO.vae.29326		Known
+PN8RE.bin.167		Known
+PN8RI.vae.26337		Known
+PN1JE.bin.48		Known
+PN5RC.vae.23630		Known
+PN1RJ.bin.83		Known
+PN13RG.bin.50		Known
+PN2JD.bin.39		Known
+PN10RE.vae.4305		Known
+PN15RI.vae.21457		Known
+PN15RO.vae.35996		Known
+PN14RO.vae.2584		Known
+K8		Known
+PN8RJ.bin.149		Known
+PN11RE.bin.91		Known
+PN6RK.bin.140		Known
+PN3CB.vae.36856		Known
+PN16RE.bin.69		Known
+CH35		Known
+PN8RG.vae.5700		Known
+K341		Known
+PN12RJ.vae.121		Known
+PN6RK.bin.30		Known
+PN12RD.bin.160		Known
+PN15RO.vae.13299		Known
+PN13RG.bin.125		Known
+PN7RF.vae.17723		Known
+PN1JE.vae.3648		Known
+PN1RA.vae.49027		Known
+PN2CH.bin.117		Known
+PN13RI.bin.99		Known
+J520		Known
+J417		Known
+PN15RE.bin.134		Known
+PN5RC.vae.10536		Known
+PN15RB.vae.70512		Known
+PN8RJ.vae.37108		Known
+PN11RN.bin.44		Known
+PN8RC.bin.162		Known
+PN11RN.bin.93		Known
+CH13		Known
+PN2GD.bin.21		Known
+PN3GB.bin.40		Known
+J1049		Known
+PN8RD.vae.15389		Known
+PN3RD.bin.176		Known
+PN2RF.vae.32265		Known
+PN16RI.bin.85		Known
+J244		Known
+PN11RE.vae.36472		Known
+PN1RK.vae.19830		Known
+PN6RK.bin.6		Known
+PN7RD.bin.67		Known
+PN14RP.vae.8357		Known
+PN7RG.bin.50		Known
+PN16RH.bin.22		Known
+PN8RP.bin.92		Known
+PN12RE.vae.6990		Known
+PN11RI.bin.151		Known
+PN6RO.bin.150		Known
+PN11RC.vae.26380		Known
+PN1RD.vae.79989		Known
+PN1RA.vae.6313		Known
+PN13RN.bin.97		Known
+PN4RA.vae.9845		Known
+PN8RK.bin.153		Known
+PN4RF.bin.66		Known
+PN10RG.bin.90		Known
+PN6RK.bin.124		Known
+PN8RE.vae.52577		Known
+PN10RL.bin.111		Known
+J433		Known
+PN10RG.vae.7479		Known
+PN10RH.vae.14512		Known
+J885		Known
+J355		Known
+PN6RO.bin.129		Known
+PN8RC.bin.66		Known
+PN3LA.vae.4360		Known
+H52		Known
+CH7		Known
+PN8RK.bin.78		Known
+CH11		Known
+CH40		Known
+H98		Known
+H222		Known
+BL1		Known
+BL4		Known
+CH10		Known
+CH2		Known
+CH3		Known
+CH37		Known
+CH38		Known
+CH39		Known
+CH42		Known
+G59		Known
+G66		Known
+G90		Known
+H100		Known
+H106		Known
+H112		Known
+H124		Known
+H139		Known
+H186		Known
+H19		Known
+H198		Known
+H2		Known
+H31		Known
+H36		Known
+H53		Known
+H64		Known
+H70		Known
+J1005		Known
+J1044		Known
+J1061		Known
+J1071		Known
+J1272		Known
+J131		Known
+J1347		Known
+J1364		Known
+J1365		Known
+J1369		Known
+J1385		Known
+J1394		Known
+J1406		Known
+J146		Known
+J267		Known
+J28		Known
+J343		Known
+J373		Known
+J383		Known
+J387		Known
+J410		Known
+J427		Known
+J900		Known
+J99		Known
+K10		Known
+K21		Known
+K237		Known
+K27		Known
+K297		Known
+K298		Known
+K299		Known
+K320		Known
+K330		Known
+K340		Known
+K72		Known
+R101		Known
+R106		Known
+R216		Known
+R35		Known
+R5		Known
+

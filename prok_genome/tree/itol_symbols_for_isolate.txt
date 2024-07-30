@@ -1,0 +1,168 @@
+DATASET_SYMBOL
+
+# 分隔符
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+# dataset名称
+DATASET_LABEL	symbols
+
+# dataset颜色
+COLOR	#ee2a2a
+
+# symbol类型
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+# 图例属性
+#LEGEND_TITLE	Dataset legend
+#LEGEND_POSITION_X	100
+#LEGEND_POSITION_Y	100
+#LEGEND_HORIZONTAL	0
+#LEGEND_SHAPES	1	2	3
+#LEGEND_COLORS	#ff0000	#00ff00	#0000ff
+#LEGEND_LABELS	value1	value2	value3
+#LEGEND_SHAPE_SCALES	1	1	0.5
+#LEGEND_SHAPE_INVERT	0	0	0
+
+# 图标最大的尺寸，其他会按照比例缩小
+MAXIMUM_SIZE	10
+
+# 过渡色填充
+#GRADIENT_FILL	1
+
+# 数据信息
+# fill是否填充，1填充，0不填充
+# position [0..1] 0是分支开始处，0.5是中间，1是分支的结尾
+
+DATA
+# label, symbol类型, symbol大小|可指定MAXIMUM_SIZE, 颜色, 是否填充, 位置(start branch:0, middle:0.5, end branch:1)
+BL1	2	1	#f0ad80	1	1
+BL4	2	1	#f0ad80	1	1
+CH10	2	1	#c2b75f	1	1
+CH11	2	1	#b4b3d8	1	1
+CH13	2	1	#b4b3d8	1	1
+CH17	2	1	#c2b75f	1	1
+CH18	2	1	#f0ad80	1	1
+CH19	2	1	#f0ad80	1	1
+CH2	2	1	#f0ad80	1	1
+CH25	2	1	#87CCBA	1	1
+CH28	2	1	#f0ad80	1	1
+CH3	2	1	#f0ad80	1	1
+CH35	2	1	#f0ad80	1	1
+CH37	2	1	#87CCBA	1	1
+CH38	2	1	#f0ad80	1	1
+CH39	2	1	#87CCBA	1	1
+CH40	2	1	#87CCBA	1	1
+CH42	2	1	#f0ad80	1	1
+CH7	2	1	#87CCBA	1	1
+CH8	2	1	#b4b3d8	1	1
+G32	2	1	#f0ad80	1	1
+G47	2	1	#f0ad80	1	1
+G59	2	1	#f0ad80	1	1
+G66	2	1	#82ccdc	1	1
+G88	2	1	#f0ad80	1	1
+G90	2	1	#f0ad80	1	1
+G93	2	1	#f0ad80	1	1
+H100	2	1	#f0ad80	1	1
+H106	2	1	#f0ad80	1	1
+H112	2	1	#f0ad80	1	1
+H124	2	1	#c2b75f	1	1
+H139	2	1	#f0ad80	1	1
+H186	2	1	#f0ad80	1	1
+H19	2	1	#f0ad80	1	1
+H198	2	1	#c2b75f	1	1
+H2	2	1	#f0ad80	1	1
+H222	2	1	#c2b75f	1	1
+H31	2	1	#f0ad80	1	1
+H36	2	1	#f0ad80	1	1
+H52	2	1	#f0ad80	1	1
+H53	2	1	#f0ad80	1	1
+H64	2	1	#f0ad80	1	1
+H70	2	1	#f0ad80	1	1
+H98	2	1	#f0ad80	1	1
+J1001	2	1	#f0ad80	1	1
+J1005	2	1	#87CCBA	1	1
+J1034	2	1	#f0ad80	1	1
+J1040	2	1	#f0ad80	1	1
+J1044	2	1	#f0ad80	1	1
+J1045	2	1	#f0ad80	1	1
+J1047	2	1	#f0ad80	1	1
+J1049	2	1	#f0ad80	1	1
+J1061	2	1	#c2b75f	1	1
+J1068	2	1	#82ccdc	1	1
+J1071	2	1	#f0ad80	1	1
+J1114	2	1	#c2b75f	1	1
+J1119	2	1	#f0ad80	1	1
+J113	2	1	#f0ad80	1	1
+J1272	2	1	#f0ad80	1	1
+J131	2	1	#87CCBA	1	1
+J1347	2	1	#f0ad80	1	1
+J1364	2	1	#f0ad80	1	1
+J1365	2	1	#f0ad80	1	1
+J1369	2	1	#f0ad80	1	1
+J1385	2	1	#f0ad80	1	1
+J1391	2	1	#f0ad80	1	1
+J1394	2	1	#87CCBA	1	1
+J1395	2	1	#87CCBA	1	1
+J1406	2	1	#f0ad80	1	1
+J146	2	1	#87CCBA	1	1
+J183	2	1	#f0ad80	1	1
+J244	2	1	#c2b75f	1	1
+J252	2	1	#c2b75f	1	1
+J267	2	1	#87CCBA	1	1
+J276	2	1	#f0ad80	1	1
+J28	2	1	#82ccdc	1	1
+J312	2	1	#f0ad80	1	1
+J343	2	1	#f0ad80	1	1
+J352	2	1	#87CCBA	1	1
+J355	2	1	#f0ad80	1	1
+J373	2	1	#82ccdc	1	1
+J381	2	1	#c2b75f	1	1
+J383	2	1	#d9d9d9	1	1
+J387	2	1	#82ccdc	1	1
+J406	2	1	#f0ad80	1	1
+J410	2	1	#82ccdc	1	1
+J417	2	1	#f0ad80	1	1
+J427	2	1	#f0ad80	1	1
+J433	2	1	#c2b75f	1	1
+J458	2	1	#82ccdc	1	1
+J474	2	1	#c2b75f	1	1
+J520	2	1	#f0ad80	1	1
+J548	2	1	#f0ad80	1	1
+J885	2	1	#b4b3d8	1	1
+J900	2	1	#f0ad80	1	1
+J941	2	1	#82ccdc	1	1
+J99	2	1	#F5EAF2	1	1
+K10	2	1	#ACDEF3	1	1
+K21	2	1	#f0ad80	1	1
+K237	2	1	#87CCBA	1	1
+K260	2	1	#f0ad80	1	1
+K27	2	1	#c2b75f	1	1
+K273	2	1	#f0ad80	1	1
+K297	2	1	#f0ad80	1	1
+K298	2	1	#87CCBA	1	1
+K299	2	1	#f0ad80	1	1
+K319	2	1	#f0ad80	1	1
+K320	2	1	#f0ad80	1	1
+K329	2	1	#f0ad80	1	1
+K330	2	1	#87CCBA	1	1
+K331	2	1	#f0ad80	1	1
+K338	2	1	#f0ad80	1	1
+K340	2	1	#c2b75f	1	1
+K341	2	1	#f0ad80	1	1
+K343	2	1	#87CCBA	1	1
+K67	2	1	#f0ad80	1	1
+K72	2	1	#f0ad80	1	1
+K8	2	1	#f0ad80	1	1
+R101	2	1	#87CCBA	1	1
+R106	2	1	#f0ad80	1	1
+R216	2	1	#c2b75f	1	1
+R35	2	1	#f0ad80	1	1
+R5	2	1	#f0ad80	1	1
+R78	2	1	#f0ad80	1	1
+X28a	2	1	#f0ad80	1	1
